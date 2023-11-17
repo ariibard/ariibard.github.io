@@ -1,0 +1,23 @@
+---
+title: "Sobre mi"
+comments: false
+about:
+  template: trestles
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:arianabardauil@gmail.com
+    - icon: file-pdf
+      text: CV
+      href: https://ariibard.github.io/docs/cv.pdf  
+    - icon: github
+      text: GitHub
+      href: https://github.com/ariibard
+    - icon: linkedin
+      text: linedin
+      href: https://www.linkedin.com/in/ariana-bardauil/  
+---
+
+
+::: {#hero-heading}
+:::

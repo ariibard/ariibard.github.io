@@ -1,0 +1,53 @@
+project:
+  type: website
+
+website:
+  page-navigation: true
+  title: "Ariana Bardauil"
+  page-footer:
+    left: "Portfolio realizado con [Quarto](https://quarto.org/), por Ariana Bardauil"
+    right:
+      - icon: github
+        href: https://github.com/ariibard
+      - icon: linkedin
+        href: https://www.linkedin.com/in/ariana-bardauil/
+      - icon: envelope
+        href: arianabardauil@gmail.com
+  twitter-card:
+    creator: "@bard_ar"
+    card-style: summary_large_image
+  navbar:
+    left:
+      - href: index.qmd
+        text: Hola
+      - href: publicaciones.qmd
+        text: Proyectos
+      - text: CV
+        href: https://ariibard.github.io/docs/cv.pdf
+      - icon: github
+        href: https://github.com/ariibard
+      - icon: linkedin
+        href: https://www.linkedin.com/in/ariana-bardauil/
+
+format:
+  html:
+    smooth-scroll: true
+    theme: journal
+    css: styles.css
+    link-external-icon: false
+    link-external-newwindow: true
+    link-external-filter: '^(?:http:|https:)\/\/www\.arianabardauil\.com\/**'
+    citations-hover: true
+    footnotes-hover: true
+    toc: true
+    code-link: true
+
+editor: visual
+
+execute:
+  freeze: true
+
+
+
+      
+

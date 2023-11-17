@@ -1,0 +1,38 @@
+{
+  "index.qmd": {
+    "index.html": "ec71f64b"
+  },
+  "about.qmd": {
+    "about.html": "7a7d2d17"
+  },
+  "publicaciones.qmd": {
+    "publicaciones.html": "50055fdc"
+  },
+  "posts/about.qmd": {
+    "about.html": "807bfeeb"
+  },
+  "posts/index.qmd": {
+    "index.html": "f57c781d"
+  },
+  "posts/post-with-code/index.qmd": {
+    "index.html": "cdfd8e60"
+  },
+  "posts/posts/post-with-code/index.qmd": {
+    "index.html": "17b3b416"
+  },
+  "posts/posts/welcome/index.qmd": {
+    "index.html": "ca4eaeb7"
+  },
+  "posts/welcome/index.qmd": {
+    "index.html": "085f4ce5"
+  },
+  "trabajos.qmd": {
+    "trabajos.html": "dc9745d4"
+  },
+  "posts/tablero-dicenlosmedios/index.qmd": {
+    "index.html": "a1d51fe1"
+  },
+  "posts/tablero-salud/index.qmd": {
+    "index.html": "89a4d476"
+  }
+}

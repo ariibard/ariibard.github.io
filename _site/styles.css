@@ -1,0 +1,115 @@
+/* Violeta lindo #9172be */
+
+main, p{
+  font-size: 1.1rem !important;
+}
+
+.callout.callout-style-default .callout-body {
+    font-size: 1.2rem;
+    font-weight: 400;
+}
+
+:root {
+    --bs-blue: #ae206b;
+    --bs-primary: #eb6864;
+}
+
+div.quarto-post .thumbnail img {
+    width: 100%;
+    object-fit: contain;
+    max-height: 150px;
+}
+
+.navbar-dark {
+    background-color: var(--bs-blue);
+}
+
+.page-item.active .page-link {
+    z-index: 3;
+    color: #fff;
+    background-color: var(--bs-blue);
+    border-color: var(--bs-blue);
+}
+
+.quarto-title-banner {
+    margin-bottom: 1em;
+    color: #fff;
+    background: var(--bs-blue);
+}
+
+
+.page-link {
+      color: var(--bs-blue);
+}
+
+
+.page-link:hover {
+    z-index: 2;
+    color: #fff;
+    background-color: var(--bs-blue);
+    border-color: var(--bs-blue);
+}
+
+a{
+  color: var(--bs-blue);
+}
+
+b, strong {
+    color: var(--bs-blue);
+    font-weight: bolder;
+}
+.quarto-listing-category.category-unnumbered{
+    font-family: 'News Cycle';
+    color: #ae206b;
+    font-size: .12em;
+    font-weight: bold;
+    
+    
+
+}
+
+
+div.quarto-post .listing-categories .listing-category {
+    color: var(--bs-blue);
+    border: solid 1px var(--bs-gray-400);
+    font-size: .10em;
+}
+
+
+.btn-primary {
+    color: #fff;
+    background-color: var(--bs-blue);
+    border-color: var(--bs-blue);
+}
+
+.btn-primary:hover {
+  color: #000;
+  background-color: #f0f1ff;
+  border-color: #f0f1ff;
+  padding: .375rem .75rem;
+  font-size: 1.1rem !important;
+  margin-top: -9px;
+}
+
+/* Estilo de boton */
+.btn-primary {
+  padding: .375rem .75rem;
+  font-size: 1.1rem !important;
+  margin-top: -9px;
+}
+
+.libutton {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 7px;
+  text-align: center;
+  outline: none;
+  text-decoration: none !important;
+  color: #ffffff !important;
+  width: 200px;
+  height: 32px;
+  border-radius: 16px;
+  background-color: #0A66C2;
+  font-family: "SF Pro Text", Helvetica, sans-serif;
+}

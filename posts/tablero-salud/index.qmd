@@ -1,0 +1,17 @@
+---
+title: "Shiny App - Cobertura de Salud en CABA"
+author: "Ariana Bardauil"
+date: "2023-11-17"
+categories: [R, shuny]
+image: "imagen.png"
+---
+
+![](imagen.png)
+
+> Analizá la Cobertura de Salud en la Ciudad Autónoma de Buenos Aires (CABA)
+
+Este tablero fue elaborado como trabajo final de la materia **Introducción al procesamiento, análisis y visualización interactiva de datos abiertos en salud** de la *Maestría en Generación y Análisis de Información Estadística (UNTREF)*. Muestra información sobre la cobertura de salud en la Ciudad Autónoma de Buenos Aires (CABA) por comuna, año y sexo. El mismo fue elaborado a partir de [**Datos Abiertos del GCBA**](https://www.estadisticaciudad.gob.ar/eyc/?p=83857)
+
+<a href="https://ariana-bard.shinyapps.io/cobertura-salud-caba/"> <button type="button" class="btn btn-primary float-end btn-sm">Accedé a la Shiny</button></a>
+
+<br>

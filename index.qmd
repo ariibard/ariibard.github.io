@@ -1,0 +1,30 @@
+---
+title: "Ariana Bardauil"
+comments: false
+image: imagenes/ari.jpg
+about:
+  template: trestles
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:arianabardauil@gmail.com
+    - icon: file-pdf
+      text: CV
+      href: https://ariibard.github.io/docs/cv.pdf  
+    - icon: github
+      text: GitHub
+      href: https://github.com/ariibard
+    - icon: linkedin
+      text: linkedin
+      href: https://www.linkedin.com/in/ariana-bardauil/  
+---
+
+::: {#hero-heading}
+Hola!
+
+Mi nombre es Ariana Bardauil, soy **Licenciada en Ciencia Política** por la Universidad Nacional de La Matanza (UNLAM). Candidata a la **Maestría en Generación y Análisis de Información Estadística** de la Universidad Nacional de Tres de Febrero (UNTREF)
+
+Me especializo en el manejo y **análisis de datos** en el ámbito público y privado. Busco aplicar mis conocimientos en proyectos que requieran soluciones innovadoras a partir del análisis de datos.
+
+Actualmente me desempeño como analista de datos en la **GO. de Generación de Información Estadíca de Salud (GOGIES)** del Gobierno de la Ciudad de Buenos Aires. Además, formo parte del equipo docente de [Coderhouse](https://www.coderhouse.com/) y [El Ateneo A.C](https://elateneo.org.ar/)
+:::

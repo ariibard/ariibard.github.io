@@ -1,0 +1,22 @@
+---
+title: "Proyectos"
+listing:
+  id: sample-listings
+  contents: posts
+  sort: "date desc"
+  type: grid
+  grid-columns: 2
+  grid-item-align: center
+  categories: unnumbered
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+title-block-banner: true
+---
+
+::: {#posts}
+Participación en congresos, artículos publicados y proyectos con código
+:::
+
+::: {#sample-listings}
+:::

@@ -1,0 +1,16 @@
+[
+  {
+    "listing": "/publicaciones.html",
+    "items": [
+      "/posts/tablero-salud/index.html",
+      "/posts/tablero-dicenlosmedios/index.html"
+    ]
+  },
+  {
+    "listing": "/posts/index.html",
+    "items": [
+      "/posts/posts/post-with-code/index.html",
+      "/posts/posts/welcome/index.html"
+    ]
+  }
+]

@@ -1,0 +1,18 @@
+---
+title: "Tablero Dicen los Medios"
+author: "Ariana Bardauil"
+date: "2023-11-14"
+categories: [shiny, R]
+---
+
+![](imagen.png)
+
+> Dicen los medios. Un tablero que te permite analizar qué, cómo y cuanto hablan los medios digitales de determinado tema o tópico
+
+Esta shiny la realizamos en conjunto con Joaquín Lovizio Ramos para el Observatorio de Medios llamado [Dicen los medios](https://dicenlosmedios.com.ar/) de el [Ateneo A.C](https://elateneo.org.ar/)
+
+Es una herramienta que permite **analizar el discurso de los medios digitales argentinos** a partir de términos que sean de tu interés. Con solo un par de clics, podés generar visualizaciones para ver qué dicen los medios de determinado tema. Además, se pueden crear nubes de palabras que resuman los conceptos clave en torno a tu búsqueda.
+
+<a href="https://dicenlosmedios.shinyapps.io/shiny-dlm/"> <button type="button" class="btn btn-primary float-end btn-sm">Accedé a la Shiny</button></a>
+
+<br>
