@@ -1,33 +1,26 @@
 ---
 title: "Ariana Bardauil"
-comments: false
-toc: false
 image: imagenes/ari.jpg
 about:
-  template: trestles
+  template: jolla
   links:
-    - icon: envelope
-      text: Email
-      href: mailto:arianabardauil@gmail.com
-    - icon: file-pdf
-      text: CV
-      href: https://www.canva.com/design/DAFdc8Xbyiw/view  
     - icon: github
       text: GitHub
       href: https://github.com/ariibard
     - icon: linkedin
-      text: linkedin
-      href: https://www.linkedin.com/in/ariana-bardauil/  
+      text: LinkedIn
+      href: https://www.linkedin.com/in/ariana-bardauil/
+    - icon: envelope
+      text: Email
+      href: mailto:arianabardauil@gmail.com
 ---
 
-::: {#hero-heading}
-Hola!
+Political scientist specialized in data science.
 
-Mi nombre es Ariana Bardauil, soy **Licenciada en Ciencia Política** por la Universidad Nacional de La Matanza (UNLAM). Candidata a la **Maestría en Generación y Análisis de Información Estadística** de la Universidad Nacional de Tres de Febrero (UNTREF)
+University lecturer at [**UNLaM**](https://www.unlam.edu.ar/)& [**UFLO**](https://www.uflouniversidad.edu.ar/).\
 
-Me especializo en el manejo y **análisis de datos** en el ámbito público y privado. Busco aplicar mis conocimientos en proyectos que requieran soluciones innovadoras a partir del análisis de datos.
+Co-organizer of [R en Buenos Aires](https://renbaires.github.io/) and coordinator of the [Núcleo de Innovación Social](https://nucleodeinnovacionsocial.com.ar/)
 
-Actualmente me desempeño como analista de datos en la **GO. de Generación de Información Estadíca de Salud (GOGIES)** del Gobierno de la Ciudad de Buenos Aires. Además, formo parte del equipo docente de [Coderhouse](https://www.coderhouse.com/) y [El Ateneo A.C](https://elateneo.org.ar/)
+::: {style="text-align: right"}
+[See more →](../about/index.html)
 :::
-
-![](imagenes/image-removebg-preview%20(1).png){width="304" align="center"}

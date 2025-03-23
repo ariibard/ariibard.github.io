@@ -1,0 +1,46 @@
+---
+title: "Hola, Soy Ari!"
+listing:
+    contents: 
+    - /publicaciones
+    sort: "date desc"
+    type: default
+    image-align: right
+    max-description-length: 175
+    date-format: medium
+    categories: false
+    sort-ui: false
+    filter-ui: false
+    max-items: 3
+    feed: false
+page-layout: full
+title-block-banner: false
+
+---
+
+::: {.text-center .btn-group role="group" aria-label="About"}
+<a href="about.html">
+  <button type="button" class="btn btn-primary me-md-2 btn-sm">English</button>
+</a>
+<a href="about_es.html">
+  <button type="button" class="btn btn-primary me-md-2 btn-sm">Español</button>
+</a>
+:::
+
+Soy politóloga especializada en ciencia de datos, con formación de posgrado en estadística y experiencia técnica en análisis de datos sociales y sanitarios. Actualmente curso la Maestría en Generación y Análisis de Información Estadística (UNTREF) y la Especialización en Teledetección y SIG (UNLu).
+
+Mi trabajo combina el diseño y la implementación de soluciones analíticas con programación en R, Python y SQL, aplicadas al procesamiento de bases complejas, la automatización de reportes y la visualización de datos. He desarrollado tableros interactivos y aplicaciones en Shiny, así como herramientas de minería de texto para el análisis de medios y políticas públicas.
+
+Me desempeño como analista de datos en el Ministerio de Salud del Gobierno de la Ciudad de Buenos Aires y como docente universitaria en minería de texto y demografía social. Además, participo activamente en proyectos de investigación y divulgación científica, y coordino iniciativas como el Núcleo de Innovación Social y Dicen los Medios.
+
+## Publicaciones
+
+
+::: {#publicaciones}
+:::
+
+
+::: {style="text-align: right"}
+[Ver todas →](publicaciones.html)
+:::
+

@@ -1,53 +1,44 @@
 project:
   type: website
   output-dir: docs
-
-website:
-  page-navigation: true
-  title: "Ariana Bardauil"
-  page-footer:
-    left: "Portfolio realizado con [Quarto](https://quarto.org/), por Ariana Bardauil"
-    right:
-      - icon: github
-        href: https://github.com/ariibard
-      - icon: linkedin
-        href: https://www.linkedin.com/in/ariana-bardauil/
-      - icon: envelope
-        href: arianabardauil@gmail.com
-  twitter-card:
-    creator: "@bard_ar"
-    card-style: summary_large_image
-  navbar:
-    left:
-      - href: index.qmd
-        text: Hola
-      - href: publicaciones.qmd
-        text: Proyectos
-      - text: CV
-        href: cv.qmd
-      - icon: github
-        href: https://github.com/ariibard
-      - icon: linkedin
-        href: https://www.linkedin.com/in/ariana-bardauil/
-
-format:
-  html:
-    smooth-scroll: true
-    theme: journal
-    link-external-icon: false
-    link-external-newwindow: true
-    link-external-filter: '^(?:http:|https:)\/\/www\.arianabardauil\.com\/**'
-    citations-hover: true
-    footnotes-hover: true
-    toc: true
-    code-link: true
-
-editor: visual
+  preview: 
+    port: 5556
+    browser: true
+    watch-inputs: true
+    navigate: true
 
 execute:
-  freeze: true
+  freeze: auto
+  warning: false
 
+website:
+  title: "Ariana Bardauil"
+  favicon: imagenes/logo.png
+  site-url: ariibard.github.io
+  repo-url: https://github.com/ariibard/ariibard.github.io
+  #google-analytics: "G-EX523L4LWJ"
+  open-graph: true
+  navbar:
+    right:
+      - text: Sobre mi
+        file: about.qmd
+      - text: Publicaciones
+        file: publicaciones.qmd
 
-
+  page-footer:
+    left: "Ariana Bardauil" 
+    center: |
+      <span class="faux-block">[{{< fa brands github >}}]({{< var github-url >}}) [{{< fa brands linkedin >}}]({{< var linkedin-url >}}) </span>
+      <span class="faux-block">{{< fa brands orcid >}} <strong>ORCID</strong> [{{< var orcid >}}](https://orcid.org/{{< var orcid >}})</span>
+    right: |
+      <span class="faux-block">Made with {{< fa brands r-project >}} and [Quarto](https://quarto.org/)</span>
+      <span class="faux-block">View the source at [{{< fa brands github >}} GitHub]({{< var repo-url >}})</span>
       
+format:
+  html:
+    theme: 
+      - styles.scss
+
+
+
 

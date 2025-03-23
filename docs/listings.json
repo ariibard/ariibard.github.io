@@ -2,16 +2,55 @@
   {
     "listing": "/publicaciones.html",
     "items": [
-      "/posts/rparacientistassociales/index.html",
-      "/posts/tablero-salud/index.html",
-      "/posts/tablero-dicenlosmedios/index.html",
-      "/posts/jornadas-socio-2023/index.html",
-      "/posts/capitulo-libro-cambiosycontinuidades/index.html",
-      "/posts/appsgoogle/index.html",
-      "/posts/intencion-voto/index.html",
-      "/posts/ponencia-saap-2023/index.html",
-      "/posts/clad-2021/index.html",
-      "/posts/ponencia-saap-2021/index.html"
+      "/publicaciones/jornadas-socio-2023/index.html",
+      "/publicaciones/capitulo-libro-cambiosycontinuidades/index.html",
+      "/publicaciones/ponencia-saap-2023/index.html",
+      "/publicaciones/clad-2021/index.html",
+      "/publicaciones/ponencia-saap-2021/index.html"
+    ]
+  },
+  {
+    "listing": "/publicaciones/index.html",
+    "items": [
+      "/publicaciones/jornadas-socio-2023/index.html",
+      "/publicaciones/capitulo-libro-cambiosycontinuidades/index.html",
+      "/publicaciones/appsgoogle/index.html",
+      "/publicaciones/intencion-voto/index.html",
+      "/publicaciones/ponencia-saap-2023/index.html",
+      "/publicaciones/clad-2021/index.html",
+      "/publicaciones/ponencia-saap-2021/index.html"
+    ]
+  },
+  {
+    "listing": "/about/about_es.html",
+    "items": []
+  },
+  {
+    "listing": "/about/index.html",
+    "items": []
+  },
+  {
+    "listing": "/publicaciones/publicaciones.html",
+    "items": []
+  },
+  {
+    "listing": "/about.html",
+    "items": [
+      "/publicaciones/jornadas-socio-2023/index.html",
+      "/publicaciones/capitulo-libro-cambiosycontinuidades/index.html",
+      "/publicaciones/ponencia-saap-2023/index.html",
+      "/publicaciones/clad-2021/index.html",
+      "/publicaciones/ponencia-saap-2021/index.html"
+    ]
+  },
+  {
+    "listing": "/about_es.html",
+    "items": [
+      "/publicaciones/jornadas-socio-2023/index.html",
+      "/publicaciones/capitulo-libro-cambiosycontinuidades/index.html",
+      "/publicaciones/ponencia-saap-2023/index.html",
+      "/publicaciones/clad-2021/index.html",
+      "/publicaciones/ponencia-saap-2021/index.html"
     ]
   }
 ]

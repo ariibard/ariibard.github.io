@@ -6,8 +6,9 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="description" content="Esta sección contiene mis publicaciones">
 
-<title>Proyectos, participación en congresos, artículos publicados, y docencia – Ariana Bardauil</title>
+<title>Publicaciones – Ariana Bardauil</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -30,6 +31,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
+<link href="./imagenes/logo.png" rel="icon" type="image/png">
 <script src="site_libs/quarto-listing/list.min.js"></script>
 <script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js"></script>
@@ -41,6 +43,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/quarto-contrib/fontawesome6-0.1.0/all.css" rel="stylesheet">
+<link href="site_libs/quarto-contrib/fontawesome6-0.1.0/latex-fontsize.css" rel="stylesheet">
+<link href="site_libs/quarto-contrib/academicons-1.9.2/all.css" rel="stylesheet">
+<link href="site_libs/quarto-contrib/academicons-1.9.2/size.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -71,20 +77,20 @@ ul.task-list li input[type="checkbox"] {
 <script>
 
   window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-sample-listings .list');
+    const listingTargetEl = window.document.querySelector('#listing-listing .list');
     if (!listingTargetEl) {
       // No listing discovered, do not attach.
       return; 
     }
 
     const options = {
-      valueNames: ['listing-title','listing-author','listing-date','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description","listing-categories"],
+      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-sample-listings'] = new List('listing-sample-listings', options);
+    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
 
     if (window['quarto-listing-loaded']) {
       window['quarto-listing-loaded']();
@@ -97,7 +103,12 @@ ul.task-list li input[type="checkbox"] {
     }
   })
   </script>
-<style>html{ scroll-behavior: smooth; }</style>
+<style>
+
+      .quarto-title-block .quarto-title-banner {
+        background: #fff;
+      }
+</style>
 
   <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
   <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
@@ -129,9 +140,9 @@ window.Quarto = {
 };
 </script>
 
-<meta name="twitter:title" content="Proyectos, participación en congresos, artículos publicados, y docencia – Ariana Bardauil">
-<meta name="twitter:creator" content="@bard_ar">
-<meta name="twitter:card" content="summary_large_image">
+<meta property="og:title" content="Publicaciones – Ariana Bardauil">
+<meta property="og:description" content="Esta sección contiene mis publicaciones">
+<meta property="og:site_name" content="Ariana Bardauil">
 </head>
 
 <body class="nav-fixed">
@@ -150,28 +161,14 @@ window.Quarto = {
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
-            <ul class="navbar-nav navbar-nav-scroll me-auto">
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./index.html"> 
-<span class="menu-text">Hola</span></a>
+    <a class="nav-link" href="./about.html"> 
+<span class="menu-text">Sobre mi</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link active" href="./publicaciones.html" aria-current="page"> 
-<span class="menu-text">Proyectos</span></a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./cv.html"> 
-<span class="menu-text">CV</span></a>
-  </li>  
-  <li class="nav-item compact">
-    <a class="nav-link" href="https://github.com/ariibard"> <i class="bi bi-github" role="img">
-</i> 
-<span class="menu-text"></span></a>
-  </li>  
-  <li class="nav-item compact">
-    <a class="nav-link" href="https://www.linkedin.com/in/ariana-bardauil/"> <i class="bi bi-linkedin" role="img">
-</i> 
-<span class="menu-text"></span></a>
+<span class="menu-text">Publicaciones</span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
@@ -184,8 +181,13 @@ window.Quarto = {
 <header id="title-block-header" class="quarto-title-block default page-columns page-full">
   <div class="quarto-title-banner page-columns page-full">
     <div class="quarto-title column-page-left">
-      <h1 class="title">Proyectos, participación en congresos, artículos publicados, y docencia</h1>
-                      </div>
+      <h1 class="title">Publicaciones</h1>
+                  <div>
+        <div class="description">
+          Esta sección contiene mis publicaciones
+        </div>
+      </div>
+                </div>
   </div>
     
   
@@ -202,7 +204,7 @@ window.Quarto = {
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-unnumbered"><div class="category" data-category="Academia">Academia</div><div class="category" data-category="Docencia">Docencia</div><div class="category" data-category="Estadística">Estadística</div><div class="category" data-category="NLP">NLP</div><div class="category" data-category="R">R</div><div class="category" data-category="Shiny">Shiny</div></div></div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(5)</span></div><div class="category" data-category="Academia">Academia <span class="quarto-category-count">(5)</span></div><div class="category" data-category="NLP">NLP <span class="quarto-category-count">(3)</span></div></div></div>
 <!-- main -->
 <main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
 
@@ -210,251 +212,29 @@ window.Quarto = {
 
 
 
-<div id="posts">
-<p><strong>En esta sección se muestran proyectos y trabajos en los que participé</strong></p>
-<hr>
-</div>
-<div id="listing-sample-listings" class="quarto-listing quarto-listing-container-grid">
-<div class="list grid quarto-listing-cols-2">
-<div class="g-col-1" data-index="0" data-categories="Docencia,R" data-listing-date-sort="1700708400000" data-listing-file-modified-sort="1742689320121" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="216">
-<a href="./posts/rparacientistassociales/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-center borderless">
-<p class="card-img-top">
-<img loading="lazy" src="./posts/rparacientistassociales/imagen.jpg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-R para Cientistas Sociales: Taller de R en la Universidad Nacional de La Matanza
-</h5>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Docencia'); return false;">
-Docencia
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('R'); return false;">
-R
-</div>
-</div>
-<div class="card-text listing-description">
-A a lo largo de esta jornada abordaremos el uso de R para las ciencias sociales. <strong>No se requiere experiencia previa en programación ni análisis de datos,</strong> ya que este taller…
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-Ariana Bardauil
-</div>
-<div class="listing-date">
-11/23/23
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="1" data-categories="R,Shiny" data-listing-date-sort="1700190000000" data-listing-file-modified-sort="1742689320261" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="83">
-<a href="./posts/tablero-salud/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-center borderless">
-<p class="card-img-top">
-<img loading="lazy" src="./posts/tablero-salud/imagen.png" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Shiny App - Cobertura de Salud en CABA
-</h5>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('R'); return false;">
-R
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Shiny'); return false;">
-Shiny
-</div>
-</div>
-<div class="card-text listing-description">
-Analizá la Cobertura de Salud en la Ciudad Autónoma de Buenos Aires (CABA)
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-Ariana Bardauil
-</div>
-<div class="listing-date">
-11/17/23
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="2" data-categories="Shiny,R,NLP" data-listing-date-sort="1699930800000" data-listing-file-modified-sort="1742689320185" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="111">
-<a href="./posts/tablero-dicenlosmedios/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-center borderless">
-<p class="card-img-top"><img src="posts\tablero-dicenlosmedios\imagen.png" style="height: 150px;"  class="thumbnail-image card-img"/></p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Tablero Dicen los Medios
-</h5>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Shiny'); return false;">
-Shiny
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('R'); return false;">
-R
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('NLP'); return false;">
-NLP
-</div>
-</div>
-<div class="card-text listing-description">
-Dicen los medios. Un tablero que te permite analizar qué, cómo y cuanto hablan los medios digitales de determinado tema o tópico
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-Ariana Bardauil
-</div>
-<div class="listing-date">
-11/14/23
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="3" data-categories="Academia,NLP" data-listing-date-sort="1699239600000" data-listing-file-modified-sort="1742689319943" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="241">
-<a href="./posts/jornadas-socio-2023/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-center borderless">
-<p class="card-img-top">
-<img loading="lazy" src="./posts/jornadas-socio-2023/imagen.jpg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Jornadas de sociología de la UBA 2023 - SAAP: Análisis del discurso: Similitudes y diferencias en discursos vinculados a educación entre candidatos a presidente y diarios digitales en Argentina entre abril 2022 y abril 2023
-</h5>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Academia'); return false;">
-Academia
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('NLP'); return false;">
-NLP
-</div>
-</div>
-<div class="card-text listing-description">
-En el contexto de las próximas elecciones presidenciales y legislativas en Argentina, que se llevarán a cabo en octubre de este año, el análisis de los discursos políticos y…
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-Ariana Bardauil
-</div>
-<div class="listing-date">
-11/6/23
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="4" data-categories="Academia" data-listing-date-sort="1691982000000" data-listing-file-modified-sort="1742689319724" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="840">
-<a href="./posts/capitulo-libro-cambiosycontinuidades/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-center borderless">
-<p class="card-img-top">
-<img loading="lazy" src="./posts/capitulo-libro-cambiosycontinuidades/imagen.png" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Cambios y continuidades en el Ministerio de Desarrollo Social de la Nación (2015 - 2019) durante la gestión Cambiemos en Argentina
-</h5>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Academia'); return false;">
-Academia
-</div>
-</div>
-<div class="card-text listing-description">
-Capítulo 5 del libro <strong>“Transformaciones en la estructura del Estado en el gobierno de Cambiemos (2015-2019). Un análisis de las funciones, el modelo de gestión y las…</strong>
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-Ariana Bardauil
-</div>
-<div class="listing-date">
-8/14/23
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="5" data-categories="R,Estadística" data-listing-date-sort="1690254000000" data-listing-file-modified-sort="1742689319659" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="53">
-<a href="./posts/appsgoogle/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-center borderless">
-<p class="card-img-top">
-<img loading="lazy" src="./posts/appsgoogle/imagen.jpg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Análisis de Google Play store
-</h5>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('R'); return false;">
-R
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Estadística'); return false;">
-Estadística
-</div>
-</div>
-<div class="card-text listing-description">
-Analisis del mercado de apps de Google Playstore
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
+<div id="publicaciones">
 
 </div>
-<div class="listing-date">
-7/25/23
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="6" data-categories="R,Estadística" data-listing-date-sort="1690254000000" data-listing-file-modified-sort="1742689319851" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="79">
-<a href="./posts/intencion-voto/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-center borderless">
-<p class="card-img-top">
-<img loading="lazy" src="./posts/intencion-voto/imagen.png" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Análisis de Intención de Voto en Bs. As y Córdoba
-</h5>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('R'); return false;">
-R
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Estadística'); return false;">
-Estadística
-</div>
-</div>
-<div class="card-text listing-description">
-Analisis de la intención de voto para las elecciones de 2015
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
+<p><i class="ai  ai-blank-just-to-add-ai-dependency-to-this-page"></i></p>
 
+
+
+
+<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
+<div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-categories="Academia,NLP" data-listing-date-sort="1699239600000" data-listing-file-modified-sort="1742689319943" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="241">
+<div class="thumbnail">
+<p><a href="./publicaciones/jornadas-socio-2023/index.html" class="no-external"></a></p><a href="./publicaciones/jornadas-socio-2023/index.html" class="no-external">
+<p><img loading="lazy" src="./publicaciones/jornadas-socio-2023/imagen.jpg" class="thumbnail-image"></p>
+</a><p><a href="./publicaciones/jornadas-socio-2023/index.html" class="no-external"></a></p>
 </div>
-<div class="listing-date">
-7/25/23
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./publicaciones/jornadas-socio-2023/index.html" class="no-external">Jornadas de sociología de la UBA 2023 - SAAP: Análisis del discurso: Similitudes y diferencias en discursos vinculados a educación entre candidatos a presidente y diarios digitales en Argentina entre abril 2022 y abril 2023</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./publicaciones/jornadas-socio-2023/index.html" class="no-external"></a>
 </div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="7" data-categories="Academia,NLP" data-listing-date-sort="1689562800000" data-listing-file-modified-sort="1742689320053" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="408">
-<a href="./posts/ponencia-saap-2023/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-center borderless">
-<p class="card-img-top">
-<img loading="lazy" src="./posts/ponencia-saap-2023/imagen.png" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-XVI Congreso Nacional de Ciencia Política - SAAP: Análisis de discurso
-</h5>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('Academia'); return false;">
 Academia
@@ -463,61 +243,67 @@ Academia
 NLP
 </div>
 </div>
-<div class="card-text listing-description">
-Análisis de discurso: Similitudes y diferencias en discursos vinculados a inseguridad entre precandidatos a presidente y diarios digitales en Argentina (2022-2023)
+<div class="listing-description">
+<a href="./publicaciones/jornadas-socio-2023/index.html" class="no-external">En el contexto de las próximas elecciones presidenciales y legislativas en Argentina, que se llevarán a cabo en octubre de este año, el análisis de los discursos políticos y…</a>
 </div>
-<div class="card-attribution card-text-small justify">
+</div>
+<div class="metadata">
+<a href="./publicaciones/jornadas-socio-2023/index.html" class="no-external">
+<div class="listing-date">
+Nov 6, 2023
+</div>
 <div class="listing-author">
 Ariana Bardauil
 </div>
-<div class="listing-date">
-7/17/23
-</div>
-</div>
-</div>
-</div>
 </a>
 </div>
-<div class="g-col-1" data-index="8" data-categories="Academia" data-listing-date-sort="1637118000000" data-listing-file-modified-sort="1742689319795" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="993">
-<a href="./posts/clad-2021/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-center borderless">
-<p class="card-img-top">
-<img loading="lazy" src="./posts/clad-2021/imagen.png" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-VI Congreso Internacional del CLAD sobre Reforma del Estado: El Empleo Público del Futuro
-</h5>
+</div>
+<div class="quarto-post image-right" data-index="1" data-categories="Academia" data-listing-date-sort="1691982000000" data-listing-file-modified-sort="1742689319724" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="840">
+<div class="thumbnail">
+<p><a href="./publicaciones/capitulo-libro-cambiosycontinuidades/index.html" class="no-external"></a></p><a href="./publicaciones/capitulo-libro-cambiosycontinuidades/index.html" class="no-external">
+<p><img loading="lazy" src="./publicaciones/capitulo-libro-cambiosycontinuidades/imagen.png" class="thumbnail-image"></p>
+</a><p><a href="./publicaciones/capitulo-libro-cambiosycontinuidades/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./publicaciones/capitulo-libro-cambiosycontinuidades/index.html" class="no-external">Cambios y continuidades en el Ministerio de Desarrollo Social de la Nación (2015 - 2019) durante la gestión Cambiemos en Argentina</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./publicaciones/capitulo-libro-cambiosycontinuidades/index.html" class="no-external"></a>
+</div>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('Academia'); return false;">
 Academia
 </div>
 </div>
-<div class="card-text listing-description">
-Hallazgos Y experiencias acerca del empleo público nacional en situación de pandemia en Argentina, 2020-2021: abordajes para el diseño del empleo público del futuro
+<div class="listing-description">
+<a href="./publicaciones/capitulo-libro-cambiosycontinuidades/index.html" class="no-external">Capítulo 5 del libro <strong>“Transformaciones en la estructura del Estado en el gobierno de Cambiemos (2015-2019). Un análisis de las funciones, el modelo de gestión y las…</strong></a>
 </div>
-<div class="card-attribution card-text-small justify">
+</div>
+<div class="metadata">
+<a href="./publicaciones/capitulo-libro-cambiosycontinuidades/index.html" class="no-external">
+<div class="listing-date">
+Aug 14, 2023
+</div>
 <div class="listing-author">
 Ariana Bardauil
 </div>
-<div class="listing-date">
-11/17/21
-</div>
-</div>
-</div>
-</div>
 </a>
 </div>
-<div class="g-col-1" data-index="9" data-categories="Academia,NLP" data-listing-date-sort="1629169200000" data-listing-file-modified-sort="1742689320002" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="411">
-<a href="./posts/ponencia-saap-2021/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-center borderless">
-<p class="card-img-top">
-<img loading="lazy" src="./posts/ponencia-saap-2021/imagen.png" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-XV Congreso Nacional de Ciencia Política - SAAP: La lupa digital
-</h5>
+</div>
+<div class="quarto-post image-right" data-index="2" data-categories="Academia,NLP" data-listing-date-sort="1689562800000" data-listing-file-modified-sort="1742689320053" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="408">
+<div class="thumbnail">
+<p><a href="./publicaciones/ponencia-saap-2023/index.html" class="no-external"></a></p><a href="./publicaciones/ponencia-saap-2023/index.html" class="no-external">
+<p><img loading="lazy" src="./publicaciones/ponencia-saap-2023/imagen.png" class="thumbnail-image"></p>
+</a><p><a href="./publicaciones/ponencia-saap-2023/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./publicaciones/ponencia-saap-2023/index.html" class="no-external">XVI Congreso Nacional de Ciencia Política - SAAP: Análisis de discurso</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./publicaciones/ponencia-saap-2023/index.html" class="no-external"></a>
+</div>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('Academia'); return false;">
 Academia
@@ -526,31 +312,95 @@ Academia
 NLP
 </div>
 </div>
-<div class="card-text listing-description">
-La lupa digital sobre los precandidatos de la Provincia de Buenos Aires y CABA a diputados nacionales”. Análisis del tratamiento de medios digitales entre marzo y septiembre”<sup>1</sup>
+<div class="listing-description">
+<a href="./publicaciones/ponencia-saap-2023/index.html" class="no-external">Análisis de discurso: Similitudes y diferencias en discursos vinculados a inseguridad entre precandidatos a presidente y diarios digitales en Argentina (2022-2023)</a>
 </div>
-<div class="card-attribution card-text-small justify">
+</div>
+<div class="metadata">
+<a href="./publicaciones/ponencia-saap-2023/index.html" class="no-external">
+<div class="listing-date">
+Jul 17, 2023
+</div>
 <div class="listing-author">
 Ariana Bardauil
 </div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="3" data-categories="Academia" data-listing-date-sort="1637118000000" data-listing-file-modified-sort="1742689319795" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="993">
+<div class="thumbnail">
+<p><a href="./publicaciones/clad-2021/index.html" class="no-external"></a></p><a href="./publicaciones/clad-2021/index.html" class="no-external">
+<p><img loading="lazy" src="./publicaciones/clad-2021/imagen.png" class="thumbnail-image"></p>
+</a><p><a href="./publicaciones/clad-2021/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./publicaciones/clad-2021/index.html" class="no-external">VI Congreso Internacional del CLAD sobre Reforma del Estado: El Empleo Público del Futuro</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./publicaciones/clad-2021/index.html" class="no-external"></a>
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Academia'); return false;">
+Academia
+</div>
+</div>
+<div class="listing-description">
+<a href="./publicaciones/clad-2021/index.html" class="no-external">Hallazgos Y experiencias acerca del empleo público nacional en situación de pandemia en Argentina, 2020-2021: abordajes para el diseño del empleo público del futuro</a>
+</div>
+</div>
+<div class="metadata">
+<a href="./publicaciones/clad-2021/index.html" class="no-external">
 <div class="listing-date">
-8/17/21
+Nov 17, 2021
 </div>
-</div>
-</div>
+<div class="listing-author">
+Ariana Bardauil
 </div>
 </a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="4" data-categories="Academia,NLP" data-listing-date-sort="1629169200000" data-listing-file-modified-sort="1742689320002" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="411">
+<div class="thumbnail">
+<p><a href="./publicaciones/ponencia-saap-2021/index.html" class="no-external"></a></p><a href="./publicaciones/ponencia-saap-2021/index.html" class="no-external">
+<p><img loading="lazy" src="./publicaciones/ponencia-saap-2021/imagen.png" class="thumbnail-image"></p>
+</a><p><a href="./publicaciones/ponencia-saap-2021/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./publicaciones/ponencia-saap-2021/index.html" class="no-external">XV Congreso Nacional de Ciencia Política - SAAP: La lupa digital</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./publicaciones/ponencia-saap-2021/index.html" class="no-external"></a>
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Academia'); return false;">
+Academia
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('NLP'); return false;">
+NLP
+</div>
+</div>
+<div class="listing-description">
+<a href="./publicaciones/ponencia-saap-2021/index.html" class="no-external">La lupa digital sobre los precandidatos de la Provincia de Buenos Aires y CABA a diputados nacionales”. Análisis del tratamiento de medios digitales entre marzo y septiembre”<sup>1</sup></a>
+</div>
+</div>
+<div class="metadata">
+<a href="./publicaciones/ponencia-saap-2021/index.html" class="no-external">
+<div class="listing-date">
+Aug 17, 2021
+</div>
+<div class="listing-author">
+Ariana Bardauil
+</div>
+</a>
+</div>
 </div>
 </div>
 <div class="listing-no-matching d-none">
 No matching items
 </div>
-</div>
-
-
-
-
-</main> <!-- /main -->
+</div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -643,7 +493,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp("^(?:http:|https:)\/\/www\.arianabardauil\.com\/**");
+      var filterRegex = new RegExp("ariibard\.github\.io");
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
@@ -657,11 +507,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         if (link.dataset.originalHref !== undefined) {
           link.href = link.dataset.originalHref;
         }
-          // target, if specified
-          link.setAttribute("target", "_blank");
-          if (link.getAttribute("rel") === null) {
-            link.setAttribute("rel", "noopener");
-          }
       }
     }
   function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
@@ -980,38 +825,18 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 <footer class="footer">
   <div class="nav-footer">
     <div class="nav-footer-left">
-<p>Portfolio realizado con <a href="https://quarto.org/">Quarto</a>, por Ariana Bardauil</p>
+<p>Ariana Bardauil</p>
 </div>   
     <div class="nav-footer-center">
-      &nbsp;
-    </div>
+<p><span class="faux-block"><a href="https://github.com/ariibard"><i class="fa-brands fa-github" aria-label="github"></i></a> <a href="https://www.linkedin.com/in/ariana-bardauil/"><i class="fa-brands fa-linkedin" aria-label="linkedin"></i></a> </span> <span class="faux-block"><i class="fa-brands fa-orcid" aria-label="orcid"></i> <strong>ORCID</strong> <a href="https://orcid.org/0009-0000-5020-7331">0009-0000-5020-7331</a></span></p>
+</div>
     <div class="nav-footer-right">
-      <ul class="footer-items list-unstyled">
-    <li class="nav-item compact">
-    <a class="nav-link" href="https://github.com/ariibard">
-      <i class="bi bi-github" role="img">
-</i> 
-    </a>
-  </li>  
-    <li class="nav-item compact">
-    <a class="nav-link" href="https://www.linkedin.com/in/ariana-bardauil/">
-      <i class="bi bi-linkedin" role="img">
-</i> 
-    </a>
-  </li>  
-    <li class="nav-item compact">
-    <a class="nav-link" href="./arianabardauil@gmail.com">
-      <i class="bi bi-envelope" role="img">
-</i> 
-    </a>
-  </li>  
-</ul>
-    </div>
+<p><span class="faux-block">Made with <i class="fa-brands fa-r-project" aria-label="r-project"></i> and <a href="https://quarto.org/">Quarto</a></span> <span class="faux-block">View the source at <a href="https://github.com/ariibard/ariibard.github.io"><i class="fa-brands fa-github" aria-label="github"></i> GitHub</a></span></p>
+</div>
   </div>
 </footer>
 
 
 
 
-<script src="site_libs/quarto-html/zenscroll-min.js"></script>
 </body></html>

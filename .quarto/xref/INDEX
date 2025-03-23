@@ -40,5 +40,71 @@
   },
   "publicaciones.qmd": {
     "publicaciones.html": "d0286432"
+  },
+  "about/index.qmd": {
+    "index.html": "732fda2e"
+  },
+  "about/about.qmd": {
+    "about.html": "bc6603d2"
+  },
+  "publicaciones/appsgoogle/index.qmd": {
+    "index.html": "040a1897"
+  },
+  "publicaciones/capitulo-libro-cambiosycontinuidades/index.qmd": {
+    "index.html": "a3a28522"
+  },
+  "publicaciones/clad-2021/index.qmd": {
+    "index.html": "fcf494e8"
+  },
+  "publicaciones/intencion-voto/index.qmd": {
+    "index.html": "5a06980e"
+  },
+  "publicaciones/jornadas-socio-2023/index.qmd": {
+    "index.html": "ae5890d2"
+  },
+  "publicaciones/ponencia-saap-2021/index.qmd": {
+    "index.html": "1bd9f9c6"
+  },
+  "publicaciones/ponencia-saap-2023/index.qmd": {
+    "index.html": "6730323d"
+  },
+  "publicaciones/rparacientistassociales/index.qmd": {
+    "index.html": "cc1c3c23"
+  },
+  "publicaciones/tablero-dicenlosmedios/index.qmd": {
+    "index.html": "41c0817c"
+  },
+  "publicaciones/tablero-salud/index.qmd": {
+    "index.html": "14c9e744"
+  },
+  "about/about_en.qmd": {
+    "about_en.html": "99b9fedf"
+  },
+  "about/about_es.qmd": {
+    "about_es.html": "1ec23bcb"
+  },
+  "publicaciones/index.qmd": {
+    "index.html": "34f87e66"
+  },
+  "cursos_charlas/rparacientistassociales/index.qmd": {
+    "index.html": "17329f6e"
+  },
+  "proyectos/tablero-dicenlosmedios/index.qmd": {
+    "index.html": "8530184a"
+  },
+  "proyectos/tablero-salud/index.qmd": {
+    "index.html": "47c9d27c"
+  },
+  "publicaciones/publicaciones.qmd": {
+    "publicaciones.html": "0cd2f7dd"
+  },
+  "about_es.qmd": {
+    "about_es.html": "9cc63bb7"
+  },
+  "proyectos/appsgoogle/index.qmd": {
+    "index.html": "5ac94273"
+  },
+  "proyectos/intencion-voto/index.qmd": {
+    "index.html": "2673ddac"
   }
 }

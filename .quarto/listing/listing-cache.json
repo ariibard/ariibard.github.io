@@ -1,7 +1,38 @@
 {
   "listingMap": {
     "publicaciones.qmd": [
-      "posts"
+      "posts",
+      "/*/index.qmd",
+      "/publicaciones"
+    ],
+    "about\\about.qmd": [
+      "../research/**/index.qmd",
+      "../talks/talks_2023.yml"
+    ],
+    "publicaciones\\index.qmd": [
+      "/*/index.qmd"
+    ],
+    "about\\about_es.qmd": [
+      "../publicaciones/**/index.qmd",
+      "../proyectos/*/**/index.qmd",
+      "../charlas/talks.yml",
+      "/publicaciones"
+    ],
+    "about\\index.qmd": [
+      "../publicaciones/**/index.qmd",
+      "../proyectos/*/**/index.qmd",
+      "../charlas/talks.yml",
+      "/publicaciones"
+    ],
+    "publicaciones\\publicaciones.qmd": [
+      "/*/index.qmd",
+      "/publicaciones"
+    ],
+    "about.qmd": [
+      "/publicaciones"
+    ],
+    "about_es.qmd": [
+      "/publicaciones"
     ]
   }
 }
