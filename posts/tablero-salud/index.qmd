@@ -2,7 +2,7 @@
 title: "Shiny App - Cobertura de Salud en CABA"
 author: "Ariana Bardauil"
 date: "2023-11-17"
-categories: [R, shuny]
+categories: [R, Shiny]
 image: "imagen.png"
 ---
 

@@ -1,0 +1,16 @@
+---
+title: "Análisis de Google Play store"
+date: "2023-07-25"
+categories: [R, Estadística]
+image: "imagen.jpg"
+---
+
+> Analisis del mercado de apps de Google Playstore
+
+![](imagen.jpg){fig-align="center" width="237"}
+
+En el marco de la materia Estadística Aplicada a la Investigación de Mercado de la MGAIE de UNTREF se realiza un analisis de las características del mercado de las aplicaciones alojadas en Google Play Store
+
+<a href="https://rpubs.com/arianabard/appsgoogle"> <button type="button" class="btn btn-primary float-end btn-sm">Accedé al análisis</button></a>
+
+<br>

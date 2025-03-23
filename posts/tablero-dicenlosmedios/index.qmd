@@ -2,7 +2,7 @@
 title: "Tablero Dicen los Medios"
 author: "Ariana Bardauil"
 date: "2023-11-14"
-categories: [shiny, R]
+categories: [Shiny, R, NLP]
 ---
 
 ![](imagen.png)

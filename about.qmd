@@ -18,6 +18,5 @@ about:
       href: https://www.linkedin.com/in/ariana-bardauil/  
 ---
 
-
 ::: {#hero-heading}
 :::

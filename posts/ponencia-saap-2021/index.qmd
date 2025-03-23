@@ -1,0 +1,31 @@
+---
+title: "XV Congreso Nacional de Ciencia Política - SAAP: La lupa digital"
+author: "Ariana Bardauil"
+date: "2021-08-17"
+categories: [Academia, NLP]
+image: "imagen.png"
+---
+
+> La lupa digital sobre los precandidatos de la Provincia de Buenos Aires y CABA a diputados nacionales". Análisis del tratamiento de medios digitales entre marzo y septiembre"[^1]
+
+[^1]: Ponencia preparada para el XV Congreso Nacional de Ciencia Política "La democracia en tiempos de desconfianza e incertidumbre global. Acción colectiva y politización de las desigualdades en la escena pública", organizado por la Sociedad Argentina de Análisis Político y la Universidad Nacional de Rosario, Rosario, 10 al 13 de noviembre de 2021.
+
+Por **Ariana Bardauil**, **Joaquín Lovizio Ramos** y **Manuel Iglesias**
+
+Tecnicas de Webscrapping y Data Mining
+
+### Resumen
+
+Los medios de comunicación se constituyen como un actor importante en la sociedad ya que influyen en la construcción de la realidad diaria de los individuos (Califano, 2015). En este sentido, la relación entre medios de comunicación y ciudadanía se presenta como un fenómeno cambiante que merece la atención de las ciencias sociales desde principios del siglo XX. En este marco, el presente trabajo recupera el abordaje teórico de la Agenda Setting (McCombs y Shaw, 1972; Arruguete, 2015). La hipótesis central de esta teoría puede resumirse en la idea de que los medios pueden no ser efectivos en decirnos qué pensar pero sí pueden serlo en decirnos sobre qué pensar (Cohen, 1963). Así, existiría un proceso de transferencia de temas, jerarquías, imágenes o atributos desde los medios hacia el público. Tal selección y relevancia mediática de ciertos aspectos de los objetos influye poderosamente en la percepción pública de esos temas (Arruguete, 2009). Considerando estos postulados, el objetivo general de la ponencia es indagar sobre el tratamiento que tienen los principales portales de noticias digitales de los precandidatos a diputados nacionales, de las diferentes listas presentadas a las Elecciones Primarias Abiertas Simultáneas y Obligatorias (PASO), en Provincia de Buenos Aires y Ciudad Autónoma de Buenos Aires (CABA), desde marzo hasta septiembre 2021. Para tal fin, se utilizarán como fuente los principales portales digitales de noticias del país: Infobae, Clarín, La Nación, Página 12, Ámbito. Asimismo, desarrollando una metodología cuantitativa, se hará uso de herramientas y técnicas como "web scrapping" y "text mining" condensadas en un software de desarrollo propio, de recolección de noticias, denominado "Dicen Los Medios". En esta línea, se trata de un trabajo interdisciplinario entre las ciencias sociales y las ciencias computacionales, que tiene como vector a la incipiente ciencia de datos.
+
+Palabras clave: Medios, agenda setting, ciencia de datos, elecciones.
+
+## Presentación
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSKtnHZIyJx3DkKVBJr2D9cC8aRNBzazPeQ1Xnqf6MEjYSejE83HIQ8zKbTq3y7U0qhyeJMZXsUHYNT/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true">
+
+</iframe>
+
+<a href="https://drive.google.com/file/d/1ZrBWEVHkKkja9XaB-S60z8NoSsLvzlK4/view?usp=sharing"> <button type="button" class="btn btn-primary float-end btn-sm">Accedé a la ponencia</button></a>
+
+<br>

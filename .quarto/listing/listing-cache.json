@@ -2,9 +2,6 @@
   "listingMap": {
     "publicaciones.qmd": [
       "posts"
-    ],
-    "posts\\index.qmd": [
-      "posts"
     ]
   }
 }

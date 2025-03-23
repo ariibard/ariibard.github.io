@@ -1,0 +1,78 @@
+/* css styles */
+
+main, p{
+  font-size: 1.1rem !important;
+}
+
+.callout.callout-style-default .callout-body {
+    font-size: 1.2rem;
+    font-weight: 400;
+}
+
+:root {
+    --bs-blue: #9172be;
+    --bs-primary: #eb6864;
+}
+
+div.quarto-post .thumbnail img {
+    width: 100%;
+    object-fit: contain;
+    max-height: 150px;
+}
+
+.navbar-dark {
+    background-color: var(--bs-blue);
+}
+
+.page-item.active .page-link {
+    z-index: 3;
+    color: #fff;
+    background-color: var(--bs-blue);
+    border-color: var(--bs-blue);
+}
+
+.quarto-title-banner {
+    margin-bottom: 1em;
+    color: #fff;
+    background: var(--bs-blue);
+}
+
+
+.page-link {
+      color: var(--bs-blue);
+}
+
+
+.page-link:hover {
+    z-index: 2;
+    color: #fff;
+    background-color: var(--bs-blue);
+    border-color: var(--bs-blue);
+}
+
+a{
+  color: var(--bs-blue);
+}
+
+b, strong {
+    color: var(--bs-blue);
+    font-weight: bolder;
+}
+.quarto-listing-categories {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 100;
+}
+
+.quarto-listing-categories a {
+  background-color: #000;
+  color: #fff;
+  font-size: 1em;
+  font-family: sans-serif;
+  border-radius: 2px;
+  padding: 0.5em 1em;
+}
+
+

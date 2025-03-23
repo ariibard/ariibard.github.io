@@ -1,5 +1,5 @@
 ---
-title: "Proyectos"
+title: "Proyectos, participación en congresos, artículos publicados, y docencia"
 listing:
   id: sample-listings
   contents: posts
@@ -7,15 +7,18 @@ listing:
   type: grid
   grid-columns: 2
   grid-item-align: center
+  grid-item-border: false
   categories: unnumbered
   sort-ui: false
-  filter-ui: false
+  date-format: short
 page-layout: full
 title-block-banner: true
 ---
 
 ::: {#posts}
-Participación en congresos, artículos publicados y proyectos con código
+**En esta sección se muestran proyectos y trabajos en los que participé**
+
+------------------------------------------------------------------------
 :::
 
 ::: {#sample-listings}

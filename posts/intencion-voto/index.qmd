@@ -1,0 +1,16 @@
+---
+title: "Análisis de Intención de Voto en Bs. As y Córdoba"
+date: "2023-07-25"
+categories: [R, Estadística]
+image: "imagen.png"
+---
+
+![](imagen.png)
+
+> Analisis de la intención de voto para las elecciones de 2015
+
+El objetivo de este trabajo es analizar la intención de voto de dos encuestas realizadas en Buenos Aires y Córdoba realizada de las Primarias Abiertas Simultaneas y Obligatorias (PASO) del 9 de agosto del 2015 para la materia Investigación Electoral y de Opinión Pública Aplicada I y II de la Maestría en Generación y Análisis de Información Estadística (UNTREF)
+
+<a href="https://rpubs.com/arianabard/intencionvoto2015"> <button type="button" class="btn btn-primary float-end btn-sm">Accedé al análisis</button></a>
+
+<br>

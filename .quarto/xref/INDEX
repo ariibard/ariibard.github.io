@@ -1,38 +1,44 @@
 {
   "index.qmd": {
-    "index.html": "ec71f64b"
+    "index.html": "6708911c"
   },
   "about.qmd": {
-    "about.html": "7a7d2d17"
+    "about.html": "5f421d82"
   },
-  "publicaciones.qmd": {
-    "publicaciones.html": "50055fdc"
+  "cv.qmd": {
+    "cv.html": "c37756dd"
   },
-  "posts/about.qmd": {
-    "about.html": "807bfeeb"
+  "posts/appsgoogle/index.qmd": {
+    "index.html": "5ebe1e9a"
   },
-  "posts/index.qmd": {
-    "index.html": "f57c781d"
+  "posts/capitulo-libro-cambiosycontinuidades/index.qmd": {
+    "index.html": "84d1d8b6"
   },
-  "posts/post-with-code/index.qmd": {
-    "index.html": "cdfd8e60"
+  "posts/clad-2021/index.qmd": {
+    "index.html": "6d45a5de"
   },
-  "posts/posts/post-with-code/index.qmd": {
-    "index.html": "17b3b416"
+  "posts/intencion-voto/index.qmd": {
+    "index.html": "4dd8c838"
   },
-  "posts/posts/welcome/index.qmd": {
-    "index.html": "ca4eaeb7"
+  "posts/jornadas-socio-2023/index.qmd": {
+    "index.html": "d0e7927f"
   },
-  "posts/welcome/index.qmd": {
-    "index.html": "085f4ce5"
+  "posts/ponencia-saap-2021/index.qmd": {
+    "index.html": "0b71e8c8"
   },
-  "trabajos.qmd": {
-    "trabajos.html": "dc9745d4"
+  "posts/ponencia-saap-2023/index.qmd": {
+    "index.html": "b7e97545"
+  },
+  "posts/rparacientistassociales/index.qmd": {
+    "index.html": "038f2405"
   },
   "posts/tablero-dicenlosmedios/index.qmd": {
-    "index.html": "a1d51fe1"
+    "index.html": "5ea6d570"
   },
   "posts/tablero-salud/index.qmd": {
-    "index.html": "89a4d476"
+    "index.html": "fd593d75"
+  },
+  "publicaciones.qmd": {
+    "publicaciones.html": "d0286432"
   }
 }

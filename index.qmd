@@ -1,6 +1,7 @@
 ---
 title: "Ariana Bardauil"
 comments: false
+toc: false
 image: imagenes/ari.jpg
 about:
   template: trestles
@@ -10,7 +11,7 @@ about:
       href: mailto:arianabardauil@gmail.com
     - icon: file-pdf
       text: CV
-      href: https://ariibard.github.io/docs/cv.pdf  
+      href: https://www.canva.com/design/DAFdc8Xbyiw/view  
     - icon: github
       text: GitHub
       href: https://github.com/ariibard
@@ -28,3 +29,5 @@ Me especializo en el manejo y **análisis de datos** en el ámbito público y pr
 
 Actualmente me desempeño como analista de datos en la **GO. de Generación de Información Estadíca de Salud (GOGIES)** del Gobierno de la Ciudad de Buenos Aires. Además, formo parte del equipo docente de [Coderhouse](https://www.coderhouse.com/) y [El Ateneo A.C](https://elateneo.org.ar/)
 :::
+
+![](imagenes/image-removebg-preview%20(1).png){width="304" align="center"}

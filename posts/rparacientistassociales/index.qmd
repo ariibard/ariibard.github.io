@@ -1,0 +1,34 @@
+---
+title: "R para Cientistas Sociales: Taller de R en la Universidad Nacional de La Matanza"
+author: "Ariana Bardauil"
+date: "2023-11-23"
+categories: [Docencia, R]
+image: "imagen.jpg"
+---
+
+A a lo largo de esta jornada abordaremos el uso de R para las ciencias sociales. **No se requiere experiencia previa en programación ni análisis de datos,** ya que este taller está diseñado para todxs, desde principiantes hasta aquellos con cierta experiencia.
+
+🤔 **¿Por qué R?** R es un lenguaje de programación ampliamente utilizado en la ciencia de datos, estadísticas y análisis de datos. En las ciencias sociales, R puede ser una herramienta invaluable para explorar datos, identificar patrones, y comunicar tus hallazgos de manera efectiva estudies la carrera que estudies.
+
+**Podes acceder al repositorio [acá](https://github.com/ariibard/R-para-Ciencias-Sociales)**. Allí vamos a estar subiendo los archivos y documentos del curso.
+
+➡️ Este taller es organizado por el proyecto de investigación *"La trama territorial de programas sociales en el conurbano bonaerense: entre nación, municipios y organizaciones sociales (2015-2023)" r*adicado en el Departamento de Derecho y Ciencia Política de la **Universidad Nacional de La Matanza** (UNLaM).
+
+## Invitación
+
+![](flyer.jpeg)
+
+## Presentación
+
+::: {style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
+ padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;"}
+<iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFyTvpIkSM&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen"> </iframe>
+:::
+
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFyTvpIkSM&#x2F;view?utm_content=DAFyTvpIkSM&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">R para ciencias sociales</a> de Ariana Bardauil
+
+<a href="https://rpubs.com/arianabard/taller-r-para-cientistas-sociales"> <button type="button" class="btn btn-primary float-end btn-sm">Accedé al material</button></a>
+
+<br>

@@ -1,0 +1,33 @@
+---
+title: "XVI Congreso Nacional de Ciencia Política - SAAP: Análisis de discurso"
+author: "Ariana Bardauil"
+date: "2023-07-17"
+categories: [Academia, NLP]
+image: "imagen.png"
+---
+
+> Análisis de discurso: Similitudes y diferencias en discursos vinculados a inseguridad entre precandidatos a presidente y diarios digitales en Argentina (2022-2023)
+
+Por **Ariana Bardauil**, **Joaquín Lovizio Ramos** y **Santiago Marta**
+
+### Resumen
+
+Los medios de comunicación se constituyen como actores con intereses específicos que construyen la realidad política y social de los individuos a través de su discurso (Aruguete 2015, Califano 2015). Al mismo tiempo, las redes sociales propician modificaciones en la práctica comunicacional, interviniendo en la construcción del discurso político y reconfigurando el rol del periodismo y los medios de comunicación en su concepción tradicional de intermediarios entre gobernantes y gobernados.
+
+En este contexto, es posible afirmar que la política contemporánea se encuentra atravesada por un proceso de hipermediatización, que influye en las prácticas políticas y produce cambios en las formas de la democracia (Carlón, 2016). Es así como el vínculo entre medios de comunicación y discursos políticos presenta especial interés para las ciencias sociales, particularmente en relación con el estudio de la representación política y la opinión pública en la actualidad
+
+En este marco, el presente trabajo tiene como objetivo indagar los discursos, por un lado, de los principales precandidatos a presidente para las elecciones argentinas del año 2023 y, por el otro, aquellos publicados por los portales de noticias más leídos en el país: Infobae, La Nación, Clarín, Página 12, entre otros. En este sentido, se buscará encontrar similitudes y diferencias entre ambos actores utilizando como eje temáticas vinculadas a seguridad tomando como recorte temporal el período comprendido entre abril 2022 y abril 2023. Para tal fin, se llevará a cabo un análisis del discurso de dichos políticos desde una metodología más bien cuantitativa, utilizando como principales fuentes sus intervenciones en redes sociales, entrevistas y discursos en actos políticos y públicos. De esta manera, a partir de técnicas de programación y ciencia de datos, como webscrapping y text mining, reunidas en una herramienta de desarrollo propio creada para tal propósito y titulada "Dicen Los Medios", se buscará evaluar la similitud entre lo que dicen los políticos y lo que dicen los medios.
+
+## Presentación
+
+::: {style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;  padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;  border-radius: 8px; will-change: transform;"}
+<iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;" src="https://www.canva.com/design/DAFo2JbeHA8/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+
+</iframe>
+:::
+
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFo2JbeHA8&#x2F;view?utm_content=DAFo2JbeHA8&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Presentación para el congreso SAAP</a> de Ariana Bardauil
+
+<a href="https://drive.google.com/drive/u/0/folders/1eTPzimwPdyKrhd3H03w-ePBVZ6dZKwYf"> <button type="button" class="btn btn-primary float-end btn-sm">Accedé a la ponencia</button></a>
+
+<br>

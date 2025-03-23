@@ -1,0 +1,23 @@
+---
+title: "Jornadas de sociología de la UBA 2023 - SAAP: Análisis del discurso: Similitudes y diferencias en discursos vinculados a educación entre candidatos a presidente y diarios digitales en Argentina entre abril 2022 y abril 2023"
+author: "Ariana Bardauil"
+date: "2023-11-06"
+categories: [Academia, NLP]
+image: "imagen.jpg"
+---
+
+### Resumen
+
+En el contexto de las próximas elecciones presidenciales y legislativas en Argentina, que se llevarán a cabo en octubre de este año, el análisis de los discursos políticos y mediáticos sobre la educación adquiere especial relevancia. Los comicios representan momentos de generación de agenda política y de debate mediático acerca de las propuestas de los candidatos y los partidos políticos.
+
+El presente trabajo tiene como objetivo indagar los discursos, por un lado, de los principales candidatos a presidente para las elecciones argentinas del año 2023 y, por el otro, aquellos publicados por los portales de noticias más leídos en el país. En este sentido, se buscará encontrar similitudes y diferencias entre ambos actores utilizando como eje temáticas vinculadas a educación tomando como recorte temporal el período comprendido entre enero y junio de 2023.
+
+Para tal fin, se llevará a cabo un análisis del discurso de dichos políticos desde una metodología cuantitativa, utilizando como principales fuentes sus intervenciones en redes sociales, entrevistas y discursos en actos políticos y públicos. De esta manera, a partir de técnicas de programación y ciencia de datos, como webscrapping y text mining, reunidas en una herramienta de desarrollo propio creada para tal propósito y titulada "Dicen Los Medios", se buscará evaluar la similitud entre lo que dicen los políticos y lo que dicen los medios.
+
+Palabras clave: Medios, agenda setting, ciencia de datos, elecciones.
+
+Por **Ariana Bardauil**, y **Joaquín Lovizio Ramos**
+
+<a href="https://drive.google.com/file/d/1-e3VCklhHFr3tV4Rjhly679dOo7jBJzF/view?usp=sharing"> <button type="button" class="btn btn-primary float-end btn-sm">Accedé a la ponencia</button></a>
+
+<br>
