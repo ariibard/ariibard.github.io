@@ -38,6 +38,7 @@ format:
   html:
     theme: 
       - styles.scss
+    css: estilos/publis.css
 
 
 

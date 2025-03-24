@@ -1,0 +1,57 @@
+/* Contenedor general de la tarjeta */
+.quarto-listing-default .card {
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  padding: 0.75rem;
+  margin-bottom: 1rem;
+  background-color: #fafafa;
+  box-shadow: none;
+}
+
+/* Título más pequeño */
+.quarto-listing-default .card-title {
+  font-size: 0.3rem;  /* antes 1.25rem */
+  font-weight: 600;
+  color: #1a1a1a;
+  margin-bottom: 0.2rem;
+}
+
+/* Descripción más chica */
+.quarto-listing-default .card-text {
+  font-size: 0.75rem;
+  color: #444;
+  line-height: 1.3;
+  margin-bottom: 0.4rem;
+}
+
+/* Fecha */
+.quarto-listing-default .listing-date {
+  font-size: 0.7rem;
+  color: #888;
+  margin-bottom: 0.3rem;
+}
+
+/* Categorías tipo etiquetas muy discretas */
+.quarto-listing-default .quarto-category {
+  display: inline-block;
+  background-color: #eee;
+  color: #555;
+  font-size: 0.65rem;
+  padding: 2px 6px;
+  border-radius: 12px;
+  margin-right: 4px;
+  margin-top: 0.3rem;
+}
+
+/* Imagen más pequeña */
+.quarto-listing-default .card-img {
+  width: 100px;        /* más angosta */
+  height: auto;
+  object-fit: cover;
+  border-radius: 4px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+

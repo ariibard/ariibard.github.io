@@ -106,5 +106,35 @@
   },
   "proyectos/intencion-voto/index.qmd": {
     "index.html": "2673ddac"
+  },
+  "publicaciones/2024-latinr/index.qmd": {
+    "index.html": "7db3e796"
+  },
+  "publicaciones_en.qmd": {
+    "publicaciones_en.html": "b76d1183"
+  },
+  "publicaciones/2021-clad/index.qmd": {
+    "index.html": "288ddfeb"
+  },
+  "publicaciones/2021-ponencia-saap/index.qmd": {
+    "index.html": "3cf4b824"
+  },
+  "publicaciones/2022-capitulo-libro-cambiosycontinuidades/index.qmd": {
+    "index.html": "069de025"
+  },
+  "publicaciones/2023-jornadas-socio/index.qmd": {
+    "index.html": "96cd1294"
+  },
+  "publicaciones/2023-ponencia-saap/index.qmd": {
+    "index.html": "9271a627"
+  },
+  "publicaciones/2022-guia-transparencia/index.qmd": {
+    "index.html": "19c00912"
+  },
+  "publicaciones/2023-transparencia/index.qmd": {
+    "index.html": "4b34558e"
+  },
+  "publicaciones/2024-jaiio/index.qmd": {
+    "index.html": "4bd38080"
   }
 }

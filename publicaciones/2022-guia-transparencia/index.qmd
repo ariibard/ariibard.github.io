@@ -1,0 +1,20 @@
+---
+title: "Guía Federal de Transparencia Activa"
+author: "Comisión de Transparencia del Consejo Federal para la Transparencia"
+date: "2023-10-15"
+categories: [Transparencia activa, Políticas públicas, Federalismo]
+image: "imagen.png"
+page-layout: article
+---
+
+## Resumen
+
+Este documento fue elaborado de manera colectiva en el marco de la Comisión de Transparencia del Consejo Federal para la Transparencia, presidido por la Agencia de Acceso a la Información Pública e integrado por las 24 jurisdicciones del país. Participé de su redacción como parte del equipo técnico de la Agencia, junto a colegas de diversas provincias y organismos públicos.
+
+La **Guía Federal de Transparencia Activa** ofrece orientaciones, recomendaciones y buenas prácticas para el diseño e implementación de políticas de transparencia activa desde una perspectiva **federal, situada y soberana**. Su desarrollo se nutrió de experiencias compartidas en las Mesas de Trabajo del Consejo, y busca fortalecer las capacidades estatales para garantizar el acceso a la información pública en todo el territorio nacional.
+
+------------------------------------------------------------------------
+
+## Recurso
+
+-   📄 [Ver la Guía Federal de Transparencia Activa](https://www.argentina.gob.ar/sites/default/files/guia_federal_transparencia_activa.pdf)

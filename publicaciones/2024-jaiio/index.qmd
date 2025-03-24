@@ -1,0 +1,18 @@
+---
+title: "Estrategias y procedimientos de protección de datos personales en productos que contienen información sanitaria"
+author: "Maria Cecilia Palermo, Ariana Bardauil, Maria Cristina Nanton, Sabrina Laura López, María Belén Islas"
+date: "2024-10-10"
+categories: [datos sensibles, salud, Acceso a la información pública]
+image: "jaiio.jph"
+page-layout: article
+---
+
+## Resumen
+
+Desde 2016, en la Ciudad Autónoma de Buenos Aires (CABA) se lleva adelante la implementación de Sistemas de Información de Salud (SIS) en el subsistema público, lo cual resulta en la producción de un gran volumen de datos. Estos datos son fundamentales para la gestión del sistema sanitario, la investigación y la difusión de información pública. Entre las funciones de la Gerencia Operativa de Gestión de Información y Estadísticas en Salud (GOGIES) se encuentra el tratamiento de los datos provenientes de los SIS y la respuesta a solicitudes de información emitidas por diversos actores. Este artículo presenta diferentes estrategias desarrolladas durante 2023 para garantizar la protección de datos personales y/o sensibles en los productos de información en salud. Durante dicho año, se recibieron mediante la Mesa de Ayuda -plataforma utilizada por el Ministerio para servicios de gestión de información y solución de incidencias- 586 solicitudes de información sanitaria. Aquí se expondrá el desarrollo de una herramienta de clasificación y evaluación que comprende los tipos de información requerida, los perfiles de solicitantes y objetivos de uso; y la aplicación de procedimientos para tratar aquellas solicitudes que requieren información sensible y/o nominalizada.
+
+------------------------------------------------------------------------
+
+## Recursos
+
+-   📄 [Accedé al paper](https://revistas.unlp.edu.ar/JAIIO/article/view/17770)

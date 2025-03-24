@@ -1,0 +1,24 @@
+---
+title: "Experiencias en el uso de R para la automatización de procedimientos administrativos: el Recupero de gastos en el sistema público de salud de la Ciudad de Buenos Aires"
+author: "M. C. Nanton, Ariana Bardauil & M. Rodríguez Tablado"
+date: "2024-11-22"
+categories: [Academia, Salud]
+image: "imagen.png"
+page-layout: article
+---
+
+## Resumen
+
+El recupero de gastos en la salud pública de la Ciudad de Buenos Aires busca recuperar los costos de la atención de pacientes con cobertura de salud que reciben servicios en la Red Integral de Cuidados Progresivos del subsector público. Desde la Gerencia Operativa de Gestión de Información y Estadísticas en Salud (GOGIES) se ha automatizado la generación de la documentación necesaria para este proceso mediante el uso de R y bibliotecas abiertas, generando un impacto inmediato en el ahorro de horas de trabajo de los actores involucrados y redundando en un recupero de gastos efectivo en la Ciudad.
+
+---
+
+## Recursos
+
+- 📄 [Ver paper (PDF)](https://github.com/ariibard/presentacion_latinr_recupero_de_gastos/blob/main/77_Experiencias_en_el_uso_de_R.pdf)
+- 🖥️ [Ver presentación (HTML)](https://github.com/ariibard/presentacion_latinr_recupero_de_gastos/blob/main/presentacion/presentacion_latinR_2024.html)
+- ▶️ [Ver en YouTube](https://www.youtube.com/watch?v=KBcI5T5CdW8&list=PL9-E3cL2KgKm7Jg0N1YogTvh6kmyy5F13&index=3)
+
+---
+
+

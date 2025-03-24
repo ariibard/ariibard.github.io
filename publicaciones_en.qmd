@@ -1,6 +1,6 @@
 ---
-title: Publicaciones
-description: Acá podés encontrar algunos de los trabajos que vengo desarrollando. Muchos de ellos los comparto en eventos o en colaboración con otras personas y equipos
+title: Publications
+description: Here you can find some of the work I've been developing—many of which I’ve shared at events or in collaboration with other people and teams.
 home: true
 listing:
     contents: 

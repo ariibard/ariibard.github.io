@@ -6,8 +6,10 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="author" content="Emiliano Arena, Ariana Bardauil &amp; Catalina Byrne">
+<meta name="dcterms.date" content="2023-09-10">
 
-<title>Hi, there! – Ariana Bardauil</title>
+<title>Estrategia de evaluación del Índice de Transparencia Activa – Ariana Bardauil</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,27 +25,25 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<link href="./imagenes/logo.png" rel="icon" type="image/png">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="site_libs/quarto-html/quarto.js"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/quarto-contrib/fontawesome6-0.1.0/all.css" rel="stylesheet">
-<link href="site_libs/quarto-contrib/fontawesome6-0.1.0/latex-fontsize.css" rel="stylesheet">
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<link href="../../imagenes/logo.png" rel="icon" type="image/png">
+<script src="../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/quarto-contrib/fontawesome6-0.1.0/all.css" rel="stylesheet">
+<link href="../../site_libs/quarto-contrib/fontawesome6-0.1.0/latex-fontsize.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -71,80 +71,25 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
 
-    const options = {
-      valueNames: ['listing-title','listing-author','listing-date','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
-
-<link rel="stylesheet" href="estilos/publis.css">
-<meta property="og:title" content="Hi, there! – Ariana Bardauil">
+<link rel="stylesheet" href="../../estilos/publis.css">
+<meta property="og:title" content="Estrategia de evaluación del Índice de Transparencia Activa – Ariana Bardauil">
 <meta property="og:description" content="">
+<meta property="og:image" content="ariibard.github.io/publicaciones/2023-transparencia/imagen.png">
 <meta property="og:site_name" content="Ariana Bardauil">
+<meta property="og:image:height" content="778">
+<meta property="og:image:width" content="788">
 </head>
 
-<body class="nav-fixed">
+<body class="nav-fixed fullcontent">
 
 <div id="quarto-search-results"></div>
-  <header id="quarto-header" class="headroom fixed-top quarto-banner">
+  <header id="quarto-header" class="headroom fixed-top">
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../../index.html">
     <span class="navbar-title">Ariana Bardauil</span>
     </a>
   </div>
@@ -155,11 +100,11 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./about.html" aria-current="page"> 
+    <a class="nav-link" href="../../about.html"> 
 <span class="menu-text">Sobre mi</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./publicaciones.html"> 
+    <a class="nav-link" href="../../publicaciones.html"> 
 <span class="menu-text">Publicaciones</span></a>
   </li>  
 </ul>
@@ -170,134 +115,71 @@ window.Quarto = {
     </nav>
 </header>
 <!-- content -->
-<header id="title-block-header" class="quarto-title-block default page-columns page-full">
-  <div class="quarto-title-banner page-columns page-full">
-    <div class="quarto-title column-page">
-      <h1 class="title">Hi, there!</h1>
-                      </div>
-  </div>
-    
-  
-  <div class="quarto-title-meta column-page">
-
-      
-    
-      
-    </div>
-    
-  
-  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
     
 <!-- main -->
-<main class="content quarto-banner-title-block column-page" id="quarto-document-content">
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+    
+            <div class="quarto-title">
+            <h1 class="title">Estrategia de evaluación del Índice de Transparencia Activa</h1>
+
+            
+                                    <div class="quarto-categories">
+                                <div class="quarto-category">Transparencia activa</div>
+                                <div class="quarto-category">Acceso a la información pública</div>
+                            </div>
+                                </div>
+        
+
+        
+        <div class="quarto-title-meta">
+
+            <div>
+            <div class="quarto-title-meta-heading">Author</div>
+            <div class="quarto-title-meta-contents">
+                     <p>Emiliano Arena, Ariana Bardauil &amp; Catalina Byrne </p>
+                  </div>
+          </div>
+            
+            <div>
+            <div class="quarto-title-meta-heading">Published</div>
+            <div class="quarto-title-meta-contents">
+              <p class="date">September 10, 2023</p>
+            </div>
+          </div>
+          
+            
+          </div>
+          
+
+        
+            </header>
 
 
-
-
-
-<div class="btn-group" role="group" aria-label="About">
-<p><a href="about.html"> <button type="button" class="btn btn-primary me-md-2 btn-sm">English</button></a> <a href="about_es.html"><button type="button" class="btn btn-primary me-md-2 btn-sm">Español</button></a></p>
-</div>
-<p>I am a political scientist specialized in data science, with postgraduate training in statistics and technical experience in the analysis of social and health data. I am currently pursuing a Master’s degree in Statistical Information Generation and Analysis (UNTREF) and a Specialization in Remote Sensing and GIS (UNLu).</p>
-<p>My work combines the design and implementation of analytical solutions using R, Python, and SQL, applied to the processing of complex databases, automated reporting, and data visualization. I have developed interactive dashboards and Shiny applications, as well as text mining tools for media and public policy analysis.</p>
-<p>I work as a data analyst at the Ministry of Health of the Government of the City of Buenos Aires and as a university lecturer in text mining and social demography. I am also actively involved in research and science communication projects, and I coordinate initiatives such as the Núcleo de Innovación Social and <em>Dicen los Medios</em>.</p>
-<section id="publications" class="level2">
-<h2 class="anchored" data-anchor-id="publications">Publications</h2>
-<div id="publicaciones">
-
-</div>
-<div style="text-align: right">
-<p><a href="publicaciones.html">See all →</a></p>
-</div>
-
+<section id="resumen" class="level2">
+<h2 class="anchored" data-anchor-id="resumen">Resumen</h2>
+<p>Este informe fue elaborado junto a colegas durante mi paso por la Agencia de Acceso a la Información Pública, en el marco de una estrategia de evaluación impulsada por la Dirección Nacional de Evaluación de Políticas de Transparencia. El objetivo fue analizar la implementación del Índice de Transparencia Activa, revisar su metodología, identificar desafíos y proponer una hoja de ruta para su mejora.</p>
+<p>La evaluación combinó distintos enfoques —institucional, técnico y participativo— y se apoyó en un relevamiento muestral para analizar el cumplimiento de ocho variables clave definidas en la Ley 27.275. El trabajo aporta insumos para repensar las políticas de monitoreo y actualización de información pública, desde una perspectiva colaborativa con actores estatales y de la sociedad civil.</p>
+<hr>
+</section>
+<section id="recursos" class="level2">
+<h2 class="anchored" data-anchor-id="recursos">Recursos</h2>
+<ul>
+<li>📄 <a href="https://www.argentina.gob.ar/sites/default/files/1er_informe_gestion_abr_2023_2.pdf">1° informe (abril 2023)</a><br>
+</li>
+<li>📄 <a href="https://www.argentina.gob.ar/sites/default/files/aaip_-_segundo_informe_del_proceso_de_evaluacion_del_indice_de_transparencia_activa.pdf">2° informe (julio 2023)</a><br>
+</li>
+<li>📄 <a href="https://www.argentina.gob.ar/sites/default/files/evaluacion_del_ita_3deg_informe_1.pdf">3° informe (septiembre 2023)</a></li>
+</ul>
 
 
 </section>
 
-<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
-<div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-categories="Academia,Salud" data-listing-date-sort="1732244400000" data-listing-file-modified-sort="1742827894979" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="112">
-<a href="./publicaciones/2024-latinr/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="./publicaciones/2024-latinr/imagen.png" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Experiencias en el uso de R para la automatización de procedimientos administrativos: el Recupero de gastos en el sistema público de salud de la Ciudad de Buenos Aires
-</h5>
-<div class="card-text listing-description">
-El recupero de gastos en la salud pública de la Ciudad de Buenos Aires busca recuperar los costos de la atención de pacientes con cobertura de salud que reciben servicios en…
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-M. C. Nanton, Ariana Bardauil &amp; M. Rodríguez Tablado
-</div>
-<div class="listing-date">
-Nov 22, 2024
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="1" data-categories="datos sensibles,salud,Acceso a la información pública" data-listing-date-sort="1728529200000" data-listing-file-modified-sort="1742829755936" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="197">
-<a href="./publicaciones/2024-jaiio/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="./publicaciones/2024-jaiio/jaiio.jph" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Estrategias y procedimientos de protección de datos personales en productos que contienen información sanitaria
-</h5>
-<div class="card-text listing-description">
-Desde 2016, en la Ciudad Autónoma de Buenos Aires (CABA) se lleva adelante la implementación de Sistemas de Información de Salud (SIS) en el subsistema público, lo cual…
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-Maria Cecilia Palermo, Ariana Bardauil, Maria Cristina Nanton, Sabrina Laura López, María Belén Islas
-</div>
-<div class="listing-date">
-Oct 10, 2024
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="2" data-categories="Academia,NLP" data-listing-date-sort="1699239600000" data-listing-file-modified-sort="1742689319943" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="241">
-<a href="./publicaciones/2023-jornadas-socio/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="./publicaciones/2023-jornadas-socio/imagen.jpg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Jornadas de sociología de la UBA 2023 - SAAP: Análisis del discurso: Similitudes y diferencias en discursos vinculados a educación entre candidatos a presidente y diarios digitales en Argentina entre abril 2022 y abril 2023
-</h5>
-<div class="card-text listing-description">
-En el contexto de las próximas elecciones presidenciales y legislativas en Argentina, que se llevarán a cabo en octubre de este año, el análisis de los discursos políticos y…
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-Ariana Bardauil
-</div>
-<div class="listing-date">
-Nov 6, 2023
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-</div>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-</div></main> <!-- /main -->
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {

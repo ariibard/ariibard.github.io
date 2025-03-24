@@ -1,0 +1,23 @@
+---
+title: "Estrategia de evaluación del Índice de Transparencia Activa"
+author: "Emiliano Arena, Ariana Bardauil & Catalina Byrne"
+date: "2023-09-10"
+categories: [Transparencia activa, Acceso a la información pública]
+image: "imagen.png"
+page-layout: article
+---
+
+## Resumen
+
+Este informe fue elaborado junto a colegas durante mi paso por la Agencia de Acceso a la Información Pública, en el marco de una estrategia de evaluación impulsada por la Dirección Nacional de Evaluación de Políticas de Transparencia. El objetivo fue analizar la implementación del Índice de Transparencia Activa, revisar su metodología, identificar desafíos y proponer una hoja de ruta para su mejora.
+
+La evaluación combinó distintos enfoques —institucional, técnico y participativo— y se apoyó en un relevamiento muestral para analizar el cumplimiento de ocho variables clave definidas en la Ley 27.275. El trabajo aporta insumos para repensar las políticas de monitoreo y actualización de información pública, desde una perspectiva colaborativa con actores estatales y de la sociedad civil.
+
+---
+
+## Recursos
+
+- 📄 [1° informe (abril 2023)](https://www.argentina.gob.ar/sites/default/files/1er_informe_gestion_abr_2023_2.pdf)  
+- 📄 [2° informe (julio 2023)](https://www.argentina.gob.ar/sites/default/files/aaip_-_segundo_informe_del_proceso_de_evaluacion_del_indice_de_transparencia_activa.pdf)  
+- 📄 [3° informe (septiembre 2023)](https://www.argentina.gob.ar/sites/default/files/evaluacion_del_ita_3deg_informe_1.pdf)
+
