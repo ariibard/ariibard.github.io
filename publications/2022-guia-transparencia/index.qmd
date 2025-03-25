@@ -1,0 +1,19 @@
+---
+title: "Federal Guide on Proactive Transparency"
+author: "Transparency Commission of the Federal Council for Transparency"
+date: "2023-10-15"
+categories: [Proactive transparency, Public policy, Federalism]
+page-layout: article
+---
+
+## Summary
+
+This document was collaboratively developed within the framework of the Transparency Commission of the Federal Council for Transparency, chaired by Argentina’s Access to Public Information Agency and composed of representatives from all 24 jurisdictions of the country. I contributed to its drafting as part of the Agency's technical team, alongside colleagues from various provinces and public institutions.
+
+The **Federal Guide on Proactive Transparency** provides guidelines, recommendations, and best practices for designing and implementing proactive transparency policies from a **federal, context-sensitive, and sovereign perspective**. Its development was informed by experiences shared in the Council’s Working Sessions and aims to strengthen institutional capacities to ensure public access to information throughout the national territory.
+
+---
+
+## Resource
+
+- 📄 [Access the Federal Guide on Proactive Transparency](https://www.argentina.gob.ar/sites/default/files/guia_federal_transparencia_activa.pdf)

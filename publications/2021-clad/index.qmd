@@ -1,0 +1,32 @@
+---
+title: "VI International CLAD Congress on State Reform: The Future of Public Employment"
+author: "Ariana Bardauil"
+date: "2021-11-17"
+categories: [Academia]
+image: "imagen.png"
+---
+
+> Findings and Experiences Regarding National Public Employment During the COVID-19 Pandemic in Argentina (2020–2021): Approaches for Designing the Public Employment of the Future
+
+By **Ariana Bardauil**, **Gabriela Gutierrez**, and **Mauro Chilliuti**
+
+### Introduction
+
+The COVID-19 pandemic, declared by the World Health Organization (WHO), and its sustained global impact have significantly affected institutional life in Argentina. In the National Public Administration (APN), it transformed the daily experience of workers, workplace behaviors, and procedures. New routines and redesigns were implemented to maintain the overall functionality and productivity of the public sector. The Secretariat for Management and Public Employment (SSEP) introduced several measures to prevent the spread of the virus, such as school leave through Administrative Decision 390/20, and Resolution No. 3/2020, which authorized remote work for employees whose tasks could be performed from home.
+
+In this context, the Subsecretariat for Public Employment developed a range of materials and studies to better understand and support public sector workers. These included the survey "Remote Work During the Social Isolation Period" (ONEP, 2020); the document "Assessments on the Impact of Remote Work Adaptation" (ONEP, 2020); the report "Projections on the Adaptation of Remote Work in the National Public Administration" (ONEP, 2020); the evaluation "Management During the Transition and Considerations for Future Organizational Planning" (ONEP, 2020); and the CUINAP study "Remote Work: Analysis and Challenges Within the National Public Administration" (Bardauil & Peroche, 2020). Two practical guides were also developed: "Recommendations for Public Employees on Remote Work and Psychosocial Wellbeing" and "Recommendations for Team Leadership in Remote Work Contexts" (ONEP, 2020). In addition, proposals were drafted for a regulatory framework on remote work in the public sector, along with training programs aimed at strengthening teamwork and leadership under remote work conditions.
+
+As part of these efforts, the SSEP launched qualitative and quantitative studies under the initiative “Strengthening Public Employment 2020–2023,” to address the evolving reality of national public employment in Argentina. The general aim of this work is to identify and analyze the processes triggered by this new mode of work. Drawing from an organizational change perspective, the study considers how institutions learn through acquiring, generating, circulating, and storing knowledge. Knowledge management and organizational learning—when supported by structured internal coordination—can improve institutional performance and responsiveness in critical contexts (Gore, 2003).
+
+Crisis scenarios, marked by accumulated disadvantages and limited resources, or by what Etkin and Schvarstein refer to as “instituent situations,” are often opportunities for innovation and organizational transformation (2000).
+
+In this vein, the research adopted an exploratory approach to examine workplace changes during the periods of Mandatory Preventive Social Isolation (ASPO, Decree 297/2020) and Mandatory Preventive Social Distancing (DISPO, Decree 168/2021). It sought to identify the enablers of change and adaptation, as well as to explore future scenarios for public employment. While the fields of knowledge management and organizational change are well developed in the social sciences (Nonaka & Takeuchi, 1995; Spender, 1996; Castells, 2000; Gore, 2004; Barragán Ocaña, 2009; Catalán & Peluffo, 2002), academic production on these topics within the Argentine public administration remains limited (Rodriguez, 2005; Boiero & Petrelli, 2017; Vazquez & Silva, 2020; Pagani, 2009; Oviedo-García et al., 2014). Vazquez & Silva (2020), for example, analyzed institutional responses to the COVID-19 crisis within the National Institute of Public Administration (INAP) using a qualitative approach. This study aims to contribute to the field by analyzing the changes and learning processes that emerged within the APN in response to the pandemic.
+
+Governments in the 21st century face recurring crises linked to technological, economic, social, and political changes, intensified by global interdependence (Castells, 2000). For this reason, public institutions require **strategic thinking**, understood as an approach that assesses the current situation with a forward-looking perspective and risk mapping (CLAD, 2020:9). In this case, the State is studying itself to produce strategic information for post-pandemic decision-making in the field of public employment. This paper presents a preliminary stage of a broader study. It aims to contribute insights and innovative alternatives for strengthening state capacities in critical contexts such as the current one.
+
+The pandemic acted as a **catalyst**, accelerating ongoing processes in the public sector—beyond the scope of remote work alone. Telework is a manifestation of deeper, interconnected processes (Boiero, 2020). Knowledge management involves multiple stages, starting with understanding the current situation within the APN. From there, the challenge is to build a learning-oriented culture that can adapt to changing circumstances. The paper is structured in four parts: first, the concept of agency is introduced; second, the focus is on learning and organizational change; third, the methodological design is presented; and finally, the qualitative study results and concluding reflections are discussed.
+
+<a href="https://drive.google.com/file/d/1NrHSdAjAaFfc21p_dqZAe6RGFkQevSdT/view?usp=sharing">
+  <button type="button" class="btn btn-primary float-end btn-sm">Access the presentation</button>
+</a>
+

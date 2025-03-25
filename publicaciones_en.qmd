@@ -4,7 +4,7 @@ description: Here you can find some of the work I've been developing—many of w
 home: true
 listing:
     contents: 
-    - /publicaciones
+    - /publications
     template: estilos/listing.ejs
     sort: "date desc"
     categories: true
@@ -13,13 +13,14 @@ page-layout: full
 toc: true 
 toc-location: right
 toc-title: Contents
+css: estilos/proyectos.css
 ---
 
-::: {.btn-group role="group" aria-label="About"}
-<a href="publicaciones_en.html"> <button type="button" class="btn btn-primary me-md-2 btn-sm">English</button></a> <a href="publicaciones.html"><button type="button" class="btn btn-primary me-md-2 btn-sm">Español</button></a>
+::: {.btn-group role="group" aria-label="About" .center}
+<a href="publicaciones_en.html"> <button type="button" class="btn btn-primary me-md-2 btn-sm">Read in english</button></a> <a href="publicaciones.html"><button type="button" class="btn btn-primary me-md-2 btn-sm">Leer en español</button></a>
 :::
 
-::: {#publicaciones}
+::: {#publications}
 :::
 
 {{< ai blank-just-to-add-ai-dependency-to-this-page >}}

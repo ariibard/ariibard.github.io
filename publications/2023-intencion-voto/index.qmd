@@ -1,0 +1,19 @@
+---
+title: "Voting Intention Analysis in Buenos Aires and Córdoba"
+date: "2023-07-25"
+categories: [R, Statistics]
+image: "imagen.png"
+---
+
+![](imagen.png)
+
+> Analysis of voting intention for the 2015 elections
+
+The aim of this project is to analyze voting intention based on two surveys conducted in Buenos Aires and Córdoba ahead of the *Open, Simultaneous, and Mandatory Primaries (PASO)* held on August 9, 2015. This work was developed for the course *Applied Electoral and Public Opinion Research I & II* within the Master’s program in Statistical Information Generation and Analysis (UNTREF).
+
+<a href="https://rpubs.com/arianabard/intencionvoto2015">
+  <button type="button" class="btn btn-primary float-end btn-sm">View the analysis</button>
+</a>
+
+<br>
+

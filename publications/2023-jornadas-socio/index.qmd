@@ -1,0 +1,25 @@
+---
+title: "UBA Sociology Conference 2023 – SAAP: Discourse Analysis — Similarities and Differences in Education-Related Narratives Between Presidential Candidates and Digital News Outlets in Argentina (April 2022 – April 2023)"
+author: "Ariana Bardauil"
+date: "2023-11-06"
+categories: [Academia, NLP]
+image: "imagen.jpg"
+---
+
+### Abstract
+
+In the lead-up to Argentina’s 2023 presidential and legislative elections, to be held in October, the analysis of political and media discourse around education becomes especially relevant. Elections are key moments for political agenda-setting and media debate about the proposals of candidates and political parties.
+
+This study aims to explore the discourses of, on the one hand, Argentina's main presidential candidates for the 2023 elections, and on the other, those published by the country’s most widely read digital news outlets. The goal is to identify similarities and differences between these two actors, focusing on education-related themes during the period from January to June 2023.
+
+To this end, a discourse analysis will be conducted using a quantitative methodology. The primary sources will be candidates' interventions on social media, interviews, and speeches delivered at public and political events. Using programming and data science techniques such as web scraping and text mining, all integrated into a custom-built tool called *Dicen Los Medios*, this research seeks to evaluate the degree of similarity between what politicians say and what the media reports.
+
+**Keywords**: Media, agenda setting, data science, elections.
+
+By **Ariana Bardauil** and **Joaquín Lovizio Ramos**
+
+<a href="https://drive.google.com/file/d/1-e3VCklhHFr3tV4Rjhly679dOo7jBJzF/view?usp=sharing"> 
+  <button type="button" class="btn btn-primary float-end btn-sm">Access the presentation</button>
+</a>
+
+<br>

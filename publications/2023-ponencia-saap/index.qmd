@@ -1,0 +1,29 @@
+---
+title: "16th National Congress of Political Science – SAAP: Discourse Analysis"
+author: "Ariana Bardauil"
+date: "2023-07-17"
+categories: [Academia, NLP]
+image: "imagen.png"
+---
+
+> *Discourse Analysis: Similarities and Differences in Security-Related Narratives Between Presidential Pre-Candidates and Digital News Outlets in Argentina (2022–2023)*
+
+By **Ariana Bardauil**, **Joaquín Lovizio Ramos**, and **Santiago Marta**
+
+### Abstract
+
+Media outlets are actors with specific interests that shape individuals’ political and social realities through discourse (Aruguete, 2015; Califano, 2015). At the same time, social media has transformed communication practices, influencing the construction of political discourse and reshaping the traditional role of journalism as a mediator between those who govern and those who are governed.
+
+In this context, it can be argued that contemporary politics is traversed by a process of **hyper-mediatization**, which impacts political practices and transforms the very forms of democracy (Carlón, 2016). As such, the relationship between the media and political discourse is of particular interest to the social sciences—especially in relation to the study of political representation and public opinion today.
+
+This study aims to explore the discourse of Argentina’s main **presidential pre-candidates** for the 2023 elections and compare it with content published by the country's most widely read digital news portals: *Infobae*, *La Nación*, *Clarín*, *Página 12*, among others. The objective is to identify **similarities and differences** between the discourses of both actors, focusing on **security-related topics** within the timeframe of April 2022 to April 2023.
+
+To this end, a **quantitative discourse analysis** will be conducted using sources such as social media posts, interviews, and speeches from political and public events. Through programming and data science techniques—such as **web scraping** and **text mining**—this analysis will be carried out using a custom-developed tool titled *Dicen Los Medios*. The goal is to evaluate the degree of similarity between political discourse and media coverage.
+
+---
+
+## Presentation
+
+::: {style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;  padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;  border-radius: 8px; will-change: transform;"}
+<iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none;
+:::

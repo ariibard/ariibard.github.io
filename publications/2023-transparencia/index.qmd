@@ -1,0 +1,22 @@
+---
+title: "Evaluation Strategy of the Proactive Transparency Index"
+author: "Emiliano Arena, Ariana Bardauil & Catalina Byrne"
+date: "2023-09-10"
+categories: [Proactive transparency, Access to public information]
+image: "imagen.png"
+page-layout: article
+---
+
+## Summary
+
+This report was developed in collaboration with colleagues during my time at Argentina’s Access to Public Information Agency, as part of an evaluation strategy promoted by the National Directorate for the Evaluation of Transparency Policies. The goal was to analyze the implementation of the **Proactive Transparency Index**, review its methodology, identify challenges, and propose a roadmap for its improvement.
+
+The evaluation combined institutional, technical, and participatory approaches and was based on a sampling strategy to assess compliance with eight key variables defined by Law 27.275. This work provides valuable input to rethink monitoring and public information update policies, through a collaborative perspective involving both government agencies and civil society.
+
+---
+
+## Resources
+
+- 📄 [1st Report (April 2023)](https://www.argentina.gob.ar/sites/default/files/1er_informe_gestion_abr_2023_2.pdf)  
+- 📄 [2nd Report (July 2023)](https://www.argentina.gob.ar/sites/default/files/aaip_-_segundo_informe_del_proceso_de_evaluacion_del_indice_de_transparencia_activa.pdf)  
+- 📄 [3rd Report (September 2023)](https://www.argentina.gob.ar/sites/default/files/evaluacion_del_ita_3deg_informe_1.pdf)

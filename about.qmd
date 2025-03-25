@@ -1,37 +1,44 @@
 ---
-title: "Hi, there!"
+title: "Hi, I'm Ari!"
 listing:
-    contents: 
-    - /publicaciones
-    sort: "date desc"
-    type: grid
-    categories: false
-    sort-ui: false
-    filter-ui: false
-    max-items: 3
-    feed: false
-
+  contents: 
+    - /publications
+  template: estilos/listing.ejs
+  sort: "date desc"
+  type: default
+  image-align: right
+  max-description-length: 175
+  date-format: medium
+  categories: false
+  sort-ui: false
+  filter-ui: false
+  max-items: 3
+  feed: false
 page-layout: full
-title-block-banner: true
+title-block-banner: false
 ---
 
-::: {.btn-group role="group" aria-label="About"}
-<a href="about.html"> <button type="button" class="btn btn-primary me-md-2 btn-sm">English</button></a> <a href="about_es.html"><button type="button" class="btn btn-primary me-md-2 btn-sm">Español</button></a>
+::: {.text-center .btn-group role="group" aria-label="About"}
+<a href="about.html"> <button type="button" class="btn btn-primary me-md-2 btn-sm">Read in english</button> </a> <a href="about_es.html"> <button type="button" class="btn btn-primary me-md-2 btn-sm">Leer en español</button> </a>
 :::
 
-I am a political scientist specialized in data science, with postgraduate training in statistics and technical experience in the analysis of social and health data. I am currently pursuing a Master's degree in Statistical Information Generation and Analysis (UNTREF) and a Specialization in Remote Sensing and GIS (UNLu).
+**I'm a political scientist specialized in data science**, with postgraduate training in statistics and technical experience in analyzing social and health data. I’m currently pursuing a **Master’s degree in Statistical Information Generation and Analysis (UNTREF)** and a **Specialization in Remote Sensing and GIS (UNLu)**.
 
-My work combines the design and implementation of analytical solutions using R, Python, and SQL, applied to the processing of complex databases, automated reporting, and data visualization. I have developed interactive dashboards and Shiny applications, as well as text mining tools for media and public policy analysis.
+My work combines the design and implementation of analytical solutions using **R**, **Python**, and **SQL**, applied to complex data processing, report automation, and data visualization. I’ve developed interactive dashboards and **Shiny apps**, as well as **text mining tools** for media and public policy analysis.
 
-I work as a data analyst at the Ministry of Health of the Government of the City of Buenos Aires and as a university lecturer in text mining and social demography. I am also actively involved in research and science communication projects, and I coordinate initiatives such as the Núcleo de Innovación Social and *Dicen los Medios*.
+I currently work as a **data analyst** at the *Ministry of Health of the City of Buenos Aires* and as a **university lecturer** in text mining and social demography.
+
+I’m also actively involved in research and science communication projects, and I coordinate initiatives such as the [**Social Innovation Hub**](https://nucleodeinnovacionsocial.com.ar/) and [*Dicen los Medios*.](https://dicenlosmedios.com.ar/)
+
+💻 I’m a **co-organizer of [R en Buenos Aires](https://renbaires.github.io/)**, a community committed to sharing experiences, workshops, and knowledge about data science in R.
+
+------------------------------------------------------------------------
 
 ## Publications
 
-::: {#publicaciones}
+::: {#publications}
 :::
 
 ::: {style="text-align: right"}
-[See all →](publicaciones.html)
+[View all →](publications.html)
 :::
-
-

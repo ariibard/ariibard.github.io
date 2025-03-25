@@ -29,13 +29,15 @@
       "/publicaciones"
     ],
     "about.qmd": [
-      "/publicaciones"
+      "/publicaciones",
+      "/publications"
     ],
     "about_es.qmd": [
       "/publicaciones"
     ],
     "publicaciones_en.qmd": [
-      "/publicaciones"
+      "/publicaciones",
+      "/publications"
     ]
   }
 }

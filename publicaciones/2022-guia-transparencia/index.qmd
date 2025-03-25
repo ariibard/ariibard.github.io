@@ -3,7 +3,6 @@ title: "Guía Federal de Transparencia Activa"
 author: "Comisión de Transparencia del Consejo Federal para la Transparencia"
 date: "2023-10-15"
 categories: [Transparencia activa, Políticas públicas, Federalismo]
-image: "imagen.png"
 page-layout: article
 ---
 

@@ -3,7 +3,7 @@ title: "Estrategias y procedimientos de protección de datos personales en produ
 author: "Maria Cecilia Palermo, Ariana Bardauil, Maria Cristina Nanton, Sabrina Laura López, María Belén Islas"
 date: "2024-10-10"
 categories: [datos sensibles, salud, Acceso a la información pública]
-image: "jaiio.jph"
+image: "jaiio.jpg"
 page-layout: article
 ---
 

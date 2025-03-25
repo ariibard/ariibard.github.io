@@ -1,0 +1,49 @@
+---
+title: "Changes and Continuities in Argentina's Ministry of Social Development (2015–2019) During the Cambiemos Administration"
+author: "Guadalupe Mercado & Ariana Bardauil"
+date: "2023-08-14"
+categories: [Academia]
+image: "imagen.png"
+---
+
+# Book Chapter
+
+Chapter 5 of the book **"Transformations in the Structure of the State During the Cambiemos Government (2015–2019): An Analysis of Functions, Management Models, and Public Policies"**, edited by Cynthia Ferrari Mango and Alejandro Casalis.
+
+The book is a collective work resulting from a research project based at the National University of La Matanza (UNLaM), Department of Law and Political Science. It analyzes changes in the structure of Argentina’s National Public Administration and their impact on public policy during the 2015–2019 period.
+
+<a href="https://repositoriocyt.unlam.edu.ar/handle/123456789/1502"> 
+  <button type="button" class="btn btn-primary float-end btn-sm">Access the full book</button>
+</a>
+
+<br>
+
+# Chapter 5
+
+> *Changes and Continuities in Argentina's Ministry of Social Development (2015–2019) During the Cambiemos Administration*
+
+By **Ariana Bardauil** and **Guadalupe Mercado**
+
+[**ISBN 978-950-9379-88-6**](https://drive.google.com/drive/u/0/folders/1eTPzimwPdyKrhd3H03w-ePBVZ6dZKwYf)
+
+---
+
+## Introduction
+
+The structure of the nation-state has undergone various transformations throughout history, depending on the direction of public policies, which express the prevailing development model. After the neoliberal crisis—marked by political instability—the Kirchnerist administrations repositioned the State as a central actor in development through the allocation of resources (De Piero, 2012).
+
+In 2015, the Cambiemos coalition came into office with a modernization plan based on an anti-political, de-bureaucratizing, and anti-state vision rooted in efficiency and transparency. This approach reduced the State to a matter of technological administration, favoring technical over political or substantive logic (García Delgado, 2017). This stage, characterized as late neoliberalism, involved a transition to a model centered on "competitiveness and the market," aiming to eliminate areas deemed inefficient by the previous administration—particularly in social spending (García Delgado & Gradín, 2017; Cao, Laguado Duca & Rey, 2018).
+
+The Cambiemos government grounded its political and economic project in the concept of state modernization, which shaped its entire administration (Astarita, 2018). The private sector acted as the main provider of tools to modernize the State. This approach perceived bureaucracy as inherently inefficient and in need of reform. Therefore, private sector actors—seen as dynamic and effective—were brought into public roles and considered “messiahs of change” due to their business background (Canelo et al., 2018). This period is described in the literature as a "CEOcracy" (García Delgado, 2017), led by officials from the private sector (Astarita & De Piero, 2017) through a process known as the "revolving door" (Canelo & Castellani, 2016).
+
+In line with this logic, social policy during the Cambiemos administration contrasted with that of the previous Frente Para la Victoria (2003–2015) governments. It adopted a pragmatic approach based on merit (García Delgado, 2017; Seiffer & Rivas Castro, 2017). Within the Ministry of Social Development (MDSN), officials with “apolitical” profiles from NGOs and business backgrounds—especially in the area of social economy—took leadership roles, often with career paths rooted in the City of Buenos Aires (Perelmiter & Macalle, 2021). This resulted in what scholars describe as a “re-NGO-ization” of social policy under Cambiemos (Arcidiácono & Luci, 2019).
+
+This chapter focuses on the MDSN as a case study, given that it was a ministry that gained institutional and territorial strength during the Kirchnerist governments (Perelmiter, 2012). Before 2003, the central State’s welfare bureaucracy lacked its own infrastructure and relied on intermediaries—such as the Church, political parties, subnational governments, and NGOs—to reach the territory (Perelmiter, 2012). From this perspective, and understanding bureaucracy as a reflection of public policy (Oszlak, 2006), the objective of this chapter is to analyze changes in the structure of the Ministry of Social Development between 2015 and 2019. The analysis focuses on three dimensions: budget allocation, organizational structure, and programmatic direction.
+
+We argue that the changes during Mauricio Macri’s presidency reflect a transformation in the functional definition of the Ministry and its bureaucracy. The chapter is organized into four sections. The first introduces the theoretical and conceptual framework. The second presents background information and a profile of the Ministry. The third analyzes the three dimensions mentioned above. The final section offers concluding remarks.
+
+<a href="https://repositoriocyt.unlam.edu.ar/handle/123456789/1506"> 
+  <button type="button" class="btn btn-primary float-end btn-sm">Access the full chapter</button>
+</a>
+
+<br>

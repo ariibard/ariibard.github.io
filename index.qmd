@@ -15,12 +15,16 @@ about:
       href: mailto:arianabardauil@gmail.com
 ---
 
-Political scientist specialized in data science.
+Lic. en Ciencia Política especializada en Ciencia de Datos 🇦🇷
 
-University lecturer at [**UNLaM**](https://www.unlam.edu.ar/)& [**UFLO**](https://www.uflouniversidad.edu.ar/).\
+Docente universitaria en [**UNLaM**](https://www.unlam.edu.ar/)& [**UFLO**](https://www.uflouniversidad.edu.ar/).
 
-Co-organizer of [R en Buenos Aires](https://renbaires.github.io/) and coordinator of the [Núcleo de Innovación Social](https://nucleodeinnovacionsocial.com.ar/)
+Coorganizadora de [R en Buenos Aires](https://renbaires.github.io/) y coordinadora del [Núcleo de Innovación Social](https://nucleodeinnovacionsocial.com.ar/)
+
+::: {.btn-group role="group" aria-label="About"}
+<a href="index_en.html"> <button type="button" class="btn btn-primary me-md-2 btn-sm">Read in english</button></a> <a href="index.html"><button type="button" class="btn btn-primary me-md-2 btn-sm">Leer en español</button></a>
+:::
 
 ::: {style="text-align: right"}
-[See more →](../about/index.html)
+[Ver más →](../about/index.html)
 :::

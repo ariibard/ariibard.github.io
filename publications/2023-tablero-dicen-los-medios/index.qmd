@@ -1,0 +1,22 @@
+---
+title: "Dicen los Medios Dashboard"
+author: "Ariana Bardauil"
+date: "2023-11-14"
+categories: [Shiny, R, NLP]
+image: imagen.png
+---
+
+![](imagen.png)
+
+> *Dicen los Medios*: a dashboard that lets you explore what, how, and how much digital media talks about a given topic or issue.
+
+This Shiny app was developed in collaboration with **Joaquín Lovizio Ramos** for the media observatory [Dicen los Medios](https://dicenlosmedios.com.ar/) at [Ateneo A.C](https://elateneo.org.ar/).
+
+It’s a tool designed to **analyze the discourse of Argentinian digital media** based on keywords of your choice. With just a few clicks, you can generate visualizations to explore how different media outlets cover a topic. You can also create **word clouds** that summarize the key concepts related to your search.
+
+<a href="https://dicenlosmedios.shinyapps.io/shiny-dlm/">
+  <button type="button" class="btn btn-primary float-end btn-sm">Access the Shiny App</button>
+</a>
+
+<br>
+

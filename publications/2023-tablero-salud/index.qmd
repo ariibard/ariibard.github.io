@@ -1,0 +1,19 @@
+---
+title: "Shiny App – Health Coverage in Buenos Aires (CABA)"
+author: "Ariana Bardauil"
+date: "2023-11-17"
+categories: [R, Shiny]
+image: "imagen.png"
+---
+
+![](imagen.png)
+
+> Explore health coverage in the City of Buenos Aires (CABA)
+
+This dashboard was developed as the final project for the course **Introduction to the Processing, Analysis, and Interactive Visualization of Open Health Data**, part of the *Master’s in Statistical Information Generation and Analysis (UNTREF)*. It displays information on health coverage in the City of Buenos Aires (CABA) by **district (comuna), year, and sex**. The data was sourced from the [**Open Data Portal of the Government of Buenos Aires**](https://www.estadisticaciudad.gob.ar/eyc/?p=83857).
+
+<a href="https://ariana-bard.shinyapps.io/cobertura-salud-caba/">
+  <button type="button" class="btn btn-primary float-end btn-sm">Access the Shiny App</button>
+</a>
+
+<br>

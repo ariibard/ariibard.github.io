@@ -81,9 +81,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-project','listing-execute','listing-website','listing-format','listing-_quarto-vars','listing-language','listing-title','listing-author','listing-date','listing-categories','listing-image','listing-path','listing-outputHref','listing-date-modified','listing-description','listing-filename','listing-file-modified','listing-reading-time','listing-word-count','listing-page-layout',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-date-modified-sort'] },{ data: ['listing-file-modified-sort'] },{ data: ['listing-reading-time-sort'] },{ data: ['listing-word-count-sort'] }],
       
-      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description"],
+      searchColumns: ["listing-project","listing-execute","listing-website","listing-format","listing-_quarto-vars","listing-language","listing-title","listing-author","listing-date","listing-categories","listing-image","listing-path","listing-outputHref","listing-date-modified","listing-description","listing-filename","listing-file-modified","listing-reading-time","listing-word-count","listing-page-layout"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -155,12 +155,39 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./about.html"> 
+    <a class="nav-link" href="./index.html"> <i class="bi bi-house-door-fill" role="img">
+</i> 
+<span class="menu-text"> </span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link active" href="./about_es.html" aria-current="page"> 
 <span class="menu-text">Sobre mi</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./publicaciones.html"> 
 <span class="menu-text">Publicaciones</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./proyectos.html"> 
+<span class="menu-text">Proyectos</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./cursos.qmd"> 
+<span class="menu-text">Cursos, talleres &amp; charlas</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./cv.html"> 
+<span class="menu-text">CV</span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://github.com/ariibard/"> <i class="bi bi-github" role="img" aria-label="GitHub">
+</i> 
+<span class="menu-text"></span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://www.linkedin.com/in/ariana-bardauil/"> <i class="bi bi-linkedin" role="img">
+</i> 
+<span class="menu-text"></span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
@@ -197,11 +224,14 @@ window.Quarto = {
 
 
 <div class="text-center btn-group" role="group" aria-label="About">
-<p><a href="about.html"> <button type="button" class="btn btn-primary me-md-2 btn-sm">English</button> </a> <a href="about_es.html"> <button type="button" class="btn btn-primary me-md-2 btn-sm">Español</button> </a></p>
+<p><a href="about.html"> <button type="button" class="btn btn-primary me-md-2 btn-sm">Read in english</button> </a> <a href="about_es.html"> <button type="button" class="btn btn-primary me-md-2 btn-sm">Leer en español</button> </a></p>
 </div>
-<p>Soy politóloga especializada en ciencia de datos, con formación de posgrado en estadística y experiencia técnica en análisis de datos sociales y sanitarios. Actualmente curso la Maestría en Generación y Análisis de Información Estadística (UNTREF) y la Especialización en Teledetección y SIG (UNLu).</p>
-<p>Mi trabajo combina el diseño y la implementación de soluciones analíticas con programación en R, Python y SQL, aplicadas al procesamiento de bases complejas, la automatización de reportes y la visualización de datos. He desarrollado tableros interactivos y aplicaciones en Shiny, así como herramientas de minería de texto para el análisis de medios y políticas públicas.</p>
-<p>Me desempeño como analista de datos en el Ministerio de Salud del Gobierno de la Ciudad de Buenos Aires y como docente universitaria en minería de texto y demografía social. Además, participo activamente en proyectos de investigación y divulgación científica, y coordino iniciativas como el Núcleo de Innovación Social y Dicen los Medios.</p>
+<p><strong>Soy politóloga especializada en ciencia de datos</strong>, con formación de posgrado en estadística y experiencia técnica en el análisis de datos sociales y sanitarios. Actualmente curso la <strong>Maestría en Generación y Análisis de Información Estadística (UNTREF)</strong> y la <strong>Especialización en Teledetección y SIG (UNLu)</strong>.</p>
+<p>Mi trabajo combina el diseño e implementación de soluciones analíticas con programación en <strong>R</strong>, <strong>Python</strong> y <strong>SQL</strong>, aplicadas al procesamiento de bases complejas, la automatización de reportes y la visualización de datos. He desarrollado tableros interactivos y aplicaciones en <strong>Shiny</strong>, así como herramientas de <strong>minería de texto</strong> para el análisis de medios y políticas públicas.</p>
+<p>Actualmente soy <strong>analista de datos</strong> en el <em>Ministerio de Salud del Gobierno de la Ciudad de Buenos Aires</em> y <strong>docente universitaria</strong> en minería de texto y demografía social.</p>
+<p>Además, participo activamente en proyectos de investigación y divulgación científica, y coordino iniciativas como el <a href="https://nucleodeinnovacionsocial.com.ar/"><strong>Núcleo de Innovación Social</strong></a> y <a href="https://dicenlosmedios.com.ar/"><em>Dicen los Medios</em>.</a></p>
+<p>💻 También soy <strong>co-organizadora de <a href="https://renbaires.github.io/">R en Buenos Aires</a></strong><a href="https://renbaires.github.io/">,</a> una comunidad dedicada a compartir experiencias, talleres y conocimientos sobre ciencia de datos en R.</p>
+<hr>
 <section id="publicaciones" class="level2">
 <h2 class="anchored" data-anchor-id="publicaciones">Publicaciones</h2>
 <div id="publicaciones">
@@ -215,92 +245,97 @@ window.Quarto = {
 
 </section>
 
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="Academia,Salud" data-listing-date-sort="1732244400000" data-listing-file-modified-sort="1742827894979" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="112">
-<div class="thumbnail">
-<p><a href="./publicaciones/2024-latinr/index.html" class="no-external"></a></p><a href="./publicaciones/2024-latinr/index.html" class="no-external">
-<p><img loading="lazy" src="./publicaciones/2024-latinr/imagen.png" class="thumbnail-image"></p>
-</a><p><a href="./publicaciones/2024-latinr/index.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./publicaciones/2024-latinr/index.html" class="no-external">Experiencias en el uso de R para la automatización de procedimientos administrativos: el Recupero de gastos en el sistema público de salud de la Ciudad de Buenos Aires</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./publicaciones/2024-latinr/index.html" class="no-external"></a>
-</div>
-<div class="listing-description">
-<a href="./publicaciones/2024-latinr/index.html" class="no-external">El recupero de gastos en la salud pública de la Ciudad de Buenos Aires busca recuperar los costos de la atención de pacientes con cobertura de salud que reciben servicios en…</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./publicaciones/2024-latinr/index.html" class="no-external">
-<div class="listing-date">
-Nov 22, 2024
-</div>
-<div class="listing-author">
-M. C. Nanton, Ariana Bardauil &amp; M. Rodríguez Tablado
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="1" data-categories="datos sensibles,salud,Acceso a la información pública" data-listing-date-sort="1728529200000" data-listing-file-modified-sort="1742829210666" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="197">
-<div class="thumbnail">
-<p><a href="./publicaciones/2024-jaiio/index.html" class="no-external"></a></p><a href="./publicaciones/2024-jaiio/index.html" class="no-external">
-<p><img loading="lazy" src="./publicaciones/2024-jaiio/imagen.png" class="thumbnail-image"></p>
-</a><p><a href="./publicaciones/2024-jaiio/index.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./publicaciones/2024-jaiio/index.html" class="no-external">Estrategias y procedimientos de protección de datos personales en productos que contienen información sanitaria</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./publicaciones/2024-jaiio/index.html" class="no-external"></a>
-</div>
-<div class="listing-description">
-<a href="./publicaciones/2024-jaiio/index.html" class="no-external">Desde 2016, en la Ciudad Autónoma de Buenos Aires (CABA) se lleva adelante la implementación de Sistemas de Información de Salud (SIS) en el subsistema público, lo cual…</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./publicaciones/2024-jaiio/index.html" class="no-external">
-<div class="listing-date">
-Oct 10, 2024
-</div>
-<div class="listing-author">
-Maria Cecilia Palermo, Ariana Bardauil, Maria Cristina Nanton, Sabrina Laura López, María Belén Islas
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="2" data-categories="Academia,NLP" data-listing-date-sort="1699239600000" data-listing-file-modified-sort="1742689319943" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="241">
-<div class="thumbnail">
-<p><a href="./publicaciones/2023-jornadas-socio/index.html" class="no-external"></a></p><a href="./publicaciones/2023-jornadas-socio/index.html" class="no-external">
-<p><img loading="lazy" src="./publicaciones/2023-jornadas-socio/imagen.jpg" class="thumbnail-image"></p>
-</a><p><a href="./publicaciones/2023-jornadas-socio/index.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./publicaciones/2023-jornadas-socio/index.html" class="no-external">Jornadas de sociología de la UBA 2023 - SAAP: Análisis del discurso: Similitudes y diferencias en discursos vinculados a educación entre candidatos a presidente y diarios digitales en Argentina entre abril 2022 y abril 2023</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./publicaciones/2023-jornadas-socio/index.html" class="no-external"></a>
-</div>
-<div class="listing-description">
-<a href="./publicaciones/2023-jornadas-socio/index.html" class="no-external">En el contexto de las próximas elecciones presidenciales y legislativas en Argentina, que se llevarán a cabo en octubre de este año, el análisis de los discursos políticos y…</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./publicaciones/2023-jornadas-socio/index.html" class="no-external">
-<div class="listing-date">
-Nov 6, 2023
-</div>
-<div class="listing-author">
-Ariana Bardauil
-</div>
-</a>
-</div>
-</div>
+<div class="quarto-listing quarto-listing-container-custom" id="listing-listing">
+<div class="list blog">
+    
+    <div class="blog-entry" data-index="0" data-categories="Academia,Salud" data-listing-date-sort="1732244400000" data-listing-file-modified-sort="1742827894979" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="112">
+        <div class="metadata">          
+            <p class="date listing-date">Nov 22, 2024</p>
+        </div>
+        <div class="body">
+            <p class="title listing-title"><a href="./publicaciones/2024-latinr/index.html">Experiencias en el uso de R para la automatización de procedimientos administrativos: el Recupero de gastos en el sistema público de salud de la Ciudad de Buenos Aires</a></p>
+            
+            <div class="post-categories listing-categories">
+                
+                <div class="post-category listing-category" onclick="window.quartoListingCategory('Academia'); return false;">
+                    Academia
+                </div>
+                
+                <div class="post-category listing-category" onclick="window.quartoListingCategory('Salud'); return false;">
+                    Salud
+                </div>
+                
+            </div>
+            
+            <p class="description listing-description">El recupero de gastos en la salud pública de la Ciudad de Buenos Aires busca recuperar los costos de la atención de pacientes con cobertura de salud que reciben servicios en…</p>
+        </div>
+        
+        <div class="thumbnail">
+            <img src="./publicaciones/2024-latinr/imagen.png" alt="Experiencias en el uso de R para la automatización de procedimientos administrativos: el Recupero de gastos en el sistema público de salud de la Ciudad de Buenos Aires" title="Experiencias en el uso de R para la automatización de procedimientos administrativos: el Recupero de gastos en el sistema público de salud de la Ciudad de Buenos Aires">
+        </div>
+        
+    </div>
+    
+    <div class="blog-entry" data-index="1" data-categories="datos sensibles,salud,Acceso a la información pública" data-listing-date-sort="1728529200000" data-listing-file-modified-sort="1742865143586" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="197">
+        <div class="metadata">          
+            <p class="date listing-date">Oct 10, 2024</p>
+        </div>
+        <div class="body">
+            <p class="title listing-title"><a href="./publicaciones/2024-jaiio/index.html">Estrategias y procedimientos de protección de datos personales en productos que contienen información sanitaria</a></p>
+            
+            <div class="post-categories listing-categories">
+                
+                <div class="post-category listing-category" onclick="window.quartoListingCategory('datos sensibles'); return false;">
+                    datos sensibles
+                </div>
+                
+                <div class="post-category listing-category" onclick="window.quartoListingCategory('salud'); return false;">
+                    salud
+                </div>
+                
+                <div class="post-category listing-category" onclick="window.quartoListingCategory('Acceso a la información pública'); return false;">
+                    Acceso a la información pública
+                </div>
+                
+            </div>
+            
+            <p class="description listing-description">Desde 2016, en la Ciudad Autónoma de Buenos Aires (CABA) se lleva adelante la implementación de Sistemas de Información de Salud (SIS) en el subsistema público, lo cual…</p>
+        </div>
+        
+        <div class="thumbnail">
+            <img src="./publicaciones/2024-jaiio/jaiio.jpg" alt="Estrategias y procedimientos de protección de datos personales en productos que contienen información sanitaria" title="Estrategias y procedimientos de protección de datos personales en productos que contienen información sanitaria">
+        </div>
+        
+    </div>
+    
+    <div class="blog-entry" data-index="2" data-categories="R,Shiny" data-listing-date-sort="1700190000000" data-listing-file-modified-sort="1742689320261" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="83">
+        <div class="metadata">          
+            <p class="date listing-date">Nov 17, 2023</p>
+        </div>
+        <div class="body">
+            <p class="title listing-title"><a href="./publicaciones/2023-tablero-salud/index.html">Shiny App - Cobertura de Salud en CABA</a></p>
+            
+            <div class="post-categories listing-categories">
+                
+                <div class="post-category listing-category" onclick="window.quartoListingCategory('R'); return false;">
+                    R
+                </div>
+                
+                <div class="post-category listing-category" onclick="window.quartoListingCategory('Shiny'); return false;">
+                    Shiny
+                </div>
+                
+            </div>
+            
+            <p class="description listing-description">Analizá la Cobertura de Salud en la Ciudad Autónoma de Buenos Aires (CABA)</p>
+        </div>
+        
+        <div class="thumbnail">
+            <img src="./publicaciones/2023-tablero-salud/imagen.png" alt="Shiny App - Cobertura de Salud en CABA" title="Shiny App - Cobertura de Salud en CABA">
+        </div>
+        
+    </div>
+    
 </div>
 <div class="listing-no-matching d-none">
 No matching items
@@ -730,7 +765,9 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 <footer class="footer">
   <div class="nav-footer">
     <div class="nav-footer-left">
-<p>Ariana Bardauil</p>
+<div style="font-size: 1.2em; line-height: 1.4;">
+<p><strong>© 2025 Ariana Bardauil</strong><br> <span> Website adapted from <a href="https://github.com/kazuyanagimoto/kazuyanagimoto.github.io" target="_blank">Kazuharu Yanagimoto</a>, </span> <span> <br>licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank">CC BY-SA 4.0</a>. </span></p>
+</div>
 </div>   
     <div class="nav-footer-center">
 <p><span class="faux-block"><a href="https://github.com/ariibard"><i class="fa-brands fa-github" aria-label="github"></i></a> <a href="https://www.linkedin.com/in/ariana-bardauil/"><i class="fa-brands fa-linkedin" aria-label="linkedin"></i></a> </span> <span class="faux-block"><i class="fa-brands fa-orcid" aria-label="orcid"></i> <strong>ORCID</strong> <a href="https://orcid.org/0009-0000-5020-7331">0009-0000-5020-7331</a></span></p>

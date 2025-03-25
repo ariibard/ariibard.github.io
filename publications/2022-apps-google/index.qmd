@@ -1,0 +1,18 @@
+---
+title: "Google Play Store Analysis"
+date: "2022-07-25"
+categories: [R, Statistics]
+image: "imagen.jpg"
+---
+
+> Analysis of the Google Play Store app market
+
+![](imagen.jpg){fig-align="center" width="237"}
+
+As part of the course *Applied Statistics for Market Research* in the MGAIE program at UNTREF, this project presents an analysis of the characteristics of the app market hosted on Google Play Store.
+
+<a href="https://rpubs.com/arianabard/appsgoogle">
+  <button type="button" class="btn btn-primary float-end btn-sm">View the analysis</button>
+</a>
+
+<br>

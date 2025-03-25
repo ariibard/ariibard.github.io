@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>ariibard.github.io/index.html</loc>
-    <lastmod>2025-03-23T16:13:52.407Z</lastmod>
+    <lastmod>2025-03-25T01:31:25.924Z</lastmod>
   </url>
   <url>
     <loc>ariibard.github.io/about/index.html</loc>
@@ -58,7 +58,7 @@
   </url>
   <url>
     <loc>ariibard.github.io/cv.html</loc>
-    <lastmod>2025-03-23T00:21:56.352Z</lastmod>
+    <lastmod>2025-03-25T01:41:02.710Z</lastmod>
   </url>
   <url>
     <loc>ariibard.github.io/about/about_es.html</loc>
@@ -66,7 +66,7 @@
   </url>
   <url>
     <loc>ariibard.github.io/about.html</loc>
-    <lastmod>2025-03-23T17:05:53.938Z</lastmod>
+    <lastmod>2025-03-25T01:55:35.762Z</lastmod>
   </url>
   <url>
     <loc>ariibard.github.io/publicaciones/index.html</loc>
@@ -90,7 +90,7 @@
   </url>
   <url>
     <loc>ariibard.github.io/publicaciones.html</loc>
-    <lastmod>2025-03-24T14:55:03.561Z</lastmod>
+    <lastmod>2025-03-25T02:59:34.086Z</lastmod>
   </url>
   <url>
     <loc>ariibard.github.io/proyectos/appsgoogle/index.html</loc>
@@ -98,7 +98,7 @@
   </url>
   <url>
     <loc>ariibard.github.io/about_es.html</loc>
-    <lastmod>2025-03-23T17:20:00.382Z</lastmod>
+    <lastmod>2025-03-25T01:52:07.949Z</lastmod>
   </url>
   <url>
     <loc>ariibard.github.io/proyectos/intencion-voto/index.html</loc>
@@ -110,7 +110,7 @@
   </url>
   <url>
     <loc>ariibard.github.io/publicaciones_en.html</loc>
-    <lastmod>2025-03-24T15:20:11.087Z</lastmod>
+    <lastmod>2025-03-25T03:00:20.741Z</lastmod>
   </url>
   <url>
     <loc>ariibard.github.io/publicaciones/2023-ponencia-saap/index.html</loc>
@@ -134,14 +134,94 @@
   </url>
   <url>
     <loc>ariibard.github.io/publicaciones/2024-jaiio/index.html</loc>
-    <lastmod>2025-03-24T15:13:30.666Z</lastmod>
+    <lastmod>2025-03-25T01:12:23.586Z</lastmod>
   </url>
   <url>
     <loc>ariibard.github.io/publicaciones/2022-guia-transparencia/index.html</loc>
-    <lastmod>2025-03-24T15:15:51.663Z</lastmod>
+    <lastmod>2025-03-25T02:15:51.835Z</lastmod>
   </url>
   <url>
     <loc>ariibard.github.io/publicaciones/2023-transparencia/index.html</loc>
     <lastmod>2025-03-24T15:11:18.542Z</lastmod>
+  </url>
+  <url>
+    <loc>ariibard.github.io/publications/2021-clad/index.html</loc>
+    <lastmod>2025-03-25T00:36:42.204Z</lastmod>
+  </url>
+  <url>
+    <loc>ariibard.github.io/publications/2024-latinr/index.html</loc>
+    <lastmod>2025-03-25T01:05:32.648Z</lastmod>
+  </url>
+  <url>
+    <loc>ariibard.github.io/publications/2023-transparencia/index.html</loc>
+    <lastmod>2025-03-25T01:03:27.040Z</lastmod>
+  </url>
+  <url>
+    <loc>ariibard.github.io/publications/2023-jornadas-socio/index.html</loc>
+    <lastmod>2025-03-25T01:01:05.199Z</lastmod>
+  </url>
+  <url>
+    <loc>ariibard.github.io/publications/2022-capitulo-libro-cambiosycontinuidades/index.html</loc>
+    <lastmod>2025-03-25T00:40:16.122Z</lastmod>
+  </url>
+  <url>
+    <loc>ariibard.github.io/publications/2021-ponencia-saap/index.html</loc>
+    <lastmod>2025-03-25T00:38:34.178Z</lastmod>
+  </url>
+  <url>
+    <loc>ariibard.github.io/publications/2022-guia-transparencia/index.html</loc>
+    <lastmod>2025-03-25T02:13:45.628Z</lastmod>
+  </url>
+  <url>
+    <loc>ariibard.github.io/publications/2023-ponencia-saap/index.html</loc>
+    <lastmod>2025-03-25T01:02:29.104Z</lastmod>
+  </url>
+  <url>
+    <loc>ariibard.github.io/publications/2024-jaiio/index.html</loc>
+    <lastmod>2025-03-25T01:04:52.478Z</lastmod>
+  </url>
+  <url>
+    <loc>ariibard.github.io/index_en.html</loc>
+    <lastmod>2025-03-25T01:25:47.260Z</lastmod>
+  </url>
+  <url>
+    <loc>ariibard.github.io/publications/2023-tablero-salud/index.html</loc>
+    <lastmod>2025-03-25T02:12:42.526Z</lastmod>
+  </url>
+  <url>
+    <loc>ariibard.github.io/publications/2023-tablero-dicen-los-medios/index.html</loc>
+    <lastmod>2025-03-25T02:14:22.480Z</lastmod>
+  </url>
+  <url>
+    <loc>ariibard.github.io/publications/2022-apps-google/index.html</loc>
+    <lastmod>2025-03-25T02:06:37.456Z</lastmod>
+  </url>
+  <url>
+    <loc>ariibard.github.io/publicaciones/2023-tablero-dicenlosmedios/index.html</loc>
+    <lastmod>2025-03-25T02:15:22.750Z</lastmod>
+  </url>
+  <url>
+    <loc>ariibard.github.io/publicaciones/2022-appsgoogle/index.html</loc>
+    <lastmod>2025-03-25T02:05:42.302Z</lastmod>
+  </url>
+  <url>
+    <loc>ariibard.github.io/publicaciones/2023-intencion-voto/index.html</loc>
+    <lastmod>2025-03-23T00:21:59.851Z</lastmod>
+  </url>
+  <url>
+    <loc>ariibard.github.io/publicaciones/2023-tablero-salud/index.html</loc>
+    <lastmod>2025-03-23T00:22:00.261Z</lastmod>
+  </url>
+  <url>
+    <loc>ariibard.github.io/publications/2023-intencion-voto/index.html</loc>
+    <lastmod>2025-03-25T02:09:16.781Z</lastmod>
+  </url>
+  <url>
+    <loc>ariibard.github.io/proyectos.html</loc>
+    <lastmod>2025-03-25T03:02:53.301Z</lastmod>
+  </url>
+  <url>
+    <loc>ariibard.github.io/projects.html</loc>
+    <lastmod>2025-03-25T02:58:17.969Z</lastmod>
   </url>
 </urlset>

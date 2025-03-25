@@ -4,11 +4,15 @@
     "items": [
       "/publicaciones/2024-latinr/index.html",
       "/publicaciones/2024-jaiio/index.html",
+      "/publicaciones/2023-tablero-salud/index.html",
+      "/publicaciones/2023-tablero-dicenlosmedios/index.html",
       "/publicaciones/2023-jornadas-socio/index.html",
       "/publicaciones/2022-guia-transparencia/index.html",
       "/publicaciones/2023-transparencia/index.html",
       "/publicaciones/2022-capitulo-libro-cambiosycontinuidades/index.html",
+      "/publicaciones/2023-intencion-voto/index.html",
       "/publicaciones/2023-ponencia-saap/index.html",
+      "/publicaciones/2022-appsgoogle/index.html",
       "/publicaciones/2021-clad/index.html",
       "/publicaciones/2021-ponencia-saap/index.html"
     ]
@@ -40,15 +44,19 @@
   {
     "listing": "/about.html",
     "items": [
-      "/publicaciones/2024-latinr/index.html",
-      "/publicaciones/2024-jaiio/index.html",
-      "/publicaciones/2023-jornadas-socio/index.html",
-      "/publicaciones/2022-guia-transparencia/index.html",
-      "/publicaciones/2023-transparencia/index.html",
-      "/publicaciones/2022-capitulo-libro-cambiosycontinuidades/index.html",
-      "/publicaciones/2023-ponencia-saap/index.html",
-      "/publicaciones/2021-clad/index.html",
-      "/publicaciones/2021-ponencia-saap/index.html"
+      "/publications/2024-latinr/index.html",
+      "/publications/2024-jaiio/index.html",
+      "/publications/2023-tablero-salud/index.html",
+      "/publications/2023-tablero-dicen-los-medios/index.html",
+      "/publications/2023-jornadas-socio/index.html",
+      "/publications/2022-guia-transparencia/index.html",
+      "/publications/2023-transparencia/index.html",
+      "/publications/2022-capitulo-libro-cambiosycontinuidades/index.html",
+      "/publications/2023-intencion-voto/index.html",
+      "/publications/2023-ponencia-saap/index.html",
+      "/publications/2022-apps-google/index.html",
+      "/publications/2021-clad/index.html",
+      "/publications/2021-ponencia-saap/index.html"
     ]
   },
   {
@@ -56,11 +64,15 @@
     "items": [
       "/publicaciones/2024-latinr/index.html",
       "/publicaciones/2024-jaiio/index.html",
+      "/publicaciones/2023-tablero-salud/index.html",
+      "/publicaciones/2023-tablero-dicenlosmedios/index.html",
       "/publicaciones/2023-jornadas-socio/index.html",
       "/publicaciones/2022-guia-transparencia/index.html",
       "/publicaciones/2023-transparencia/index.html",
       "/publicaciones/2022-capitulo-libro-cambiosycontinuidades/index.html",
+      "/publicaciones/2023-intencion-voto/index.html",
       "/publicaciones/2023-ponencia-saap/index.html",
+      "/publicaciones/2022-appsgoogle/index.html",
       "/publicaciones/2021-clad/index.html",
       "/publicaciones/2021-ponencia-saap/index.html"
     ]
@@ -68,15 +80,19 @@
   {
     "listing": "/publicaciones_en.html",
     "items": [
-      "/publicaciones/2024-latinr/index.html",
-      "/publicaciones/2024-jaiio/index.html",
-      "/publicaciones/2023-jornadas-socio/index.html",
-      "/publicaciones/2022-guia-transparencia/index.html",
-      "/publicaciones/2023-transparencia/index.html",
-      "/publicaciones/2022-capitulo-libro-cambiosycontinuidades/index.html",
-      "/publicaciones/2023-ponencia-saap/index.html",
-      "/publicaciones/2021-clad/index.html",
-      "/publicaciones/2021-ponencia-saap/index.html"
+      "/publications/2024-latinr/index.html",
+      "/publications/2024-jaiio/index.html",
+      "/publications/2023-tablero-salud/index.html",
+      "/publications/2023-tablero-dicen-los-medios/index.html",
+      "/publications/2023-jornadas-socio/index.html",
+      "/publications/2022-guia-transparencia/index.html",
+      "/publications/2023-transparencia/index.html",
+      "/publications/2022-capitulo-libro-cambiosycontinuidades/index.html",
+      "/publications/2023-intencion-voto/index.html",
+      "/publications/2023-ponencia-saap/index.html",
+      "/publications/2022-apps-google/index.html",
+      "/publications/2021-clad/index.html",
+      "/publications/2021-ponencia-saap/index.html"
     ]
   }
 ]

@@ -20,13 +20,36 @@ website:
   open-graph: true
   navbar:
     right:
+      - href: index.qmd
+        icon: house-door-fill
+        text: " "
       - text: Sobre mi
-        file: about.qmd
+        file: about_es.qmd
       - text: Publicaciones
         file: publicaciones.qmd
+      - text: Proyectos
+        file: proyectos.qmd
+      - text: Cursos, talleres & charlas
+        file: cursos.qmd
+      - text: CV
+        file: cv.qmd
+      - icon: github
+        href: https://github.com/ariibard/
+        aria-label: GitHub
+      - icon: linkedin
+        href: https://www.linkedin.com/in/ariana-bardauil/
 
   page-footer:
-    left: "Ariana Bardauil" 
+    left: |
+      <div style="font-size: 1.2em; line-height: 1.4;">
+      <strong>&copy; 2025 Ariana Bardauil</strong><br>
+      <span>
+        Website adapted from <a href="https://github.com/kazuyanagimoto/kazuyanagimoto.github.io" target="_blank">Kazuharu Yanagimoto</a>, 
+      </span>
+      <span>
+      <br>licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank">CC BY-SA 4.0</a>.
+      </span>
+      </div>
     center: |
       <span class="faux-block">[{{< fa brands github >}}]({{< var github-url >}}) [{{< fa brands linkedin >}}]({{< var linkedin-url >}}) </span>
       <span class="faux-block">{{< fa brands orcid >}} <strong>ORCID</strong> [{{< var orcid >}}](https://orcid.org/{{< var orcid >}})</span>

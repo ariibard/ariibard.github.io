@@ -1,0 +1,30 @@
+---
+title: "Ariana Bardauil"
+image: imagenes/ari.jpg
+about:
+  template: jolla
+  links:
+    - icon: github
+      text: GitHub
+      href: https://github.com/ariibard
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/ariana-bardauil/
+    - icon: envelope
+      text: Email
+      href: mailto:arianabardauil@gmail.com
+---
+
+Political scientist specialized in data science.
+
+University lecturer at [**UNLaM**](https://www.unlam.edu.ar/)& [**UFLO**](https://www.uflouniversidad.edu.ar/).\
+
+Co-organizer of [R en Buenos Aires](https://renbaires.github.io/) and coordinator of the [Núcleo de Innovación Social](https://nucleodeinnovacionsocial.com.ar/)
+
+::: {.btn-group role="group" aria-label="About"}
+<a href="index_en.html"> <button type="button" class="btn btn-primary me-md-2 btn-sm">Read in english</button></a> <a href="index.html"><button type="button" class="btn btn-primary me-md-2 btn-sm">Leer en español</button></a>
+:::
+
+::: {style="text-align: right"}
+[See more →](../about/index.html)
+:::

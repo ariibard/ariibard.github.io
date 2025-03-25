@@ -1,0 +1,38 @@
+---
+title: "15th National Congress of Political Science - SAAP: The Digital Magnifying Glass"
+author: "Ariana Bardauil"
+date: "2021-08-17"
+categories: [Academia, NLP]
+image: "imagen.png"
+---
+
+> *The digital magnifying glass on the pre-candidates for national deputies in the Province of Buenos Aires and CABA. Analysis of digital media coverage from March to September*[^1]
+
+[^1]: Paper presented at the 15th National Congress of Political Science: *"Democracy in Times of Distrust and Global Uncertainty. Collective Action and the Politicization of Inequalities in the Public Sphere"*, organized by the Argentine Society of Political Analysis (SAAP) and the National University of Rosario, Rosario, November 10–13, 2021.
+
+By **Ariana Bardauil**, **Joaquín Lovizio Ramos**, and **Manuel Iglesias**
+
+**Web scraping and data mining techniques**
+
+### Abstract
+
+The media play a key role in society by influencing how individuals perceive daily reality (Califano, 2015). In this sense, the relationship between media and citizens is a changing phenomenon that has captured the attention of social sciences since the early 20th century. This paper draws on the theoretical framework of Agenda Setting (McCombs & Shaw, 1972; Arruguete, 2015). The central hypothesis of this theory can be summarized in the idea that the media may not be successful in telling us *what* to think, but they are highly effective in telling us *what* to think about (Cohen, 1963). There is a process of transferring topics, hierarchies, images, or attributes from the media to the public. This selection and media emphasis on certain aspects of issues strongly influence how they are perceived (Arruguete, 2009).
+
+Based on these theoretical principles, the main objective of this paper is to analyze how major digital news outlets covered the pre-candidates for national deputies from the different lists running in the Primary, Open, Simultaneous and Mandatory Elections (PASO) in the Province of Buenos Aires and the City of Buenos Aires (CABA), between March and September 2021. To this end, the analysis draws on five of the country's main digital news portals: *Infobae*, *Clarín*, *La Nación*, *Página 12*, and *Ámbito*.
+
+Using a quantitative methodology, the study applies techniques such as **web scraping** and **text mining**, integrated into a custom-built news collection software called *Dicen Los Medios*. The research represents an interdisciplinary collaboration between social and computational sciences, rooted in the emerging field of data science.
+
+**Keywords**: Media, agenda setting, data science, elections.
+
+---
+
+## Presentation
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSKtnHZIyJx3DkKVBJr2D9cC8aRNBzazPeQ1Xnqf6MEjYSejE83HIQ8zKbTq3y7U0qhyeJMZXsUHYNT/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true">
+</iframe>
+
+<a href="https://drive.google.com/file/d/1ZrBWEVHkKkja9XaB-S60z8NoSsLvzlK4/view?usp=sharing">
+  <button type="button" class="btn btn-primary float-end btn-sm">Access the full paper</button>
+</a>
+
+<br>

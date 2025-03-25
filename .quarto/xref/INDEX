@@ -136,5 +136,65 @@
   },
   "publicaciones/2024-jaiio/index.qmd": {
     "index.html": "4bd38080"
+  },
+  "publications/2021-clad/index.qmd": {
+    "index.html": "0bc31618"
+  },
+  "publications/2021-ponencia-saap/index.qmd": {
+    "index.html": "24d38700"
+  },
+  "publications/2022-capitulo-libro-cambiosycontinuidades/index.qmd": {
+    "index.html": "7abaf5ab"
+  },
+  "publications/2022-guia-transparencia/index.qmd": {
+    "index.html": "8533cc64"
+  },
+  "publications/2023-jornadas-socio/index.qmd": {
+    "index.html": "0eb68898"
+  },
+  "publications/2023-ponencia-saap/index.qmd": {
+    "index.html": "c6d540c8"
+  },
+  "publications/2023-transparencia/index.qmd": {
+    "index.html": "5f7f1804"
+  },
+  "publications/2024-jaiio/index.qmd": {
+    "index.html": "a551aae8"
+  },
+  "publications/2024-latinr/index.qmd": {
+    "index.html": "ce990bd7"
+  },
+  "index_en.qmd": {
+    "index_en.html": "1933093b"
+  },
+  "publications/2023-tablero-salud/index.qmd": {
+    "index.html": "5f031349"
+  },
+  "publicaciones/2022-appsgoogle/index.qmd": {
+    "index.html": "86aa2c9b"
+  },
+  "publicaciones/2023-intencion-voto/index.qmd": {
+    "index.html": "b59347d1"
+  },
+  "publicaciones/2023-tablero-dicenlosmedios/index.qmd": {
+    "index.html": "b3c69c43"
+  },
+  "publicaciones/2023-tablero-salud/index.qmd": {
+    "index.html": "c23fe334"
+  },
+  "publications/2022-apps-google/index.qmd": {
+    "index.html": "c754288a"
+  },
+  "publications/2023-intencion-voto/index.qmd": {
+    "index.html": "908536fd"
+  },
+  "publications/2023-tablero-dicen-los-medios/index.qmd": {
+    "index.html": "317ecb61"
+  },
+  "proyectos.qmd": {
+    "proyectos.html": "9b6cb36f"
+  },
+  "projects.qmd": {
+    "projects.html": "91c5de0b"
   }
 }

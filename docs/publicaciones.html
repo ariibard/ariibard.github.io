@@ -84,9 +84,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-project','listing-execute','listing-website','listing-format','listing-_quarto-vars','listing-language','listing-title','listing-author','listing-date','listing-categories','listing-image','listing-path','listing-outputHref','listing-date-modified','listing-description','listing-filename','listing-file-modified','listing-reading-time','listing-word-count','listing-page-layout',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-date-modified-sort'] },{ data: ['listing-file-modified-sort'] },{ data: ['listing-reading-time-sort'] },{ data: ['listing-word-count-sort'] }],
       
-      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
+      searchColumns: ["listing-project","listing-execute","listing-website","listing-format","listing-_quarto-vars","listing-language","listing-title","listing-author","listing-date","listing-categories","listing-image","listing-path","listing-outputHref","listing-date-modified","listing-description","listing-filename","listing-file-modified","listing-reading-time","listing-word-count","listing-page-layout"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -141,6 +141,7 @@ window.Quarto = {
 </script>
 
 <link rel="stylesheet" href="estilos/publis.css">
+<link rel="stylesheet" href="estilos/proyectos.css">
 <meta property="og:title" content="Publicaciones – Ariana Bardauil">
 <meta property="og:description" content="Acá podés encontrar algunos de los trabajos que vengo desarrollando. Muchos de ellos los comparto en eventos o en colaboración con otras personas y equipos">
 <meta property="og:site_name" content="Ariana Bardauil">
@@ -164,12 +165,39 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./about.html"> 
+    <a class="nav-link" href="./index.html"> <i class="bi bi-house-door-fill" role="img">
+</i> 
+<span class="menu-text"> </span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./about_es.html"> 
 <span class="menu-text">Sobre mi</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link active" href="./publicaciones.html" aria-current="page"> 
 <span class="menu-text">Publicaciones</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./proyectos.html"> 
+<span class="menu-text">Proyectos</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./cursos.qmd"> 
+<span class="menu-text">Cursos, talleres &amp; charlas</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./cv.html"> 
+<span class="menu-text">CV</span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://github.com/ariibard/"> <i class="bi bi-github" role="img" aria-label="GitHub">
+</i> 
+<span class="menu-text"></span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://www.linkedin.com/in/ariana-bardauil/"> <i class="bi bi-linkedin" role="img">
+</i> 
+<span class="menu-text"></span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
@@ -205,7 +233,7 @@ window.Quarto = {
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(9)</span></div><div class="category" data-category="Academia">Academia <span class="quarto-category-count">(6)</span></div><div class="category" data-category="Acceso a la información pública">Acceso a la información pública <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Federalismo">Federalismo <span class="quarto-category-count">(1)</span></div><div class="category" data-category="NLP">NLP <span class="quarto-category-count">(3)</span></div><div class="category" data-category="Políticas públicas">Políticas públicas <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Salud">Salud <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Transparencia activa">Transparencia activa <span class="quarto-category-count">(2)</span></div><div class="category" data-category="datos sensibles">datos sensibles <span class="quarto-category-count">(1)</span></div><div class="category" data-category="salud">salud <span class="quarto-category-count">(1)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(13)</span></div><div class="category" data-category="Academia">Academia <span class="quarto-category-count">(6)</span></div><div class="category" data-category="Acceso a la información pública">Acceso a la información pública <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Estadística">Estadística <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Federalismo">Federalismo <span class="quarto-category-count">(1)</span></div><div class="category" data-category="NLP">NLP <span class="quarto-category-count">(4)</span></div><div class="category" data-category="Políticas públicas">Políticas públicas <span class="quarto-category-count">(1)</span></div><div class="category" data-category="R">R <span class="quarto-category-count">(4)</span></div><div class="category" data-category="Salud">Salud <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Shiny">Shiny <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Transparencia activa">Transparencia activa <span class="quarto-category-count">(2)</span></div><div class="category" data-category="datos sensibles">datos sensibles <span class="quarto-category-count">(1)</span></div><div class="category" data-category="salud">salud <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
 <main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
 
@@ -213,8 +241,8 @@ window.Quarto = {
 
 
 
-<div class="btn-group" role="group" aria-label="About">
-<p><a href="publicaciones_en.html"> <button type="button" class="btn btn-primary me-md-2 btn-sm">English</button></a> <a href="publicaciones.html"><button type="button" class="btn btn-primary me-md-2 btn-sm">Español</button></a></p>
+<div class="btn-group center" role="group" aria-label="About">
+<p><a href="publicaciones_en.html"> <button type="button" class="btn btn-primary me-md-2 btn-sm">Read in english</button></a> <a href="publicaciones.html"><button type="button" class="btn btn-primary me-md-2 btn-sm">Leer en español</button></a></p>
 </div>
 <div id="publicaciones">
 
@@ -224,332 +252,373 @@ window.Quarto = {
 
 
 
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="Academia,Salud" data-listing-date-sort="1732244400000" data-listing-file-modified-sort="1742827894979" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="112">
-<div class="thumbnail">
-<p><a href="./publicaciones/2024-latinr/index.html" class="no-external"></a></p><a href="./publicaciones/2024-latinr/index.html" class="no-external">
-<p><img loading="lazy" src="./publicaciones/2024-latinr/imagen.png" class="thumbnail-image"></p>
-</a><p><a href="./publicaciones/2024-latinr/index.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./publicaciones/2024-latinr/index.html" class="no-external">Experiencias en el uso de R para la automatización de procedimientos administrativos: el Recupero de gastos en el sistema público de salud de la Ciudad de Buenos Aires</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./publicaciones/2024-latinr/index.html" class="no-external"></a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Academia'); return false;">
-Academia
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Salud'); return false;">
-Salud
-</div>
-</div>
-<div class="listing-description">
-<a href="./publicaciones/2024-latinr/index.html" class="no-external">El recupero de gastos en la salud pública de la Ciudad de Buenos Aires busca recuperar los costos de la atención de pacientes con cobertura de salud que reciben servicios en…</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./publicaciones/2024-latinr/index.html" class="no-external">
-<div class="listing-date">
-Nov 22, 2024
-</div>
-<div class="listing-author">
-M. C. Nanton, Ariana Bardauil &amp; M. Rodríguez Tablado
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="1" data-categories="datos sensibles,salud,Acceso a la información pública" data-listing-date-sort="1728529200000" data-listing-file-modified-sort="1742829210666" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="197">
-<div class="thumbnail">
-<p><a href="./publicaciones/2024-jaiio/index.html" class="no-external"></a></p><a href="./publicaciones/2024-jaiio/index.html" class="no-external">
-<p><img loading="lazy" src="./publicaciones/2024-jaiio/imagen.png" class="thumbnail-image"></p>
-</a><p><a href="./publicaciones/2024-jaiio/index.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./publicaciones/2024-jaiio/index.html" class="no-external">Estrategias y procedimientos de protección de datos personales en productos que contienen información sanitaria</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./publicaciones/2024-jaiio/index.html" class="no-external"></a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('datos sensibles'); return false;">
-datos sensibles
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('salud'); return false;">
-salud
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Acceso a la información pública'); return false;">
-Acceso a la información pública
-</div>
-</div>
-<div class="listing-description">
-<a href="./publicaciones/2024-jaiio/index.html" class="no-external">Desde 2016, en la Ciudad Autónoma de Buenos Aires (CABA) se lleva adelante la implementación de Sistemas de Información de Salud (SIS) en el subsistema público, lo cual…</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./publicaciones/2024-jaiio/index.html" class="no-external">
-<div class="listing-date">
-Oct 10, 2024
-</div>
-<div class="listing-author">
-Maria Cecilia Palermo, Ariana Bardauil, Maria Cristina Nanton, Sabrina Laura López, María Belén Islas
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="2" data-categories="Academia,NLP" data-listing-date-sort="1699239600000" data-listing-file-modified-sort="1742689319943" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="241">
-<div class="thumbnail">
-<p><a href="./publicaciones/2023-jornadas-socio/index.html" class="no-external"></a></p><a href="./publicaciones/2023-jornadas-socio/index.html" class="no-external">
-<p><img loading="lazy" src="./publicaciones/2023-jornadas-socio/imagen.jpg" class="thumbnail-image"></p>
-</a><p><a href="./publicaciones/2023-jornadas-socio/index.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./publicaciones/2023-jornadas-socio/index.html" class="no-external">Jornadas de sociología de la UBA 2023 - SAAP: Análisis del discurso: Similitudes y diferencias en discursos vinculados a educación entre candidatos a presidente y diarios digitales en Argentina entre abril 2022 y abril 2023</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./publicaciones/2023-jornadas-socio/index.html" class="no-external"></a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Academia'); return false;">
-Academia
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('NLP'); return false;">
-NLP
-</div>
-</div>
-<div class="listing-description">
-<a href="./publicaciones/2023-jornadas-socio/index.html" class="no-external">En el contexto de las próximas elecciones presidenciales y legislativas en Argentina, que se llevarán a cabo en octubre de este año, el análisis de los discursos políticos y…</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./publicaciones/2023-jornadas-socio/index.html" class="no-external">
-<div class="listing-date">
-Nov 6, 2023
-</div>
-<div class="listing-author">
-Ariana Bardauil
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="3" data-categories="Transparencia activa,Políticas públicas,Federalismo" data-listing-date-sort="1697338800000" data-listing-file-modified-sort="1742829351663" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="130">
-<div class="thumbnail">
-<p><a href="./publicaciones/2022-guia-transparencia/index.html" class="no-external"></a></p><a href="./publicaciones/2022-guia-transparencia/index.html" class="no-external">
-<p><img loading="lazy" src="./publicaciones/2022-guia-transparencia/guia_federal.png" class="thumbnail-image"></p>
-</a><p><a href="./publicaciones/2022-guia-transparencia/index.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./publicaciones/2022-guia-transparencia/index.html" class="no-external">Guía Federal de Transparencia Activa</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./publicaciones/2022-guia-transparencia/index.html" class="no-external"></a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Transparencia activa'); return false;">
-Transparencia activa
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Políticas públicas'); return false;">
-Políticas públicas
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Federalismo'); return false;">
-Federalismo
-</div>
-</div>
-<div class="listing-description">
-<a href="./publicaciones/2022-guia-transparencia/index.html" class="no-external">Este documento fue elaborado de manera colectiva en el marco de la Comisión de Transparencia del Consejo Federal para la Transparencia, presidido por la Agencia de Acceso a…</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./publicaciones/2022-guia-transparencia/index.html" class="no-external">
-<div class="listing-date">
-Oct 15, 2023
-</div>
-<div class="listing-author">
-Comisión de Transparencia del Consejo Federal para la Transparencia
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="4" data-categories="Transparencia activa,Acceso a la información pública" data-listing-date-sort="1694314800000" data-listing-file-modified-sort="1742829078542" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="138">
-<div class="thumbnail">
-<p><a href="./publicaciones/2023-transparencia/index.html" class="no-external"></a></p><a href="./publicaciones/2023-transparencia/index.html" class="no-external">
-<p><img loading="lazy" src="./publicaciones/2023-transparencia/imagen.png" class="thumbnail-image"></p>
-</a><p><a href="./publicaciones/2023-transparencia/index.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./publicaciones/2023-transparencia/index.html" class="no-external">Estrategia de evaluación del Índice de Transparencia Activa</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./publicaciones/2023-transparencia/index.html" class="no-external"></a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Transparencia activa'); return false;">
-Transparencia activa
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Acceso a la información pública'); return false;">
-Acceso a la información pública
-</div>
-</div>
-<div class="listing-description">
-<a href="./publicaciones/2023-transparencia/index.html" class="no-external">Este informe fue elaborado junto a colegas durante mi paso por la Agencia de Acceso a la Información Pública, en el marco de una estrategia de evaluación impulsada por la…</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./publicaciones/2023-transparencia/index.html" class="no-external">
-<div class="listing-date">
-Sep 10, 2023
-</div>
-<div class="listing-author">
-Emiliano Arena, Ariana Bardauil &amp; Catalina Byrne
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="5" data-categories="Academia" data-listing-date-sort="1691982000000" data-listing-file-modified-sort="1742689319724" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="840">
-<div class="thumbnail">
-<p><a href="./publicaciones/2022-capitulo-libro-cambiosycontinuidades/index.html" class="no-external"></a></p><a href="./publicaciones/2022-capitulo-libro-cambiosycontinuidades/index.html" class="no-external">
-<p><img loading="lazy" src="./publicaciones/2022-capitulo-libro-cambiosycontinuidades/imagen.png" class="thumbnail-image"></p>
-</a><p><a href="./publicaciones/2022-capitulo-libro-cambiosycontinuidades/index.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./publicaciones/2022-capitulo-libro-cambiosycontinuidades/index.html" class="no-external">Cambios y continuidades en el Ministerio de Desarrollo Social de la Nación (2015 - 2019) durante la gestión Cambiemos en Argentina</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./publicaciones/2022-capitulo-libro-cambiosycontinuidades/index.html" class="no-external"></a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Academia'); return false;">
-Academia
-</div>
-</div>
-<div class="listing-description">
-<a href="./publicaciones/2022-capitulo-libro-cambiosycontinuidades/index.html" class="no-external">Capítulo 5 del libro <strong>“Transformaciones en la estructura del Estado en el gobierno de Cambiemos (2015-2019). Un análisis de las funciones, el modelo de gestión y las…</strong></a>
-</div>
-</div>
-<div class="metadata">
-<a href="./publicaciones/2022-capitulo-libro-cambiosycontinuidades/index.html" class="no-external">
-<div class="listing-date">
-Aug 14, 2023
-</div>
-<div class="listing-author">
-Ariana Bardauil
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="6" data-categories="Academia,NLP" data-listing-date-sort="1689562800000" data-listing-file-modified-sort="1742689320053" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="408">
-<div class="thumbnail">
-<p><a href="./publicaciones/2023-ponencia-saap/index.html" class="no-external"></a></p><a href="./publicaciones/2023-ponencia-saap/index.html" class="no-external">
-<p><img loading="lazy" src="./publicaciones/2023-ponencia-saap/imagen.png" class="thumbnail-image"></p>
-</a><p><a href="./publicaciones/2023-ponencia-saap/index.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./publicaciones/2023-ponencia-saap/index.html" class="no-external">XVI Congreso Nacional de Ciencia Política - SAAP: Análisis de discurso</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./publicaciones/2023-ponencia-saap/index.html" class="no-external"></a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Academia'); return false;">
-Academia
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('NLP'); return false;">
-NLP
-</div>
-</div>
-<div class="listing-description">
-<a href="./publicaciones/2023-ponencia-saap/index.html" class="no-external">Análisis de discurso: Similitudes y diferencias en discursos vinculados a inseguridad entre precandidatos a presidente y diarios digitales en Argentina (2022-2023)</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./publicaciones/2023-ponencia-saap/index.html" class="no-external">
-<div class="listing-date">
-Jul 17, 2023
-</div>
-<div class="listing-author">
-Ariana Bardauil
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="7" data-categories="Academia" data-listing-date-sort="1637118000000" data-listing-file-modified-sort="1742689319795" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="993">
-<div class="thumbnail">
-<p><a href="./publicaciones/2021-clad/index.html" class="no-external"></a></p><a href="./publicaciones/2021-clad/index.html" class="no-external">
-<p><img loading="lazy" src="./publicaciones/2021-clad/imagen.png" class="thumbnail-image"></p>
-</a><p><a href="./publicaciones/2021-clad/index.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./publicaciones/2021-clad/index.html" class="no-external">VI Congreso Internacional del CLAD sobre Reforma del Estado: El Empleo Público del Futuro</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./publicaciones/2021-clad/index.html" class="no-external"></a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Academia'); return false;">
-Academia
-</div>
-</div>
-<div class="listing-description">
-<a href="./publicaciones/2021-clad/index.html" class="no-external">Hallazgos Y experiencias acerca del empleo público nacional en situación de pandemia en Argentina, 2020-2021: abordajes para el diseño del empleo público del futuro</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./publicaciones/2021-clad/index.html" class="no-external">
-<div class="listing-date">
-Nov 17, 2021
-</div>
-<div class="listing-author">
-Ariana Bardauil
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="8" data-categories="Academia,NLP" data-listing-date-sort="1629169200000" data-listing-file-modified-sort="1742689320002" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="411">
-<div class="thumbnail">
-<p><a href="./publicaciones/2021-ponencia-saap/index.html" class="no-external"></a></p><a href="./publicaciones/2021-ponencia-saap/index.html" class="no-external">
-<p><img loading="lazy" src="./publicaciones/2021-ponencia-saap/imagen.png" class="thumbnail-image"></p>
-</a><p><a href="./publicaciones/2021-ponencia-saap/index.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./publicaciones/2021-ponencia-saap/index.html" class="no-external">XV Congreso Nacional de Ciencia Política - SAAP: La lupa digital</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./publicaciones/2021-ponencia-saap/index.html" class="no-external"></a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Academia'); return false;">
-Academia
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('NLP'); return false;">
-NLP
-</div>
-</div>
-<div class="listing-description">
-<a href="./publicaciones/2021-ponencia-saap/index.html" class="no-external">La lupa digital sobre los precandidatos de la Provincia de Buenos Aires y CABA a diputados nacionales”. Análisis del tratamiento de medios digitales entre marzo y septiembre”<sup>1</sup></a>
-</div>
-</div>
-<div class="metadata">
-<a href="./publicaciones/2021-ponencia-saap/index.html" class="no-external">
-<div class="listing-date">
-Aug 17, 2021
-</div>
-<div class="listing-author">
-Ariana Bardauil
-</div>
-</a>
-</div>
-</div>
+<div class="quarto-listing quarto-listing-container-custom" id="listing-listing">
+<div class="list blog">
+    
+    <div class="blog-entry" data-index="0" data-categories="Academia,Salud" data-listing-date-sort="1732244400000" data-listing-file-modified-sort="1742827894979" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="112">
+        <div class="metadata">          
+            <p class="date listing-date">Nov 22, 2024</p>
+        </div>
+        <div class="body">
+            <p class="title listing-title"><a href="./publicaciones/2024-latinr/index.html">Experiencias en el uso de R para la automatización de procedimientos administrativos: el Recupero de gastos en el sistema público de salud de la Ciudad de Buenos Aires</a></p>
+            
+            <div class="post-categories listing-categories">
+                
+                <div class="post-category listing-category" onclick="window.quartoListingCategory('Academia'); return false;">
+                    Academia
+                </div>
+                
+                <div class="post-category listing-category" onclick="window.quartoListingCategory('Salud'); return false;">
+                    Salud
+                </div>
+                
+            </div>
+            
+            <p class="description listing-description">El recupero de gastos en la salud pública de la Ciudad de Buenos Aires busca recuperar los costos de la atención de pacientes con cobertura de salud que reciben servicios en…</p>
+        </div>
+        
+        <div class="thumbnail">
+            <img src="./publicaciones/2024-latinr/imagen.png" alt="Experiencias en el uso de R para la automatización de procedimientos administrativos: el Recupero de gastos en el sistema público de salud de la Ciudad de Buenos Aires" title="Experiencias en el uso de R para la automatización de procedimientos administrativos: el Recupero de gastos en el sistema público de salud de la Ciudad de Buenos Aires">
+        </div>
+        
+    </div>
+    
+    <div class="blog-entry" data-index="1" data-categories="datos sensibles,salud,Acceso a la información pública" data-listing-date-sort="1728529200000" data-listing-file-modified-sort="1742865143586" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="197">
+        <div class="metadata">          
+            <p class="date listing-date">Oct 10, 2024</p>
+        </div>
+        <div class="body">
+            <p class="title listing-title"><a href="./publicaciones/2024-jaiio/index.html">Estrategias y procedimientos de protección de datos personales en productos que contienen información sanitaria</a></p>
+            
+            <div class="post-categories listing-categories">
+                
+                <div class="post-category listing-category" onclick="window.quartoListingCategory('datos sensibles'); return false;">
+                    datos sensibles
+                </div>
+                
+                <div class="post-category listing-category" onclick="window.quartoListingCategory('salud'); return false;">
+                    salud
+                </div>
+                
+                <div class="post-category listing-category" onclick="window.quartoListingCategory('Acceso a la información pública'); return false;">
+                    Acceso a la información pública
+                </div>
+                
+            </div>
+            
+            <p class="description listing-description">Desde 2016, en la Ciudad Autónoma de Buenos Aires (CABA) se lleva adelante la implementación de Sistemas de Información de Salud (SIS) en el subsistema público, lo cual…</p>
+        </div>
+        
+        <div class="thumbnail">
+            <img src="./publicaciones/2024-jaiio/jaiio.jpg" alt="Estrategias y procedimientos de protección de datos personales en productos que contienen información sanitaria" title="Estrategias y procedimientos de protección de datos personales en productos que contienen información sanitaria">
+        </div>
+        
+    </div>
+    
+    <div class="blog-entry" data-index="2" data-categories="R,Shiny" data-listing-date-sort="1700190000000" data-listing-file-modified-sort="1742689320261" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="83">
+        <div class="metadata">          
+            <p class="date listing-date">Nov 17, 2023</p>
+        </div>
+        <div class="body">
+            <p class="title listing-title"><a href="./publicaciones/2023-tablero-salud/index.html">Shiny App - Cobertura de Salud en CABA</a></p>
+            
+            <div class="post-categories listing-categories">
+                
+                <div class="post-category listing-category" onclick="window.quartoListingCategory('R'); return false;">
+                    R
+                </div>
+                
+                <div class="post-category listing-category" onclick="window.quartoListingCategory('Shiny'); return false;">
+                    Shiny
+                </div>
+                
+            </div>
+            
+            <p class="description listing-description">Analizá la Cobertura de Salud en la Ciudad Autónoma de Buenos Aires (CABA)</p>
+        </div>
+        
+        <div class="thumbnail">
+            <img src="./publicaciones/2023-tablero-salud/imagen.png" alt="Shiny App - Cobertura de Salud en CABA" title="Shiny App - Cobertura de Salud en CABA">
+        </div>
+        
+    </div>
+    
+    <div class="blog-entry" data-index="3" data-categories="Shiny,R,NLP" data-listing-date-sort="1699930800000" data-listing-file-modified-sort="1742868922750" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="111">
+        <div class="metadata">          
+            <p class="date listing-date">Nov 14, 2023</p>
+        </div>
+        <div class="body">
+            <p class="title listing-title"><a href="./publicaciones/2023-tablero-dicenlosmedios/index.html">Tablero Dicen los Medios</a></p>
+            
+            <div class="post-categories listing-categories">
+                
+                <div class="post-category listing-category" onclick="window.quartoListingCategory('Shiny'); return false;">
+                    Shiny
+                </div>
+                
+                <div class="post-category listing-category" onclick="window.quartoListingCategory('R'); return false;">
+                    R
+                </div>
+                
+                <div class="post-category listing-category" onclick="window.quartoListingCategory('NLP'); return false;">
+                    NLP
+                </div>
+                
+            </div>
+            
+            <p class="description listing-description">Dicen los medios. Un tablero que te permite analizar qué, cómo y cuanto hablan los medios digitales de determinado tema o tópico</p>
+        </div>
+        
+        <div class="thumbnail">
+            <img src="./publicaciones/2023-tablero-dicenlosmedios/imagen.png" alt="Tablero Dicen los Medios" title="Tablero Dicen los Medios">
+        </div>
+        
+    </div>
+    
+    <div class="blog-entry" data-index="4" data-categories="Academia,NLP" data-listing-date-sort="1699239600000" data-listing-file-modified-sort="1742689319943" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="241">
+        <div class="metadata">          
+            <p class="date listing-date">Nov 6, 2023</p>
+        </div>
+        <div class="body">
+            <p class="title listing-title"><a href="./publicaciones/2023-jornadas-socio/index.html">Jornadas de sociología de la UBA 2023 - SAAP: Análisis del discurso: Similitudes y diferencias en discursos vinculados a educación entre candidatos a presidente y diarios digitales en Argentina entre abril 2022 y abril 2023</a></p>
+            
+            <div class="post-categories listing-categories">
+                
+                <div class="post-category listing-category" onclick="window.quartoListingCategory('Academia'); return false;">
+                    Academia
+                </div>
+                
+                <div class="post-category listing-category" onclick="window.quartoListingCategory('NLP'); return false;">
+                    NLP
+                </div>
+                
+            </div>
+            
+            <p class="description listing-description">En el contexto de las próximas elecciones presidenciales y legislativas en Argentina, que se llevarán a cabo en octubre de este año, el análisis de los discursos políticos y…</p>
+        </div>
+        
+        <div class="thumbnail">
+            <img src="./publicaciones/2023-jornadas-socio/imagen.jpg" alt="Jornadas de sociología de la UBA 2023 - SAAP: Análisis del discurso: Similitudes y diferencias en discursos vinculados a educación entre candidatos a presidente y diarios digitales en Argentina entre abril 2022 y abril 2023" title="Jornadas de sociología de la UBA 2023 - SAAP: Análisis del discurso: Similitudes y diferencias en discursos vinculados a educación entre candidatos a presidente y diarios digitales en Argentina entre abril 2022 y abril 2023">
+        </div>
+        
+    </div>
+    
+    <div class="blog-entry" data-index="5" data-categories="Transparencia activa,Políticas públicas,Federalismo" data-listing-date-sort="1697338800000" data-listing-file-modified-sort="1742868951835" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="132">
+        <div class="metadata">          
+            <p class="date listing-date">Oct 15, 2023</p>
+        </div>
+        <div class="body">
+            <p class="title listing-title"><a href="./publicaciones/2022-guia-transparencia/index.html">Guía Federal de Transparencia Activa</a></p>
+            
+            <div class="post-categories listing-categories">
+                
+                <div class="post-category listing-category" onclick="window.quartoListingCategory('Transparencia activa'); return false;">
+                    Transparencia activa
+                </div>
+                
+                <div class="post-category listing-category" onclick="window.quartoListingCategory('Políticas públicas'); return false;">
+                    Políticas públicas
+                </div>
+                
+                <div class="post-category listing-category" onclick="window.quartoListingCategory('Federalismo'); return false;">
+                    Federalismo
+                </div>
+                
+            </div>
+            
+            <p class="description listing-description">Este documento fue elaborado de manera colectiva en el marco de la Comisión de Transparencia del Consejo Federal para la Transparencia, presidido por la Agencia de Acceso a…</p>
+        </div>
+        
+    </div>
+    
+    <div class="blog-entry" data-index="6" data-categories="Transparencia activa,Acceso a la información pública" data-listing-date-sort="1694314800000" data-listing-file-modified-sort="1742829078542" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="138">
+        <div class="metadata">          
+            <p class="date listing-date">Sep 10, 2023</p>
+        </div>
+        <div class="body">
+            <p class="title listing-title"><a href="./publicaciones/2023-transparencia/index.html">Estrategia de evaluación del Índice de Transparencia Activa</a></p>
+            
+            <div class="post-categories listing-categories">
+                
+                <div class="post-category listing-category" onclick="window.quartoListingCategory('Transparencia activa'); return false;">
+                    Transparencia activa
+                </div>
+                
+                <div class="post-category listing-category" onclick="window.quartoListingCategory('Acceso a la información pública'); return false;">
+                    Acceso a la información pública
+                </div>
+                
+            </div>
+            
+            <p class="description listing-description">Este informe fue elaborado junto a colegas durante mi paso por la Agencia de Acceso a la Información Pública, en el marco de una estrategia de evaluación impulsada por la…</p>
+        </div>
+        
+        <div class="thumbnail">
+            <img src="./publicaciones/2023-transparencia/imagen.png" alt="Estrategia de evaluación del Índice de Transparencia Activa" title="Estrategia de evaluación del Índice de Transparencia Activa">
+        </div>
+        
+    </div>
+    
+    <div class="blog-entry" data-index="7" data-categories="Academia" data-listing-date-sort="1691982000000" data-listing-file-modified-sort="1742689319724" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="840">
+        <div class="metadata">          
+            <p class="date listing-date">Aug 14, 2023</p>
+        </div>
+        <div class="body">
+            <p class="title listing-title"><a href="./publicaciones/2022-capitulo-libro-cambiosycontinuidades/index.html">Cambios y continuidades en el Ministerio de Desarrollo Social de la Nación (2015 - 2019) durante la gestión Cambiemos en Argentina</a></p>
+            
+            <div class="post-categories listing-categories">
+                
+                <div class="post-category listing-category" onclick="window.quartoListingCategory('Academia'); return false;">
+                    Academia
+                </div>
+                
+            </div>
+            
+            <p class="description listing-description">Capítulo 5 del libro <strong>“Transformaciones en la estructura del Estado en el gobierno de Cambiemos (2015-2019). Un análisis de las funciones, el modelo de gestión y las…</strong></p>
+        </div>
+        
+        <div class="thumbnail">
+            <img src="./publicaciones/2022-capitulo-libro-cambiosycontinuidades/imagen.png" alt="Cambios y continuidades en el Ministerio de Desarrollo Social de la Nación (2015 - 2019) durante la gestión Cambiemos en Argentina" title="Cambios y continuidades en el Ministerio de Desarrollo Social de la Nación (2015 - 2019) durante la gestión Cambiemos en Argentina">
+        </div>
+        
+    </div>
+    
+    <div class="blog-entry" data-index="8" data-categories="R,Estadística" data-listing-date-sort="1690254000000" data-listing-file-modified-sort="1742689319851" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="79">
+        <div class="metadata">          
+            <p class="date listing-date">Jul 25, 2023</p>
+        </div>
+        <div class="body">
+            <p class="title listing-title"><a href="./publicaciones/2023-intencion-voto/index.html">Análisis de Intención de Voto en Bs. As y Córdoba</a></p>
+            
+            <div class="post-categories listing-categories">
+                
+                <div class="post-category listing-category" onclick="window.quartoListingCategory('R'); return false;">
+                    R
+                </div>
+                
+                <div class="post-category listing-category" onclick="window.quartoListingCategory('Estadística'); return false;">
+                    Estadística
+                </div>
+                
+            </div>
+            
+            <p class="description listing-description">Analisis de la intención de voto para las elecciones de 2015</p>
+        </div>
+        
+        <div class="thumbnail">
+            <img src="./publicaciones/2023-intencion-voto/imagen.png" alt="Análisis de Intención de Voto en Bs. As y Córdoba" title="Análisis de Intención de Voto en Bs. As y Córdoba">
+        </div>
+        
+    </div>
+    
+    <div class="blog-entry" data-index="9" data-categories="Academia,NLP" data-listing-date-sort="1689562800000" data-listing-file-modified-sort="1742689320053" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="408">
+        <div class="metadata">          
+            <p class="date listing-date">Jul 17, 2023</p>
+        </div>
+        <div class="body">
+            <p class="title listing-title"><a href="./publicaciones/2023-ponencia-saap/index.html">XVI Congreso Nacional de Ciencia Política - SAAP: Análisis de discurso</a></p>
+            
+            <div class="post-categories listing-categories">
+                
+                <div class="post-category listing-category" onclick="window.quartoListingCategory('Academia'); return false;">
+                    Academia
+                </div>
+                
+                <div class="post-category listing-category" onclick="window.quartoListingCategory('NLP'); return false;">
+                    NLP
+                </div>
+                
+            </div>
+            
+            <p class="description listing-description">Análisis de discurso: Similitudes y diferencias en discursos vinculados a inseguridad entre precandidatos a presidente y diarios digitales en Argentina (2022-2023)</p>
+        </div>
+        
+        <div class="thumbnail">
+            <img src="./publicaciones/2023-ponencia-saap/imagen.png" alt="XVI Congreso Nacional de Ciencia Política - SAAP: Análisis de discurso" title="XVI Congreso Nacional de Ciencia Política - SAAP: Análisis de discurso">
+        </div>
+        
+    </div>
+    
+    <div class="blog-entry" data-index="10" data-categories="R,Estadística" data-listing-date-sort="1658718000000" data-listing-file-modified-sort="1742868342302" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="53">
+        <div class="metadata">          
+            <p class="date listing-date">Jul 25, 2022</p>
+        </div>
+        <div class="body">
+            <p class="title listing-title"><a href="./publicaciones/2022-appsgoogle/index.html">Análisis de Google Play store</a></p>
+            
+            <div class="post-categories listing-categories">
+                
+                <div class="post-category listing-category" onclick="window.quartoListingCategory('R'); return false;">
+                    R
+                </div>
+                
+                <div class="post-category listing-category" onclick="window.quartoListingCategory('Estadística'); return false;">
+                    Estadística
+                </div>
+                
+            </div>
+            
+            <p class="description listing-description">Analisis del mercado de apps de Google Playstore</p>
+        </div>
+        
+        <div class="thumbnail">
+            <img src="./publicaciones/2022-appsgoogle/imagen.jpg" alt="Análisis de Google Play store" title="Análisis de Google Play store">
+        </div>
+        
+    </div>
+    
+    <div class="blog-entry" data-index="11" data-categories="Academia" data-listing-date-sort="1637118000000" data-listing-file-modified-sort="1742689319795" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="993">
+        <div class="metadata">          
+            <p class="date listing-date">Nov 17, 2021</p>
+        </div>
+        <div class="body">
+            <p class="title listing-title"><a href="./publicaciones/2021-clad/index.html">VI Congreso Internacional del CLAD sobre Reforma del Estado: El Empleo Público del Futuro</a></p>
+            
+            <div class="post-categories listing-categories">
+                
+                <div class="post-category listing-category" onclick="window.quartoListingCategory('Academia'); return false;">
+                    Academia
+                </div>
+                
+            </div>
+            
+            <p class="description listing-description">Hallazgos Y experiencias acerca del empleo público nacional en situación de pandemia en Argentina, 2020-2021: abordajes para el diseño del empleo público del futuro</p>
+        </div>
+        
+        <div class="thumbnail">
+            <img src="./publicaciones/2021-clad/imagen.png" alt="VI Congreso Internacional del CLAD sobre Reforma del Estado: El Empleo Público del Futuro" title="VI Congreso Internacional del CLAD sobre Reforma del Estado: El Empleo Público del Futuro">
+        </div>
+        
+    </div>
+    
+    <div class="blog-entry" data-index="12" data-categories="Academia,NLP" data-listing-date-sort="1629169200000" data-listing-file-modified-sort="1742689320002" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="411">
+        <div class="metadata">          
+            <p class="date listing-date">Aug 17, 2021</p>
+        </div>
+        <div class="body">
+            <p class="title listing-title"><a href="./publicaciones/2021-ponencia-saap/index.html">XV Congreso Nacional de Ciencia Política - SAAP: La lupa digital</a></p>
+            
+            <div class="post-categories listing-categories">
+                
+                <div class="post-category listing-category" onclick="window.quartoListingCategory('Academia'); return false;">
+                    Academia
+                </div>
+                
+                <div class="post-category listing-category" onclick="window.quartoListingCategory('NLP'); return false;">
+                    NLP
+                </div>
+                
+            </div>
+            
+            <p class="description listing-description">La lupa digital sobre los precandidatos de la Provincia de Buenos Aires y CABA a diputados nacionales”. Análisis del tratamiento de medios digitales entre marzo y septiembre”<sup>1</sup></p>
+        </div>
+        
+        <div class="thumbnail">
+            <img src="./publicaciones/2021-ponencia-saap/imagen.png" alt="XV Congreso Nacional de Ciencia Política - SAAP: La lupa digital" title="XV Congreso Nacional de Ciencia Política - SAAP: La lupa digital">
+        </div>
+        
+    </div>
+    
 </div>
 <div class="listing-no-matching d-none">
 No matching items
@@ -979,7 +1048,9 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 <footer class="footer">
   <div class="nav-footer">
     <div class="nav-footer-left">
-<p>Ariana Bardauil</p>
+<div style="font-size: 1.2em; line-height: 1.4;">
+<p><strong>© 2025 Ariana Bardauil</strong><br> <span> Website adapted from <a href="https://github.com/kazuyanagimoto/kazuyanagimoto.github.io" target="_blank">Kazuharu Yanagimoto</a>, </span> <span> <br>licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank">CC BY-SA 4.0</a>. </span></p>
+</div>
 </div>   
     <div class="nav-footer-center">
 <p><span class="faux-block"><a href="https://github.com/ariibard"><i class="fa-brands fa-github" aria-label="github"></i></a> <a href="https://www.linkedin.com/in/ariana-bardauil/"><i class="fa-brands fa-linkedin" aria-label="linkedin"></i></a> </span> <span class="faux-block"><i class="fa-brands fa-orcid" aria-label="orcid"></i> <strong>ORCID</strong> <a href="https://orcid.org/0009-0000-5020-7331">0009-0000-5020-7331</a></span></p>

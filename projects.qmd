@@ -1,0 +1,51 @@
+---
+title: Projects
+description: Some of the projects and communities I've been involved with.
+home: true
+title-block-banner: "#fff"
+page-layout: full
+css: estilos/proyectos.css
+---
+::: {.btn-group role="group" aria-label="About".center}
+<a href="projects.html"> <button type="button" class="btn btn-primary me-md-2 btn-sm">Read in english</button></a> <a href="proyectos.html"><button type="button" class="btn btn-primary me-md-2 btn-sm">Leer en español</button></a>
+:::
+
+<br>
+
+::: {.team-grid}
+
+::: {.team-card}
+![R en Buenos Aires](https://renbaires.github.io/assets/icons/icon.png)
+
+Co-organizer of the local community that promotes the use of R for data science in Buenos Aires, Argentina.
+
+<a href="https://www.linkedin.com/company/r-en-buenos-aires" target="_blank"><i class="bi bi-linkedin"></i></a>
+<a href="https://github.com/renbaires" target="_blank"><i class="bi bi-github"></i></a>
+<a href="mailto:renbairesl@gmail.com"><i class="bi bi-envelope"></i></a>
+<a href="https://renbaires.github.io" target="_blank"><i class="bi bi-globe"></i></a>
+<a href="https://www.instagram.com/renbaires" target="_blank"><i class="bi bi-instagram"></i></a>
+:::
+
+::: {.team-card}
+![Dicen los Medios](https://i.pinimg.com/736x/4f/71/f2/4f71f29c0d155d8f5d929eaa6a9d1fbb.jpg){.team-img}
+
+A project that analyzes digital media discourse and public agenda using text mining.
+
+<a href="https://www.dicenlosmedios.com" target="_blank"><i class="bi bi-globe"></i></a>
+<a href="https://www.linkedin.com/company/dicenlosmedios" target="_blank"><i class="bi bi-linkedin"></i></a>
+:::
+
+::: {.team-card}
+![Núcleo de Innovación Social](https://nucleodeinnovacionsocial.com.ar/images/logoNIS.png){.team-img}
+
+Coordination and strategy design for the development of innovation projects with social impact.
+
+<a href="https://www.linkedin.com/company/nucleois" target="_blank"><i class="bi bi-linkedin"></i></a>
+<a href="https://github.com/nucleodeinnovacion" target="_blank"><i class="bi bi-github"></i></a>
+<a href="mailto:info@nucleodeinnovacion.com"><i class="bi bi-envelope"></i></a>
+<a href="https://www.nucleodeinnovacionsocial.com" target="_blank"><i class="bi bi-globe"></i></a>
+<a href="https://www.instagram.com/nucleodeinnovacion" target="_blank"><i class="bi bi-instagram"></i></a>
+:::
+
+:::
+
