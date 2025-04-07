@@ -21,25 +21,36 @@ website:
   #google-analytics: "G-EX523L4LWJ"
   open-graph: true
   navbar:
+    left:
+      - text: CV
+        file: cv.qmd
+        
+      - icon: github
+        href: https://github.com/ariibard/
+        aria-label: GitHub
+        
+      - icon: linkedin
+        href: https://www.linkedin.com/in/ariana-bardauil/
+        
     right:
       - href: index.qmd
         icon: house-door-fill
         text: " "
+        
       - text: Sobre mi
         file: about_es.qmd
-      - text: Publicaciones
-        file: publicaciones.qmd
+
+
       - text: Proyectos
         file: proyectos.qmd
+        
+      - text: Publicaciones
+        file: publicaciones.qmd
+
       - text: Cursos, talleres & charlas
         file: cursos.qmd
-      - text: CV
-        file: cv.qmd
-      - icon: github
-        href: https://github.com/ariibard/
-        aria-label: GitHub
-      - icon: linkedin
-        href: https://www.linkedin.com/in/ariana-bardauil/
+
+
 
   page-footer:
     left: |
