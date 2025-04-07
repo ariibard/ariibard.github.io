@@ -1,0 +1,25 @@
+---
+title: Cursos talleres & charlas
+description: En esta sección comparto algunas de las charlas, cursos y talleres en los que participé, junto con materiales que suelo armar para acompañar esos espacios. La mayoría están disponibles en GitHub.
+home: true
+listing:
+    contents: 
+    - /cursos
+    template: estilos/listing.ejs
+    sort: "date desc"
+    categories: true
+title-block-banner: "#fff"
+page-layout: full
+toc: true 
+toc-location: right
+toc-title: Contents
+css: estilos/proyectos.css
+---
+::: {.btn-group role="group" aria-label="About" .center}
+<a href="curses.html"> <button type="button" class="btn btn-primary me-md-2 btn-sm">Read in english</button></a> <a href="cursos.html"><button type="button" class="btn btn-primary me-md-2 btn-sm">Leer en español</button></a>
+:::
+
+::: {#cursos}
+:::
+
+{{< ai blank-just-to-add-ai-dependency-to-this-page >}}

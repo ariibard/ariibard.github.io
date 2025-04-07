@@ -3,6 +3,7 @@ title: "Hola, Soy Ari!"
 listing:
   contents: 
     - /publicaciones
+    - /cursos
   template: estilos/listing.ejs
   sort: "date desc"
   type: default
@@ -12,7 +13,7 @@ listing:
   categories: false
   sort-ui: false
   filter-ui: false
-  max-items: 3
+  max-items: 5
   feed: false
 page-layout: full
 title-block-banner: false
@@ -34,7 +35,7 @@ Además, participo activamente en proyectos de investigación y divulgación cie
 
 ------------------------------------------------------------------------
 
-## Publicaciones
+## Últimas contribuciones
 
 ::: {#publicaciones}
 :::
@@ -42,3 +43,6 @@ Además, participo activamente en proyectos de investigación y divulgación cie
 ::: {style="text-align: right"}
 [Ver todas →](publicaciones.html)
 :::
+
+
+

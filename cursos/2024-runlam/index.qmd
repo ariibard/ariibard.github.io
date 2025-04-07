@@ -1,0 +1,13 @@
+---
+title: "R para la demografía social: un taller aplicado a la EPH"
+author: "Andrea Gomez Vargas, Betsabe Cohen & Ariana Bardauil"
+date: "2024-10-29"
+categories: [taller, R]
+image: "image.png"
+---
+
+> **Taller organizado por la Cátedra de Demografía Social de la licenciatura de Ciencia Política - UNLaM, el [Núcleo de Innovaciòn Social](https://www.nucleodeinnovacion.com/) & [R en Buenos Aires](https://renbaires.github.io/).**
+
+**Materiales del taller disponibles en: [r-unlam.netlify.app](https://r-unlam.netlify.app/)**
+
+![Organizadoras del Taller](taller.jpg){fig-align="center"}

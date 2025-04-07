@@ -1,0 +1,20 @@
+---
+title: Club de lectura Mastering Shiny
+description: Presentación de bienvenida al club de lectura organizado por R-Ladies Buenos Aires y R en Buenos Aires, en torno al libro Mastering Shiny de Hadley Wickham.
+date: "2025-03-05"
+categories: [quarto,shiny,comunidad]
+image: "ppt.png"
+---
+
+## Bienvenida
+
+Presentación de bienvenida y pautas del encuentro del club de lectura *Mastering Shiny*, organizado por [R-Ladies Buenos Aires](https://rladiesba.netlify.app/) y [R en Buenos Aires](https://renbaires.netlify.app/).  
+
+Elaborado por Ariana Bardauil – organizadora de R en Buenos Aires.
+
+### Presentación
+🔗 [Presentación de bienvenida](https://ariibard.github.io/mastering-shiny-welcome/#/club-de-lectura){target="_blank"}
+
+<iframe src="https://ariibard.github.io/mastering-shiny-welcome/#/club-de-lectura" width="100%" height="600px" frameborder="0" allowfullscreen>
+
+</iframe>

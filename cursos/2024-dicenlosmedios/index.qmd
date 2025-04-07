@@ -1,0 +1,41 @@
+---
+title: "Big data, medios digitales y autogestión: cómo trabajar con millones de noticias"
+author: "Manuel Iglesias, Joaquín Lovizio Ramos, Ariana Bardauil, Santiago Marta y Sofía Rubinstein"
+date: "2024-12-02"
+categories: [dicen los medios, NLP, charla]
+image: "participantes.jpg"
+---
+
+Participamos en el Meetup Big Data, medios digitales y código abierto qué tuvo por objetivo contar el trabajo que realizamos desde Dicen los Medios con R, Python, JavaScript & Go.
+
+**Presentamos el trabajo de [Dicen Los Medios](www.dicenlosmedios.com.ar) (dlm), un equipo interdisciplinario y autogestionado que utiliza desde R hasta Golang, pasando por Javascript y Python, para el análisis de medios de comunicación y redes sociales, con un enfoque en la minería de texto.**
+
+Teniendo en cuenta el contexto de desinformación, fakenews y clickbait actual, desde dlm buscamos echar luz sobre la producción de sentido y aportar al debate sobre qué lugar ocupa el periodismo. Para eso recopilamos, procesamos y analizamos qué, cuánto y cómo publican los principales medios digitales de Argentina.
+
+Presentamos cómo funciona el ecosistema de dicen los medios:
+
+-   [chaski](https://chaski.com.ar/#/como-usar-la-api): desarrollo propio que scrapea, almacena y disponibiliza noticias de portales de web.
+
+-   [visus](https://dicenlosmedios.gitlab.io/visus/#/): herramientas de visualización de datos diseñadas ad hoc para reportes.
+
+-   [shiny-dlm](https://dicenlosmedios.shinyapps.io/Shiny-DLM/): tablero interactivo desarrollado con Shiny App.
+
+-   Utilización de minería de texto para informes, investigaciones y más.
+
+
+## Presentación en Canva
+
+<div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
+ padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https://www.canva.com/design/DAGXWZKcJTo/MCc59lbAMJ27bxaBPNravQ/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe>
+</div>
+
+<a href="https://www.canva.com/design/DAGXWZKcJTo/MCc59lbAMJ27bxaBPNravQ/view?utm_content=DAGXWZKcJTo&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">
+Presentación - dlm
+</a> de Sofia Victoria Rubinstein
+
+
+![](participantes.jpg){fig-align="center"}

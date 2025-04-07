@@ -1,0 +1,27 @@
+---
+title: Minería de texto para la investigación social
+description: Curso introductorio al procesamiento de texto con R, orientado a las ciencias sociales.
+date: "2025-04-07"
+categories: [text mining, R, Quarto]
+image: "imagen.jpg"
+page-layout: full
+title-block-banner: "#fff"
+toc: true
+toc-location: right
+---
+
+## Presentación
+
+Este curso ofrece una introducción al análisis de datos textuales con foco en su aplicación en investigaciones sociales. La propuesta integra fundamentos teóricos de la investigación cualitativa con herramientas de análisis computacional, para explorar las posibilidades del Procesamiento de Lenguaje Natural (PLN) en las ciencias sociales.
+
+
+
+## Acceso al material
+
+📘 El libro del curso con ejemplos, recursos y ejercicios está disponible en:  
+
+👉 [Materiales](https://ariibard.github.io/uflo-text-mining/)
+
+👉 [Repositorio](https://github.com/ariibard/uflo-text-mining)
+
+

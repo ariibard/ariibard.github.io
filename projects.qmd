@@ -43,7 +43,7 @@ Coordination and strategy design for the development of innovation projects with
 <a href="https://www.linkedin.com/company/nucleois" target="_blank"><i class="bi bi-linkedin"></i></a>
 <a href="https://github.com/nucleodeinnovacion" target="_blank"><i class="bi bi-github"></i></a>
 <a href="mailto:info@nucleodeinnovacion.com"><i class="bi bi-envelope"></i></a>
-<a href="https://www.nucleodeinnovacionsocial.com" target="_blank"><i class="bi bi-globe"></i></a>
+<a href="https://www.nucleodeinnovacionsocial.com.ar" target="_blank"><i class="bi bi-globe"></i></a>
 <a href="https://www.instagram.com/nucleodeinnovacion" target="_blank"><i class="bi bi-instagram"></i></a>
 :::
 

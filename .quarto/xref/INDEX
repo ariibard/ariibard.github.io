@@ -196,5 +196,35 @@
   },
   "projects.qmd": {
     "projects.html": "91c5de0b"
+  },
+  "prueba.qmd": {
+    "prueba.html": "4ba0648a"
+  },
+  "cursos.qmd": {
+    "cursos.html": "40592b7e"
+  },
+  "cursos/rparacientistassociales/index.qmd": {
+    "index.html": "d7ada6cf"
+  },
+  "cursos/2024-runlam/index.qmd": {
+    "index.html": "c91a86bf"
+  },
+  "cursos/2023-rparacientistassociales/index.qmd": {
+    "index.html": "25c5fe6b"
+  },
+  "cursos/2024-brindis/index.qmd": {
+    "index.html": "2b02f61f"
+  },
+  "cursos/2024-dicenlosmedios/index.qmd": {
+    "index.html": "9ae073c5"
+  },
+  "cursos/2025-mastering-shiny-welcome/index.qmd": {
+    "index.html": "334c0dec"
+  },
+  "novedades.qmd": {
+    "novedades.html": "337a7f0b"
+  },
+  "cursos/2025-uflo-text-mining/index.qmd": {
+    "index.html": "08359cd3"
   }
 }

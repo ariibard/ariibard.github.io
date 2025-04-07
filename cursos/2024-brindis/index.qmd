@@ -1,0 +1,25 @@
+---
+title: "R en Red: ARcenso, Oportunidades y Comunidad"
+author: "Andrea Gomez Vargas, Betsabe Cohen, Emanuel Ciardullo, María Nanton, Jesica Formoso, Ariana Bardauil"
+date: "2024-12-20"
+categories: [quarto,charla,R,comunidad]
+image: "participantes.jpg"
+---
+
+## R en Red: ARcenso, Oportunidades y Comunidad
+
+El **20 de diciembre de 2024**, participé como oradora en el evento **R en Red: ARcenso, Oportunidades y Comunidad**, un meetup organizado por **R-Ladies Buenos Aires** y **R en Buenos Aires**. Este espacio buscó compartir experiencias, fortalecer redes y difundir proyectos colaborativos basados en el uso de R en el ámbito local.
+
+Tuve a cargo la **presentación de bienvenida**, donde introduje la propuesta del encuentro, su estructura y los ejes temáticos que lo atravesaron. A continuación, compañeres del equipo presentaron sus contribuciones relacionadas con datos del Censo argentino, herramientas del ecosistema R, y experiencias de comunidad.
+
+Podés recorrer la presentación de bienvenida en el siguiente enlace (o visualizarla directamente más abajo):
+
+🔗 [Presentación de bienvenida](https://renbaires.github.io/2024-12-20-welcome/){target="_blank"}
+
+<iframe src="https://renbaires.github.io/2024-12-20-welcome/#/section" width="100%" height="600px" frameborder="0" allowfullscreen>
+
+</iframe>
+
+![](participantes.jpg){fig-align="center"}
+
+## [🔗 Accedé al repositorio con todas las presentaciones](https://github.com/ariibard/2024-12-20-welcome)

@@ -33,11 +33,19 @@
       "/publications"
     ],
     "about_es.qmd": [
-      "/publicaciones"
+      "/publicaciones",
+      "/cursos"
     ],
     "publicaciones_en.qmd": [
       "/publicaciones",
       "/publications"
+    ],
+    "cursos.qmd": [
+      "/cursos"
+    ],
+    "novedades.qmd": [
+      "/cursos",
+      "/publicaciones"
     ]
   }
 }
