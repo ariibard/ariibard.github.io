@@ -26,5 +26,5 @@ Co-organizer of [R en Buenos Aires](https://renbaires.github.io/) and coordinato
 :::
 
 ::: {style="text-align: right"}
-[See more →](../about/index.html)
+[See more →](about.html)
 :::
