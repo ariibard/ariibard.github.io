@@ -26,5 +26,5 @@ Coorganizadora de [R en Buenos Aires](https://renbaires.github.io/) y coordinado
 :::
 
 ::: {style="text-align: right"}
-[Ver más →](../about/index.html)
+[Ver más →](about_es.html)
 :::
