@@ -1027,5 +1027,145 @@
     "title": "Minería de texto para la investigación social",
     "section": "A quién está dirigido",
     "text": "A quién está dirigido\nEl curso está pensado para estudiantes, docentes, investigadores/as y profesionales de las ciencias sociales interesados en incorporar herramientas de análisis de texto a sus proyectos. No se requiere experiencia previa en programación, aunque se recomienda familiaridad básica con R."
+  },
+  {
+    "objectID": "curses/2023-rparacientistassociales/index.html",
+    "href": "curses/2023-rparacientistassociales/index.html",
+    "title": "R for Social Scientists: R Workshop at the National University of La Matanza",
+    "section": "",
+    "text": "Throughout this session, we will explore the use of R in the social sciences. No prior experience in programming or data analysis is required, as this workshop is designed for everyone — from complete beginners to those with some background.\n🤔 Why R? R is a programming language widely used in data science, statistics, and data analysis. In the social sciences, R can be an invaluable tool for exploring data, identifying patterns, and effectively communicating your findings — regardless of your field of study.\nYou can access the repository here. We will be uploading course files and materials there.\n➡️ This workshop is organized by the research project “The territorial fabric of social programs in Greater Buenos Aires: between the nation, municipalities, and social organizations (2015–2023),” based in the Department of Law and Political Science at the National University of La Matanza (UNLaM)."
+  },
+  {
+    "objectID": "curses/2023-rparacientistassociales/index.html#invitation",
+    "href": "curses/2023-rparacientistassociales/index.html#invitation",
+    "title": "R for Social Scientists: R Workshop at the National University of La Matanza",
+    "section": "Invitation",
+    "text": "Invitation"
+  },
+  {
+    "objectID": "curses/2023-rparacientistassociales/index.html#presentación",
+    "href": "curses/2023-rparacientistassociales/index.html#presentación",
+    "title": "R for Social Scientists: R Workshop at the National University of La Matanza",
+    "section": "Presentación",
+    "text": "Presentación\n\n\n\n\nR para ciencias sociales de Ariana Bardauil\n Accedé al material"
+  },
+  {
+    "objectID": "curses/2025-uflo-text-mining/index.html",
+    "href": "curses/2025-uflo-text-mining/index.html",
+    "title": "Text Mining for Social Research",
+    "section": "",
+    "text": "This course provides an introduction to textual data analysis with a focus on its application in social research. The approach combines theoretical foundations from qualitative research with computational analysis tools, to explore the potential of Natural Language Processing (NLP) in the social sciences."
+  },
+  {
+    "objectID": "curses/2025-uflo-text-mining/index.html#presentación",
+    "href": "curses/2025-uflo-text-mining/index.html#presentación",
+    "title": "Minería de texto para la investigación social",
+    "section": "",
+    "text": "Este curso ofrece una introducción al análisis de datos textuales con foco en su aplicación en investigaciones sociales. La propuesta integra fundamentos teóricos de la investigación cualitativa con herramientas de análisis computacional, para explorar las posibilidades del Procesamiento de Lenguaje Natural (PLN) en las ciencias sociales."
+  },
+  {
+    "objectID": "curses/2025-uflo-text-mining/index.html#acceso-al-material",
+    "href": "curses/2025-uflo-text-mining/index.html#acceso-al-material",
+    "title": "Minería de texto para la investigación social",
+    "section": "Acceso al material",
+    "text": "Acceso al material\n📘 El libro del curso con ejemplos, recursos y ejercicios está disponible en:\n👉 Materiales\n👉 Repositorio"
+  },
+  {
+    "objectID": "curses/2024-runlam/index.html",
+    "href": "curses/2024-runlam/index.html",
+    "title": "R for Social Demography: A Workshop Using EPH Data",
+    "section": "",
+    "text": "Workshop organized by the Social Demography Chair of the Political Science program at UNLaM, the Núcleo de Innovación Social, and R en Buenos Aires.\n\nWorkshop materials available at: r-unlam.netlify.app\n\n\n\nOrganizadoras del Taller"
+  },
+  {
+    "objectID": "curses/2024-brindis/index.html",
+    "href": "curses/2024-brindis/index.html",
+    "title": "R en Red: ARcenso, Opportunities, and Community",
+    "section": "",
+    "text": "On December 20, 2024, I participated as a speaker at the event R en Red: ARcenso, Opportunities, and Community, a meetup organized by R-Ladies Buenos Aires and R en Buenos Aires. The aim of this space was to share experiences, strengthen networks, and showcase collaborative projects based on the use of R in the local context.\nI was in charge of the welcome presentation, where I introduced the goals of the event, its structure, and the main themes that guided the session. Afterwards, members of the team presented their contributions related to data from the Argentine Census, tools from the R ecosystem, and community-building experiences.\nYou can explore the welcome presentation at the following link (or view it directly below):\n🔗 Welcome presentation"
+  },
+  {
+    "objectID": "curses/2024-brindis/index.html#r-en-red-arcenso-oportunidades-y-comunidad",
+    "href": "curses/2024-brindis/index.html#r-en-red-arcenso-oportunidades-y-comunidad",
+    "title": "R en Red: ARcenso, Oportunidades y Comunidad",
+    "section": "",
+    "text": "El 20 de diciembre de 2024, participé como oradora en el evento R en Red: ARcenso, Oportunidades y Comunidad, un meetup organizado por R-Ladies Buenos Aires y R en Buenos Aires. Este espacio buscó compartir experiencias, fortalecer redes y difundir proyectos colaborativos basados en el uso de R en el ámbito local.\nTuve a cargo la presentación de bienvenida, donde introduje la propuesta del encuentro, su estructura y los ejes temáticos que lo atravesaron. A continuación, compañeres del equipo presentaron sus contribuciones relacionadas con datos del Censo argentino, herramientas del ecosistema R, y experiencias de comunidad.\nPodés recorrer la presentación de bienvenida en el siguiente enlace (o visualizarla directamente más abajo):\n🔗 Presentación de bienvenida"
+  },
+  {
+    "objectID": "curses/2024-brindis/index.html#accedé-al-repositorio-con-todas-las-presentaciones",
+    "href": "curses/2024-brindis/index.html#accedé-al-repositorio-con-todas-las-presentaciones",
+    "title": "R en Red: ARcenso, Opportunities, and Community",
+    "section": "🔗 Accedé al repositorio con todas las presentaciones",
+    "text": "🔗 Accedé al repositorio con todas las presentaciones"
+  },
+  {
+    "objectID": "curses/2024-dicenlosmedios/index.html",
+    "href": "curses/2024-dicenlosmedios/index.html",
+    "title": "Ariana Bardauil",
+    "section": "",
+    "text": "title: “Big Data, Digital Media, and Self-Management: How to Work with Millions of News Articles”\nauthor: “Manuel Iglesias, Joaquín Lovizio Ramos, Ariana Bardauil, Santiago Marta, and Sofía Rubinstein”\ndate: “2024-12-02”\ncategories: [Dicen los Medios, NLP, talk]\nimage: “participantes.jpg”\nWe took part in the Meetup Big Data, Digital Media, and Open Source, aimed at showcasing the work we do at Dicen los Medios using R, Python, JavaScript, and Go.\nWe presented the work of Dicen Los Medios (dlm), an interdisciplinary and self-managed team that uses tools from R to Golang — including JavaScript and Python — to analyze media and social networks with a focus on text mining.\nGiven the current context of misinformation, fake news, and clickbait, dlm aims to shed light on the production of meaning and contribute to the discussion about the role journalism plays today. To do so, we collect, process, and analyze what, how much, and how Argentina’s main digital media outlets publish.\nWe presented how the Dicen los Medios ecosystem works:"
+  },
+  {
+    "objectID": "curses/2024-dicenlosmedios/index.html#presentación-en-canva",
+    "href": "curses/2024-dicenlosmedios/index.html#presentación-en-canva",
+    "title": "Big data, medios digitales y autogestión: cómo trabajar con millones de noticias",
+    "section": "Presentación en Canva",
+    "text": "Presentación en Canva\n\n \n\n Presentación - dlm  de Sofia Victoria Rubinstein"
+  },
+  {
+    "objectID": "curses/2025-mastering-shiny-welcome/index.html",
+    "href": "curses/2025-mastering-shiny-welcome/index.html",
+    "title": "Mastering Shiny Book Club",
+    "section": "",
+    "text": "Welcome presentation and meeting guidelines for the Mastering Shiny book club, organized by R-Ladies Buenos Aires and R en Buenos Aires.\nPrepared by Ariana Bardauil – organizer at R en Buenos Aires.\n\n\n🔗 Welcome Presentation"
+  },
+  {
+    "objectID": "curses/2025-mastering-shiny-welcome/index.html#bienvenida",
+    "href": "curses/2025-mastering-shiny-welcome/index.html#bienvenida",
+    "title": "Club de lectura Mastering Shiny",
+    "section": "",
+    "text": "Presentación de bienvenida y pautas del encuentro del club de lectura Mastering Shiny, organizado por R-Ladies Buenos Aires y R en Buenos Aires.\nElaborado por Ariana Bardauil – organizadora de R en Buenos Aires.\n\n\n🔗 Presentación de bienvenida"
+  },
+  {
+    "objectID": "curses.html",
+    "href": "curses.html",
+    "title": "Courses, Workshops & Talks",
+    "section": "",
+    "text": "Read in english Leer en español\n\n\n\n\n\n\n\n\n\n\n\n    \n    \n                  \n            Apr 7, 2025\n        \n        \n            Text Mining for Social Research\n            \n            \n                \n                \n                    text mining\n                \n                \n                \n                    R\n                \n                \n                \n                    Quarto\n                \n                \n            \n            \n            Introductory course on text processing with R, aimed at the social sciences.\n        \n        \n        \n            \n        \n        \n    \n    \n    \n                  \n            Mar 5, 2025\n        \n        \n            Mastering Shiny Book Club\n            \n            \n                \n                \n                    quarto\n                \n                \n                \n                    shiny\n                \n                \n                \n                    community\n                \n                \n            \n            \n            Welcome presentation for the book club organized by R-Ladies Buenos Aires and R en Buenos Aires, based on the book *Mastering Shiny* by Hadley Wickham.\n        \n        \n        \n            \n        \n        \n    \n    \n    \n                  \n            Dec 20, 2024\n        \n        \n            R en Red: ARcenso, Opportunities, and Community\n            \n            \n                \n                \n                    quarto\n                \n                \n                \n                    talk\n                \n                \n                \n                    R\n                \n                \n                \n                    community\n                \n                \n            \n            \n            \n        \n        \n        \n            \n        \n        \n    \n    \n    \n                  \n            Dec 2, 2024\n        \n        \n            Big Data, Digital Media, and Self-Management: How to Work with Millions of News Articles\n            \n            \n                \n                \n                    Dicen los Medios\n                \n                \n                \n                    NLP\n                \n                \n                \n                    talk\n                \n                \n            \n            \n            \n        \n        \n        \n            \n        \n        \n    \n    \n    \n                  \n            Oct 29, 2024\n        \n        \n            R for Social Demography: A Workshop Using EPH Data\n            \n            \n                \n                \n                    workshop\n                \n                \n                \n                    R\n                \n                \n            \n            \n            \n        \n        \n        \n            \n        \n        \n    \n    \n    \n                  \n            Nov 23, 2023\n        \n        \n            R for Social Scientists: R Workshop at the National University of La Matanza\n            \n            \n                \n                \n                    Teaching\n                \n                \n                \n                    R\n                \n                \n            \n            \n            \n        \n        \n        \n            \n        \n        \n    \n    \n\n\nNo matching items"
+  },
+  {
+    "objectID": "curses/2024-brindis/index.html#r-en-red-arcenso-opportunities-and-community",
+    "href": "curses/2024-brindis/index.html#r-en-red-arcenso-opportunities-and-community",
+    "title": "R en Red: ARcenso, Opportunities, and Community",
+    "section": "",
+    "text": "On December 20, 2024, I participated as a speaker at the event R en Red: ARcenso, Opportunities, and Community, a meetup organized by R-Ladies Buenos Aires and R en Buenos Aires. The aim of this space was to share experiences, strengthen networks, and showcase collaborative projects based on the use of R in the local context.\nI was in charge of the welcome presentation, where I introduced the goals of the event, its structure, and the main themes that guided the session. Afterwards, members of the team presented their contributions related to data from the Argentine Census, tools from the R ecosystem, and community-building experiences.\nYou can explore the welcome presentation at the following link (or view it directly below):\n🔗 Welcome presentation"
+  },
+  {
+    "objectID": "curses/2024-dicenlosmedios/index.html#presentation-on-canva",
+    "href": "curses/2024-dicenlosmedios/index.html#presentation-on-canva",
+    "title": "Ariana Bardauil",
+    "section": "Presentation on Canva",
+    "text": "Presentation on Canva\n\n \n\n Presentation - dlm  by Sofía Victoria Rubinstein"
+  },
+  {
+    "objectID": "curses/2025-mastering-shiny-welcome/index.html#welcome",
+    "href": "curses/2025-mastering-shiny-welcome/index.html#welcome",
+    "title": "Mastering Shiny Book Club",
+    "section": "",
+    "text": "Welcome presentation and meeting guidelines for the Mastering Shiny book club, organized by R-Ladies Buenos Aires and R en Buenos Aires.\nPrepared by Ariana Bardauil – organizer at R en Buenos Aires.\n\n\n🔗 Welcome Presentation"
+  },
+  {
+    "objectID": "curses/2025-uflo-text-mining/index.html#overview",
+    "href": "curses/2025-uflo-text-mining/index.html#overview",
+    "title": "Text Mining for Social Research",
+    "section": "",
+    "text": "This course provides an introduction to textual data analysis with a focus on its application in social research. The approach combines theoretical foundations from qualitative research with computational analysis tools, to explore the potential of Natural Language Processing (NLP) in the social sciences."
+  },
+  {
+    "objectID": "curses/2025-uflo-text-mining/index.html#access-to-materials",
+    "href": "curses/2025-uflo-text-mining/index.html#access-to-materials",
+    "title": "Text Mining for Social Research",
+    "section": "Access to Materials",
+    "text": "Access to Materials\n📘 The course book, including examples, resources, and exercises, is available at:\n👉 Materials\n👉 Repository"
   }
 ]

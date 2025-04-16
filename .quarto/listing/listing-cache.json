@@ -46,6 +46,9 @@
     "novedades.qmd": [
       "/cursos",
       "/publicaciones"
+    ],
+    "curses.qmd": [
+      "/curses"
     ]
   }
 }

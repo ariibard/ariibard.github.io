@@ -1,0 +1,22 @@
+---
+title: Text Mining for Social Research  
+description: Introductory course on text processing with R, aimed at the social sciences.  
+date: "2025-04-07"  
+categories: [text mining, R, Quarto]  
+image: "imagen.jpg"  
+page-layout: full  
+title-block-banner: "#fff"  
+toc: true  
+toc-location: right  
+---
+
+## Overview
+
+This course provides an introduction to textual data analysis with a focus on its application in social research. The approach combines theoretical foundations from qualitative research with computational analysis tools, to explore the potential of Natural Language Processing (NLP) in the social sciences.
+
+## Access to Materials
+
+📘 The course book, including examples, resources, and exercises, is available at:  
+
+👉 [Materials](https://ariibard.github.io/uflo-text-mining/)  
+👉 [Repository](https://github.com/ariibard/uflo-text-mining)

@@ -1,0 +1,14 @@
+---
+title: "R for Social Demography: A Workshop Using EPH Data"  
+author: "Andrea Gomez Vargas, Betsabe Cohen & Ariana Bardauil"  
+date: "2024-10-29"  
+categories: [workshop, R]  
+image: "image.png"  
+---
+
+> **Workshop organized by the Social Demography Chair of the Political Science program at UNLaM, the [Núcleo de Innovación Social](https://www.nucleodeinnovacion.com/), and [R en Buenos Aires](https://renbaires.github.io/).**
+
+**Workshop materials available at: [r-unlam.netlify.app](https://r-unlam.netlify.app/)**
+
+
+![Organizer](taller.jpg){fig-align="center"}

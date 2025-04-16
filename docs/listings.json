@@ -134,5 +134,16 @@
       "/publicaciones/2021-clad/index.html",
       "/publicaciones/2021-ponencia-saap/index.html"
     ]
+  },
+  {
+    "listing": "/curses.html",
+    "items": [
+      "/curses/2025-uflo-text-mining/index.html",
+      "/curses/2025-mastering-shiny-welcome/index.html",
+      "/curses/2024-brindis/index.html",
+      "/curses/2024-dicenlosmedios/index.html",
+      "/curses/2024-runlam/index.html",
+      "/curses/2023-rparacientistassociales/index.html"
+    ]
   }
 ]

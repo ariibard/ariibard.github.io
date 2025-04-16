@@ -1,0 +1,27 @@
+---
+title: Courses, Workshops & Talks
+description: In this section, I share some of the talks, courses, and workshops I’ve participated in, along with materials I usually prepare to accompany those spaces. Most of them are available on GitHub.
+home: true
+listing:
+    contents: 
+    - /curses
+    template: estilos/listing.ejs
+    sort: "date desc"
+    categories: true
+title-block-banner: "#fff"
+page-layout: full
+toc: true 
+toc-location: right
+toc-title: Contents
+css: estilos/proyectos.css
+---
+
+---
+::: {.btn-group role="group" aria-label="About" .center}
+<a href="curses.html"> <button type="button" class="btn btn-primary me-md-2 btn-sm">Read in english</button></a> <a href="cursos.html"><button type="button" class="btn btn-primary me-md-2 btn-sm">Leer en español</button></a>
+:::
+
+::: {#cursos}
+:::
+
+{{< ai blank-just-to-add-ai-dependency-to-this-page >}}

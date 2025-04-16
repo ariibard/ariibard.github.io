@@ -226,5 +226,26 @@
   },
   "cursos/2025-uflo-text-mining/index.qmd": {
     "index.html": "08359cd3"
+  },
+  "curses/2023-rparacientistassociales/index.qmd": {
+    "index.html": "da21f4ce"
+  },
+  "curses/2024-brindis/index.qmd": {
+    "index.html": "6baa8544"
+  },
+  "curses/2024-dicenlosmedios/index.qmd": {
+    "index.html": "98273c50"
+  },
+  "curses/2024-runlam/index.qmd": {
+    "index.html": "4cade6b2"
+  },
+  "curses/2025-mastering-shiny-welcome/index.qmd": {
+    "index.html": "6bbd6470"
+  },
+  "curses/2025-uflo-text-mining/index.qmd": {
+    "index.html": "c939eeea"
+  },
+  "curses.qmd": {
+    "curses.html": "2c451f1c"
   }
 }

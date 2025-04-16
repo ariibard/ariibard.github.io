@@ -1,0 +1,33 @@
+---
+title: "R for Social Scientists: R Workshop at the National University of La Matanza"
+author: "Ariana Bardauil"
+date: "2023-11-23"
+categories: [Teaching, R]
+image: "imagen.jpg"
+---
+Throughout this session, we will explore the use of R in the social sciences. No prior experience in programming or data analysis is required, as this workshop is designed for everyone — from complete beginners to those with some background.
+
+🤔 Why R? R is a programming language widely used in data science, statistics, and data analysis. In the social sciences, R can be an invaluable tool for exploring data, identifying patterns, and effectively communicating your findings — regardless of your field of study.
+
+You can access the repository here. We will be uploading course files and materials there.
+
+➡️ This workshop is organized by the research project "The territorial fabric of social programs in Greater Buenos Aires: between the nation, municipalities, and social organizations (2015–2023)," based in the Department of Law and Political Science at the National University of La Matanza (UNLaM).
+
+## Invitation
+
+![](flyer.jpeg)
+
+## Presentación
+
+::: {style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
+ padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;"}
+<iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFyTvpIkSM&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen"> </iframe>
+:::
+
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFyTvpIkSM&#x2F;view?utm_content=DAFyTvpIkSM&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">R para ciencias sociales</a> de Ariana Bardauil
+
+<a href="https://rpubs.com/arianabard/taller-r-para-cientistas-sociales"> <button type="button" class="btn btn-primary float-end btn-sm">Accedé al material</button></a>
+
+<br>
