@@ -1,0 +1,20 @@
+---
+title: User Feedback — Talk presented at the Mastering Shiny Book Club
+description: Betsy Cohen & Ariana Bardauil
+date: "2025-04-07"
+categories: [ShinyApps]
+image: "imagen.png"
+page-layout: full
+title-block-banner: "#fff"
+toc: true
+toc-location: right
+---
+
+📚 Presenters: Betsy Cohen & Ariana Bardauil
+📍 Organized by: R-Ladies Buenos Aires & R en Buenos Aires
+📖 Chapter: 8 — User Feedback
+🔗 Main workshop repository: GitHub · renbaires/mastering-shiny
+🎞️ Slides: View presentation
+📂 Personal repository: https://github.com/ariibard/renbuenosaires_shiny_book_club_5
+
+As part of the Mastering Shiny Book Club, jointly organized by R-Ladies Buenos Aires and R en Buenos Aires, Betsy Cohen and I presented Chapter 8: User Feedback, a key topic for enhancing user experience in Shiny applications.

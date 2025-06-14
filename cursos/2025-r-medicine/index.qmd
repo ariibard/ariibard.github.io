@@ -1,0 +1,23 @@
+---
+title: Optimización del Recupero de Gastos en Salud Pública con R — R/Medicine 2025
+description: Presentación realizada para R Medicine
+date: "2025-06-14"
+categories: [Salud, Recupero de Gastos, R]
+image: "imagen.png"
+page-layout: full
+title-block-banner: "#fff"
+toc: true
+toc-location: right
+---
+
+**📊 Presentadores:** Ariana Bardauil & Dacio Martínez\
+**🏢 Equipo:** Analistas de Ciencia de Datos — DGSISAN (Dirección General de Sistemas de Información Sanitaria)\
+**🎙️ Conferencia:** [R/Medicine 2025](https://r-medicine.org/)\
+**🎞️ Presentación:** [Ver diapositivas](https://ariibard.github.io/r_medicine_sumar_2025/#/title-slide)\
+**📂 Repositorio:** [GitHub · r_medicine_sumar_2025](https://github.com/ariibard/r_medicine_sumar_2025)
+
+✨ **Resumen de la charla**
+
+En el marco de **R/Medicine 2025**, junto a Dacio Martínez tuvimos la oportunidad de presentar nuestra charla **“Optimización del Recupero de Gastos en Salud Pública con R”**, donde compartimos cómo diseñamos e implementamos *pipelines* reproducibles en R para fortalecer los procesos de recupero de gastos dentro del sistema de salud público de Argentina.
+
+Nuestro enfoque combina **data warehousing** y **software libre**, aprovechando la infraestructura de la **Gerencia de Gestión de Información y Estadísticas en Salud** para brindar información oportuna y de calidad para la gestión administrativa y financiera.

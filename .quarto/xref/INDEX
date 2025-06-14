@@ -247,5 +247,17 @@
   },
   "curses.qmd": {
     "curses.html": "2c451f1c"
+  },
+  "curses/2025-mastering-shiny-chapter/index.qmd": {
+    "index.html": "6f6fec42"
+  },
+  "curses/2025-r-medicine/index.qmd": {
+    "index.html": "db40642f"
+  },
+  "cursos/2025-mastering-shiny-chapter/index.qmd": {
+    "index.html": "3bed3e84"
+  },
+  "cursos/2025-r-medicine/index.qmd": {
+    "index.html": "26a81099"
   }
 }

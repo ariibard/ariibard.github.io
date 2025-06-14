@@ -1,0 +1,29 @@
+---
+title: User Feedback — Presentación en el Club de Lectura Mastering Shiny
+description: Betsy Cohen & Ariana Bardauil
+date: "2025-05-14"
+categories: [ShinyApps]
+image: "imagen.png"
+page-layout: full
+title-block-banner: "#fff"
+toc: true
+toc-location: right
+---
+
+**📚 Presentadoras:** Betsy Cohen & Ariana Bardauil\
+**📍 Organizado por:** R-Ladies Buenos Aires & R en Buenos Aires\
+**📖 Capítulo:** 8 — *User Feedback*\
+**🔗 Repositorio general del taller:** [GitHub · renbaires/mastering-shiny](https://github.com/renbaires/mastering-shiny)\
+**🎞️ Presentación:** [Ver diapositivas](https://ariibard.github.io/renbuenosaires_shiny_book_club_5/#/user-feedback)\
+**📂 Repositorio individual:** <https://github.com/ariibard/renbuenosaires_shiny_book_club_5>
+
+En el marco del Club de Lectura *Mastering Shiny*, organizado de forma colaborativa por R-Ladies Buenos Aires y R en Buenos Aires, junto a Betsy Cohen presentamos el **Capítulo 8: User Feedback**, parte fundamental para mejorar la experiencia de usuario en aplicaciones Shiny.
+
+En esta sesión exploramos:
+
+✅ Cómo diseñar y mostrar notificaciones, validaciones y mensajes de error.\
+✅ Prácticas recomendadas para dar retroalimentación inmediata al usuario.\
+✅ Ejemplos prácticos para aplicar en apps reales.\
+✅ Discusión y ejercicios grupales para profundizar la comprensión.
+
+Este club de lectura es una iniciativa abierta, gratuita y participativa, pensada para aprender en comunidad a través de la lectura guiada y la práctica conjunta.

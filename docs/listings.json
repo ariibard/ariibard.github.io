@@ -1,45 +1,16 @@
 [
   {
-    "listing": "/publicaciones.html",
+    "listing": "/curses.html",
     "items": [
-      "/publicaciones/2024-latinr/index.html",
-      "/publicaciones/2024-jaiio/index.html",
-      "/publicaciones/2023-tablero-dicenlosmedios/index.html",
-      "/publicaciones/2023-tablero-salud/index.html",
-      "/publicaciones/2023-jornadas-socio/index.html",
-      "/publicaciones/2022-guia-transparencia/index.html",
-      "/publicaciones/2023-transparencia/index.html",
-      "/publicaciones/2022-capitulo-libro-cambiosycontinuidades/index.html",
-      "/publicaciones/2023-intencion-voto/index.html",
-      "/publicaciones/2023-ponencia-saap/index.html",
-      "/publicaciones/2022-appsgoogle/index.html",
-      "/publicaciones/2021-clad/index.html",
-      "/publicaciones/2021-ponencia-saap/index.html"
+      "/curses/2025-r-medicine/index.html",
+      "/curses/2025-mastering-shiny-chapter/index.html",
+      "/curses/2025-uflo-text-mining/index.html",
+      "/curses/2025-mastering-shiny-welcome/index.html",
+      "/curses/2024-brindis/index.html",
+      "/curses/2024-dicenlosmedios/index.html",
+      "/curses/2024-runlam/index.html",
+      "/curses/2023-rparacientistassociales/index.html"
     ]
-  },
-  {
-    "listing": "/publicaciones/index.html",
-    "items": [
-      "/publicaciones/jornadas-socio-2023/index.html",
-      "/publicaciones/capitulo-libro-cambiosycontinuidades/index.html",
-      "/publicaciones/appsgoogle/index.html",
-      "/publicaciones/intencion-voto/index.html",
-      "/publicaciones/ponencia-saap-2023/index.html",
-      "/publicaciones/clad-2021/index.html",
-      "/publicaciones/ponencia-saap-2021/index.html"
-    ]
-  },
-  {
-    "listing": "/about/about_es.html",
-    "items": []
-  },
-  {
-    "listing": "/about/index.html",
-    "items": []
-  },
-  {
-    "listing": "/publicaciones/publicaciones.html",
-    "items": []
   },
   {
     "listing": "/about.html",
@@ -62,6 +33,8 @@
   {
     "listing": "/about_es.html",
     "items": [
+      "/cursos/2025-r-medicine/index.html",
+      "/cursos/2025-mastering-shiny-chapter/index.html",
       "/cursos/2025-uflo-text-mining/index.html",
       "/cursos/2025-mastering-shiny-welcome/index.html",
       "/cursos/2024-brindis/index.html",
@@ -71,6 +44,37 @@
       "/publicaciones/2024-jaiio/index.html",
       "/publicaciones/2023-tablero-dicenlosmedios/index.html",
       "/cursos/2023-rparacientistassociales/index.html",
+      "/publicaciones/2023-tablero-salud/index.html",
+      "/publicaciones/2023-jornadas-socio/index.html",
+      "/publicaciones/2022-guia-transparencia/index.html",
+      "/publicaciones/2023-transparencia/index.html",
+      "/publicaciones/2022-capitulo-libro-cambiosycontinuidades/index.html",
+      "/publicaciones/2023-intencion-voto/index.html",
+      "/publicaciones/2023-ponencia-saap/index.html",
+      "/publicaciones/2022-appsgoogle/index.html",
+      "/publicaciones/2021-clad/index.html",
+      "/publicaciones/2021-ponencia-saap/index.html"
+    ]
+  },
+  {
+    "listing": "/cursos.html",
+    "items": [
+      "/cursos/2025-r-medicine/index.html",
+      "/cursos/2025-mastering-shiny-chapter/index.html",
+      "/cursos/2025-uflo-text-mining/index.html",
+      "/cursos/2025-mastering-shiny-welcome/index.html",
+      "/cursos/2024-brindis/index.html",
+      "/cursos/2024-dicenlosmedios/index.html",
+      "/cursos/2024-runlam/index.html",
+      "/cursos/2023-rparacientistassociales/index.html"
+    ]
+  },
+  {
+    "listing": "/publicaciones.html",
+    "items": [
+      "/publicaciones/2024-latinr/index.html",
+      "/publicaciones/2024-jaiio/index.html",
+      "/publicaciones/2023-tablero-dicenlosmedios/index.html",
       "/publicaciones/2023-tablero-salud/index.html",
       "/publicaciones/2023-jornadas-socio/index.html",
       "/publicaciones/2022-guia-transparencia/index.html",
@@ -99,51 +103,6 @@
       "/publications/2022-apps-google/index.html",
       "/publications/2021-clad/index.html",
       "/publications/2021-ponencia-saap/index.html"
-    ]
-  },
-  {
-    "listing": "/cursos.html",
-    "items": [
-      "/cursos/2025-uflo-text-mining/index.html",
-      "/cursos/2025-mastering-shiny-welcome/index.html",
-      "/cursos/2024-brindis/index.html",
-      "/cursos/2024-dicenlosmedios/index.html",
-      "/cursos/2024-runlam/index.html",
-      "/cursos/2023-rparacientistassociales/index.html"
-    ]
-  },
-  {
-    "listing": "/novedades.html",
-    "items": [
-      "/cursos/2025-mastering-shiny-welcome/index.html",
-      "/cursos/2024-brindis/index.html",
-      "/cursos/2024-dicenlosmedios/index.html",
-      "/publicaciones/2024-latinr/index.html",
-      "/cursos/2024-runlam/index.html",
-      "/publicaciones/2024-jaiio/index.html",
-      "/publicaciones/2023-tablero-dicenlosmedios/index.html",
-      "/cursos/2023-rparacientistassociales/index.html",
-      "/publicaciones/2023-tablero-salud/index.html",
-      "/publicaciones/2023-jornadas-socio/index.html",
-      "/publicaciones/2022-guia-transparencia/index.html",
-      "/publicaciones/2023-transparencia/index.html",
-      "/publicaciones/2022-capitulo-libro-cambiosycontinuidades/index.html",
-      "/publicaciones/2023-intencion-voto/index.html",
-      "/publicaciones/2023-ponencia-saap/index.html",
-      "/publicaciones/2022-appsgoogle/index.html",
-      "/publicaciones/2021-clad/index.html",
-      "/publicaciones/2021-ponencia-saap/index.html"
-    ]
-  },
-  {
-    "listing": "/curses.html",
-    "items": [
-      "/curses/2025-uflo-text-mining/index.html",
-      "/curses/2025-mastering-shiny-welcome/index.html",
-      "/curses/2024-brindis/index.html",
-      "/curses/2024-dicenlosmedios/index.html",
-      "/curses/2024-runlam/index.html",
-      "/curses/2023-rparacientistassociales/index.html"
     ]
   }
 ]
