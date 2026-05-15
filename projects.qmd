@@ -15,7 +15,7 @@ css: estilos/proyectos.css
 ::: {.team-grid}
 
 ::: {.team-card}
-![R en Buenos Aires](https://renbaires.github.io/assets/icons/icon.png)
+![R en Buenos Aires](https://renbaires.github.io/image/BA-1.png)
 
 Co-organizer of the local community that promotes the use of R for data science in Buenos Aires, Argentina.
 

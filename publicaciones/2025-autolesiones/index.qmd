@@ -1,0 +1,22 @@
+---
+title: "Detección de pacientes con autolesiones e intentos de suicidio en el sistema de registro electrónico de los efectores públicos de salud de la Ciudad Autónoma de Buenos Aires y evaluación preliminar de atención oportuna"
+author: "Ariana Bardauil, Alejandro Blumenfeld, Florencia Faretta, Carolina Mengoni Goñalons, Rocío Porro, Franca Salerno & Carmín Zangari"
+date: "2025-10-21"
+categories: [Academia, Salud]
+image: "imagen.png"
+page-layout: article
+---
+
+## Resumen
+
+Las autolesiones son una conducta deliberada, intencional y directa, destinada a producir daño físico en el propio cuerpo con un impacto inmediato. La presentación de dichos episodios constituye eventos marcadores que dan cuenta de la necesidad de un abordaje terapéutico oportuno y adecuado. Por este motivo, resulta necesario generar información epidemiológica sobre salud mental que dé cuenta de la magnitud y frecuencia de dichas problemáticas en la población. Con este fin, el Área Programática del Hospital Argerich, la GO de Gestión de Información y Estadística y la GO de Epidemiología impulsaron un proceso de trabajo conjunto para la detección en la historia clínica electrónica de problemas vinculados a autolesiones e intentos de suicidio. El objetivo fue construir un proceso automatizado de identificación de pacientes y su posterior acceso a una consulta con un profesional especialista en salud mental, utilizando herramientas de procesamiento de texto y expresiones regulares. Se relevaron términos clave a partir de búsqueda bibliográfica, lectura de historias clínicas y entrevistas a profesionales, llegando a un listado final de 298 expresiones únicas vinculadas a las entidades de interés.
+
+---
+
+## Recursos
+
+- 📄 [Ver artículo](https://revistas.unlp.edu.ar/JAIIO/article/view/19903)
+- 📥 [Descargar PDF](https://revistas.unlp.edu.ar/JAIIO/article/view/19903/20142)
+
+---
+

@@ -1,0 +1,21 @@
+---
+title: "Male Fertility: Approaches and Contributions to a Field Under Construction"
+author: "María Victoria Castilla & Ariana Bardauil"
+date: "2026-03-05"
+categories: [Academia, Demography]
+image: "imagen.png"
+page-layout: article
+---
+
+## Abstract
+
+Male fertility has historically been sidelined in demographic studies, which have focused almost exclusively on women's reproductive trajectories. This article presents an exploratory analysis of male fertility in Argentina based on RENAPER records for the period 2012–2022. The study examines the age of fathers at the time of their children's birth, temporal trends in registered paternity, and differences compared to female fertility records. Methodological and structural obstacles to precise measurement of male fertility are identified, along with patterns of delayed paternity and persistent gaps between mothers and fathers by age.
+
+---
+
+## Resources
+
+- 📄 [View article](https://revista.estadisticaciudad.gob.ar/ojs/index.php/poblacionba/article/view/272)
+- 📥 [Download PDF](https://revista.estadisticaciudad.gob.ar/ojs/index.php/poblacionba/article/download/272/343)
+
+---

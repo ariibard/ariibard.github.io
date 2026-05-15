@@ -15,6 +15,10 @@
   {
     "listing": "/about.html",
     "items": [
+      "/publications/2026-fecundidad/index.html",
+      "/publications/2025-autolesiones/index.html",
+      "/publications/2025-recupero-de-gastos/index.html",
+      "/publications/2025-PDD/index.html",
       "/publications/2024-latinr/index.html",
       "/publications/2024-jaiio/index.html",
       "/publications/2023-tablero-dicen-los-medios/index.html",
@@ -33,6 +37,12 @@
   {
     "listing": "/about_es.html",
     "items": [
+      "/cursos/2025-webscrapping/index.html",
+      "/publicaciones/2026-fecundidad/index.html",
+      "/cursos/2026-cv-positron/index.html",
+      "/publicaciones/2025-autolesiones/index.html",
+      "/publicaciones/2025-recupero-de-gastos/index.html",
+      "/publicaciones/2025-PDD/index.html",
       "/cursos/2025-r-medicine/index.html",
       "/cursos/2025-mastering-shiny-chapter/index.html",
       "/cursos/2025-uflo-text-mining/index.html",
@@ -59,6 +69,8 @@
   {
     "listing": "/cursos.html",
     "items": [
+      "/cursos/2025-webscrapping/index.html",
+      "/cursos/2026-cv-positron/index.html",
       "/cursos/2025-r-medicine/index.html",
       "/cursos/2025-mastering-shiny-chapter/index.html",
       "/cursos/2025-uflo-text-mining/index.html",
@@ -72,6 +84,10 @@
   {
     "listing": "/publicaciones.html",
     "items": [
+      "/publicaciones/2026-fecundidad/index.html",
+      "/publicaciones/2025-autolesiones/index.html",
+      "/publicaciones/2025-recupero-de-gastos/index.html",
+      "/publicaciones/2025-PDD/index.html",
       "/publicaciones/2024-latinr/index.html",
       "/publicaciones/2024-jaiio/index.html",
       "/publicaciones/2023-tablero-dicenlosmedios/index.html",
@@ -90,6 +106,10 @@
   {
     "listing": "/publicaciones_en.html",
     "items": [
+      "/publications/2026-fecundidad/index.html",
+      "/publications/2025-autolesiones/index.html",
+      "/publications/2025-recupero-de-gastos/index.html",
+      "/publications/2025-PDD/index.html",
       "/publications/2024-latinr/index.html",
       "/publications/2024-jaiio/index.html",
       "/publications/2023-tablero-dicen-los-medios/index.html",

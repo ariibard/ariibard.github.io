@@ -1,0 +1,21 @@
+---
+title: "Acceso a información sensible en el Gobierno de la Ciudad Autónoma de Buenos Aires (GCABA): elaboración de procedimientos para el uso de datos sanitarios en áreas de gestión"
+author: "Ariana Bardauil, María Cecilia Palermo & María Belén Islas"
+date: "2025-09-10"
+categories: [Academia, Salud]
+image: "imagen.png"
+page-layout: article
+---
+
+## Resumen
+
+Desde 2016, la implementación de la Historia Clínica Electrónica (HCE) en la Ciudad Autónoma de Buenos Aires plantea desafíos éticos y legales vinculados al uso de datos sanitarios sensibles. En Argentina, las leyes 25.326 y 26.529 y la Disposición 7/2008 establecen criterios para su tratamiento, acceso y cesión, destacando la confidencialidad como principio central. Sin embargo, persisten vacancias normativas respecto del uso de datos nominalizados para fines de gestión, especialmente en el nivel central. Ante la demanda creciente de información sensible nominalizada, la Gerencia Operativa de Gestión de Información y Estadística en Salud desarrolló en 2024 un procedimiento formal que incluye convenios de confidencialidad y un circuito que exige identificar responsables, equipos de trabajo y finalidades de uso. El objetivo es garantizar el tratamiento ético de los datos, resguardar la privacidad y formalizar los canales de solicitud de información sanitaria nominalizada. En este trabajo se describe la implementación de dicho procedimiento y se analizan sus resultados iniciales.
+
+---
+
+## Recursos
+
+- 📄 [Ver artículo](https://revistas.unlp.edu.ar/JAIIO/article/view/19544)
+- 📥 [Descargar PDF](https://revistas.unlp.edu.ar/JAIIO/article/view/19544/19557)
+
+---

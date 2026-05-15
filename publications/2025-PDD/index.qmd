@@ -1,0 +1,21 @@
+---
+title: "Access to Sensitive Information in the Government of Buenos Aires City: Developing Procedures for the Use of Health Data in Management Areas"
+author: "Ariana Bardauil, María Cecilia Palermo & María Belén Islas"
+date: "2025-09-10"
+categories: [Academia, Health]
+image: "imagen.png"
+page-layout: article
+---
+
+## Abstract
+
+Since 2016, the implementation of the Electronic Health Record (EHR) in Buenos Aires City has raised ethical and legal challenges related to the use of sensitive health data. Argentina's Laws 25.326 and 26.529 and Provision 7/2008 establish criteria for data handling, access, and transfer, with confidentiality as a central principle. However, regulatory gaps persist regarding the use of nominalized data for management purposes, particularly at the central level. Facing growing demand for nominalized sensitive information, the Health Information and Statistics Management Office developed a formal procedure in 2024 that includes confidentiality agreements and a circuit requiring applicants to identify data managers, team members, and intended purposes. The goal is to ensure ethical data handling, protect privacy, and formalize channels for requesting nominalized health information. This paper describes the implementation of the procedure and analyzes its initial results.
+
+---
+
+## Resources
+
+- 📄 [View article](https://revistas.unlp.edu.ar/JAIIO/article/view/19544)
+- 📥 [Download PDF](https://revistas.unlp.edu.ar/JAIIO/article/view/19544/19557)
+
+---

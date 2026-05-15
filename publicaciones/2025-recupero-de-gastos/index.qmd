@@ -1,0 +1,21 @@
+---
+title: "Automatización del recupero de gastos del sistema público de salud de la Ciudad Autónoma de Buenos Aires"
+author: "María Luz Guerrero Giménez & Ariana Bardauil"
+date: "2025-10-21"
+categories: [Academia, Salud]
+image: "imagen.png"
+page-layout: article
+---
+
+## Resumen
+
+En Argentina, el sistema de salud se organiza bajo un modelo mixto y descentralizado en el que coexisten diferentes niveles de gestión y financiamiento. En este marco, el recupero de gastos en el subsistema público de la Ciudad Autónoma de Buenos Aires (CABA), regulado por la Ley 5.622 y sus modificatorias, busca recuperar los costos de la atención de pacientes con cobertura de salud que reciben servicios en la Red Integral de Cuidados Progresivos del subsector público. A partir de la implementación de la Historia Clínica Electrónica (HCE) y la progresiva digitalización de los datos clínicos, la Gerencia Operativa de Gestión de Información y Estadísticas de Salud (GOGIES) inició un proyecto de automatización documental. Con la creciente complejidad del sistema y el volumen de datos, se rediseñaron los procesos de generación documental mediante flujos de trabajo basados en grafos acíclicos dirigidos (DAGs), utilizando herramientas de código abierto como R y GO, lo que permitió mejorar la eficiencia computacional, escalar la generación de reportes y garantizar su disponibilidad oportuna para la facturación.
+
+---
+
+## Recursos
+
+- 📄 [Ver artículo](https://revistas.unlp.edu.ar/JAIIO/article/view/19873)
+- 📥 [Descargar PDF](https://revistas.unlp.edu.ar/JAIIO/article/view/19873/20110)
+
+---

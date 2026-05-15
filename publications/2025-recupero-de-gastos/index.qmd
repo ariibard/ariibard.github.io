@@ -1,0 +1,21 @@
+---
+title: "Automation of Cost Recovery in the Public Health System of the Autonomous City of Buenos Aires"
+author: "María Luz Guerrero Giménez & Ariana Bardauil"
+date: "2025-10-21"
+categories: [Academia, Health]
+image: "imagen.png"
+page-layout: article
+---
+
+## Abstract
+
+In Argentina, the health system operates under a mixed and decentralized model combining different levels of management and financing. Within this framework, the cost recovery process in the public health subsystem of Buenos Aires City (CABA), regulated by Law 5.622 and its amendments, aims to recover the costs of health services provided to patients with insurance coverage. Following the implementation of the Electronic Health Record (EHR) system and the progressive digitalization of clinical data, the Health Information and Statistics Management Office (GOGIES) launched a document automation project. As the system grew more complex and data volumes increased, document generation processes were redesigned using workflows based on Directed Acyclic Graphs (DAGs) and open-source tools such as R and GO, enabling greater computational efficiency, scalable report generation, and timely availability of documents for billing purposes.
+
+---
+
+## Resources
+
+- 📄 [View article](https://revistas.unlp.edu.ar/JAIIO/article/view/19873)
+- 📥 [Download PDF](https://revistas.unlp.edu.ar/JAIIO/article/view/19873/20110)
+
+---

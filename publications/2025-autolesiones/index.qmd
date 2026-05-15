@@ -1,0 +1,21 @@
+---
+title: "Detection of Patients with Self-Injuries and Suicide Attempts in the Electronic Registration System of Public Health Providers in Buenos Aires City and Preliminary Evaluation of Timely Care"
+author: "Ariana Bardauil, Alejandro Blumenfeld, Florencia Faretta, Carolina Mengoni Goñalons, Rocío Porro, Franca Salerno & Carmín Zangari"
+date: "2025-10-21"
+categories: [Academia, Health]
+image: "imagen.png"
+page-layout: article
+---
+
+## Abstract
+
+Self-harm behavior is a deliberate, intentional, and direct act aimed at causing physical damage to one's own body with an immediate impact. Such episodes constitute marker events highlighting the need for timely and appropriate therapeutic intervention, making it necessary to generate epidemiological information on mental health that reflects the magnitude and frequency of these issues in the population. To this end, the Programmatic Area of Argerich Hospital, the Information and Statistics Management Office, and the Epidemiology Management Office initiated a collaborative process for detecting self-injuries and suicide attempts in electronic medical records. The objective was to build an automated process for identifying patients and facilitating their access to mental health professionals, using text processing tools and regular expressions. Key terms were identified through bibliographic searches, reading of medical records, and interviews with professionals, resulting in a final list of 298 unique expressions linked to the entities of interest.
+
+---
+
+## Resources
+
+- 📄 [View article](https://revistas.unlp.edu.ar/JAIIO/article/view/19903)
+- 📥 [Download PDF](https://revistas.unlp.edu.ar/JAIIO/article/view/19903/20142)
+
+---

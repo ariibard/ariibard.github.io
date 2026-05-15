@@ -1,0 +1,23 @@
+---
+title: "Armá tu CV en Positron"
+author: "Ariana Bardauil"
+date: "2026-03-19"
+categories: [Taller, R]
+image: "imagen.png"
+page-layout: article
+---
+
+## Descripción
+
+Encuentro práctico organizado por **R en Buenos Aires** donde aprendimos a usar **Positron**, la nueva IDE de Posit, mientras creábamos un CV reproducible con **Quarto y Typst**. El taller guió paso a paso la estructuración de la información personal y la generación de un CV moderno y fácil de actualizar, sin requerir conocimientos previos.
+
+📅 Jueves 19 de marzo de 2026 – 18:30 hs
+🌐 Evento en línea
+
+---
+
+## Recursos
+
+- 📌 [Materiales](https://ariibard.github.io/taller_arma_tu_cv_con_positron/)
+
+---

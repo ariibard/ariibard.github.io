@@ -1,0 +1,23 @@
+---
+title: "R en Acción: Webscraping con {rvest}"
+author: "Ariana Bardauil"
+date: "2025-11-10"
+categories: [Taller, R]
+image: "imagen.png"
+page-layout: article
+---
+
+## Descripción
+
+Taller práctico en el marco de **Campus Party**, donde exploramos el webscraping con el paquete `{rvest}` de R. Aprendimos a extraer y procesar información de sitios web de forma automatizada.
+
+📅 Lunes 10 de noviembre – 11 hs
+📍 Costa Salguero, Buenos Aires
+
+---
+
+## Recursos
+
+- 🖥️ [Ver presentación](https://ariibard.github.io/R-enBA-webscrapping/)
+
+---

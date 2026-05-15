@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.31">
+<meta name="generator" content="quarto-1.9.37">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -10,6 +10,9 @@
 
 <title>Cursos talleres &amp; charlas – Ariana Bardauil</title>
 <style>
+/* Default styles provided by pandoc.
+** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+*/
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
 div.columns{display: flex; gap: min(4vw, 1.5em);}
@@ -40,10 +43,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-64b991f69fb0c5352eaa916d9b5dad04.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-b1a5122c0f1328e899fae324dde6e62f.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-0ef5a286fecf9539689748a5fe3e29b4.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-19dd1d2dcfad0c522d26823806bf31e5.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <link href="site_libs/quarto-contrib/fontawesome6-0.1.0/all.css" rel="stylesheet">
 <link href="site_libs/quarto-contrib/fontawesome6-0.1.0/latex-fontsize.css" rel="stylesheet">
 <link href="site_libs/quarto-contrib/academicons-1.9.2/all.css" rel="stylesheet">
@@ -85,9 +88,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-project','listing-execute','listing-website','listing-format','listing-_quarto-vars','listing-language','listing-title','listing-author','listing-date','listing-categories','listing-image','listing-path','listing-outputHref','listing-date-modified','listing-description','listing-filename','listing-file-modified','listing-reading-time','listing-word-count','listing-page-layout','listing-title-block-banner','listing-toc','listing-toc-location',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-date-modified-sort'] },{ data: ['listing-file-modified-sort'] },{ data: ['listing-reading-time-sort'] },{ data: ['listing-word-count-sort'] }],
+      valueNames: ['listing-project','listing-execute','listing-website','listing-format','listing-engines','listing-_quarto-vars','listing-language','listing-title','listing-author','listing-date','listing-categories','listing-image','listing-path','listing-outputHref','listing-date-modified','listing-description','listing-filename','listing-file-modified','listing-reading-time','listing-word-count','listing-page-layout','listing-title-block-banner','listing-toc','listing-toc-location',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-date-modified-sort'] },{ data: ['listing-file-modified-sort'] },{ data: ['listing-reading-time-sort'] },{ data: ['listing-word-count-sort'] }],
       
-      searchColumns: ["listing-project","listing-execute","listing-website","listing-format","listing-_quarto-vars","listing-language","listing-title","listing-author","listing-date","listing-categories","listing-image","listing-path","listing-outputHref","listing-date-modified","listing-description","listing-filename","listing-file-modified","listing-reading-time","listing-word-count","listing-page-layout","listing-title-block-banner","listing-toc","listing-toc-location"],
+      searchColumns: ["listing-project","listing-execute","listing-website","listing-format","listing-engines","listing-_quarto-vars","listing-language","listing-title","listing-author","listing-date","listing-categories","listing-image","listing-path","listing-outputHref","listing-date-modified","listing-description","listing-filename","listing-file-modified","listing-reading-time","listing-word-count","listing-page-layout","listing-title-block-banner","listing-toc","listing-toc-location"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -112,7 +115,7 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
   <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
 <script type="text/javascript">
 const typesetMath = (el) => {
@@ -125,7 +128,7 @@ const typesetMath = (el) => {
     var macros = [];
     for (var i = 0; i < mathElements.length; i++) {
       var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
         window.katex.render(texText.data, mathElements[i], {
           displayMode: mathElements[i].classList.contains('display'),
           throwOnError: false,
@@ -145,11 +148,11 @@ window.Quarto = {
 <link rel="stylesheet" href="estilos/proyectos.css">
 <meta property="og:title" content="Cursos talleres &amp; charlas – Ariana Bardauil">
 <meta property="og:description" content="En esta sección comparto algunas de las charlas, cursos y talleres en los que participé, junto con materiales que suelo armar para acompañar esos espacios. La mayoría están disponibles en GitHub.">
-<meta property="og:image" content="ariibard.github.io/cursos/2025-r-medicine/imagen.png">
+<meta property="og:image" content="ariibard.github.io/cursos/2025-webscrapping/imagen.png">
 <meta property="og:site_name" content="Ariana Bardauil">
-<meta property="og:image:alt" content="Optimización del Recupero de Gastos en Salud Pública con R — R/Medicine 2025">
-<meta property="og:image:height" content="782">
-<meta property="og:image:width" content="1321">
+<meta property="og:image:alt" content="Armá tu CV en Positron">
+<meta property="og:image:height" content="635">
+<meta property="og:image:width" content="1393">
 </head>
 
 <body class="nav-fixed quarto-light">
@@ -240,7 +243,7 @@ window.Quarto = {
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(8)</span></div><div class="category" data-category="Y2hhcmxh">charla <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Y29tdW5pZGFk">comunidad <span class="quarto-category-count">(2)</span></div><div class="category" data-category="ZGljZW4lMjBsb3MlMjBtZWRpb3M=">dicen los medios <span class="quarto-category-count">(1)</span></div><div class="category" data-category="RG9jZW5jaWE=">Docencia <span class="quarto-category-count">(1)</span></div><div class="category" data-category="TkxQ">NLP <span class="quarto-category-count">(1)</span></div><div class="category" data-category="UXVhcnRv">Quarto <span class="quarto-category-count">(1)</span></div><div class="category" data-category="cXVhcnRv">quarto <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Ug==">R <span class="quarto-category-count">(5)</span></div><div class="category" data-category="UmVjdXBlcm8lMjBkZSUyMEdhc3Rvcw==">Recupero de Gastos <span class="quarto-category-count">(1)</span></div><div class="category" data-category="U2FsdWQ=">Salud <span class="quarto-category-count">(1)</span></div><div class="category" data-category="c2hpbnk=">shiny <span class="quarto-category-count">(1)</span></div><div class="category" data-category="U2hpbnlBcHBz">ShinyApps <span class="quarto-category-count">(1)</span></div><div class="category" data-category="dGFsbGVy">taller <span class="quarto-category-count">(1)</span></div><div class="category" data-category="dGV4dCUyMG1pbmluZw==">text mining <span class="quarto-category-count">(1)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(10)</span></div><div class="category" data-category="Y2hhcmxh">charla <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Y29tdW5pZGFk">comunidad <span class="quarto-category-count">(2)</span></div><div class="category" data-category="ZGljZW4lMjBsb3MlMjBtZWRpb3M=">dicen los medios <span class="quarto-category-count">(1)</span></div><div class="category" data-category="RG9jZW5jaWE=">Docencia <span class="quarto-category-count">(1)</span></div><div class="category" data-category="TkxQ">NLP <span class="quarto-category-count">(1)</span></div><div class="category" data-category="UXVhcnRv">Quarto <span class="quarto-category-count">(1)</span></div><div class="category" data-category="cXVhcnRv">quarto <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Ug==">R <span class="quarto-category-count">(7)</span></div><div class="category" data-category="UmVjdXBlcm8lMjBkZSUyMEdhc3Rvcw==">Recupero de Gastos <span class="quarto-category-count">(1)</span></div><div class="category" data-category="U2FsdWQ=">Salud <span class="quarto-category-count">(1)</span></div><div class="category" data-category="c2hpbnk=">shiny <span class="quarto-category-count">(1)</span></div><div class="category" data-category="U2hpbnlBcHBz">ShinyApps <span class="quarto-category-count">(1)</span></div><div class="category" data-category="VGFsbGVy">Taller <span class="quarto-category-count">(2)</span></div><div class="category" data-category="dGFsbGVy">taller <span class="quarto-category-count">(1)</span></div><div class="category" data-category="dGV4dCUyMG1pbmluZw==">text mining <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
 <main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
 
@@ -262,7 +265,63 @@ window.Quarto = {
 <div class="quarto-listing quarto-listing-container-custom" id="listing-listing">
 <div class="list blog">
     
-    <div class="blog-entry" data-index="0" data-categories="U2FsdWQlMkNSZWN1cGVybyUyMGRlJTIwR2FzdG9zJTJDUg==" data-listing-date-sort="1749870000000" data-listing-file-modified-sort="1749931712870" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="122">
+    <div class="blog-entry" data-index="0" data-categories="VGFsbGVyJTJDUg==" data-listing-date-sort="1773889200000" data-listing-file-modified-sort="1778851290744" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="69">
+        <div class="metadata">          
+            <p class="date listing-date">Mar 19, 2026</p>
+        </div>
+        <div class="body">
+            <p class="title listing-title"><a href="./cursos/2025-webscrapping/index.html">Armá tu CV en Positron</a></p>
+            
+            <div class="post-categories listing-categories">
+                
+                <div class="post-category listing-category" onclick="window.quartoListingCategory('Taller'); return false;">
+                    Taller
+                </div>
+                
+                <div class="post-category listing-category" onclick="window.quartoListingCategory('R'); return false;">
+                    R
+                </div>
+                
+            </div>
+            
+            <p class="description listing-description">Encuentro práctico organizado por <strong>R en Buenos Aires</strong> donde aprendimos a usar <strong>Positron</strong>, la nueva IDE de Posit, mientras creábamos un CV reproducible con <strong>Quarto y Typst</strong>. El…</p>
+        </div>
+        
+        <div class="thumbnail">
+            <img src="./cursos/2025-webscrapping/imagen.png" alt="Armá tu CV en Positron" title="Armá tu CV en Positron">
+        </div>
+        
+    </div>
+    
+    <div class="blog-entry" data-index="1" data-categories="VGFsbGVyJTJDUg==" data-listing-date-sort="1762743600000" data-listing-file-modified-sort="1778851154647" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="45">
+        <div class="metadata">          
+            <p class="date listing-date">Nov 10, 2025</p>
+        </div>
+        <div class="body">
+            <p class="title listing-title"><a href="./cursos/2026-cv-positron/index.html">R en Acción: Webscraping con {rvest}</a></p>
+            
+            <div class="post-categories listing-categories">
+                
+                <div class="post-category listing-category" onclick="window.quartoListingCategory('Taller'); return false;">
+                    Taller
+                </div>
+                
+                <div class="post-category listing-category" onclick="window.quartoListingCategory('R'); return false;">
+                    R
+                </div>
+                
+            </div>
+            
+            <p class="description listing-description">Taller práctico en el marco de <strong>Campus Party</strong>, donde exploramos el webscraping con el paquete <code>{rvest}</code> de R. Aprendimos a extraer y procesar información de sitios web de forma…</p>
+        </div>
+        
+        <div class="thumbnail">
+            <img src="./cursos/2026-cv-positron/imagen.png" alt="R en Acción: Webscraping con {rvest}" title="R en Acción: Webscraping con {rvest}">
+        </div>
+        
+    </div>
+    
+    <div class="blog-entry" data-index="2" data-categories="U2FsdWQlMkNSZWN1cGVybyUyMGRlJTIwR2FzdG9zJTJDUg==" data-listing-date-sort="1749870000000" data-listing-file-modified-sort="1751464398749" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="122">
         <div class="metadata">          
             <p class="date listing-date">Jun 14, 2025</p>
         </div>
@@ -294,7 +353,7 @@ window.Quarto = {
         
     </div>
     
-    <div class="blog-entry" data-index="1" data-categories="U2hpbnlBcHBz" data-listing-date-sort="1747191600000" data-listing-file-modified-sort="1749931516236" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="138">
+    <div class="blog-entry" data-index="3" data-categories="U2hpbnlBcHBz" data-listing-date-sort="1747191600000" data-listing-file-modified-sort="1751464398744" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="138">
         <div class="metadata">          
             <p class="date listing-date">May 14, 2025</p>
         </div>
@@ -318,7 +377,7 @@ window.Quarto = {
         
     </div>
     
-    <div class="blog-entry" data-index="2" data-categories="dGV4dCUyMG1pbmluZyUyQ1IlMkNRdWFydG8=" data-listing-date-sort="1743994800000" data-listing-file-modified-sort="1749930617807" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="65">
+    <div class="blog-entry" data-index="4" data-categories="dGV4dCUyMG1pbmluZyUyQ1IlMkNRdWFydG8=" data-listing-date-sort="1743994800000" data-listing-file-modified-sort="1751464398750" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="65">
         <div class="metadata">          
             <p class="date listing-date">Apr 7, 2025</p>
         </div>
@@ -350,7 +409,7 @@ window.Quarto = {
         
     </div>
     
-    <div class="blog-entry" data-index="3" data-categories="cXVhcnRvJTJDc2hpbnklMkNjb211bmlkYWQ=" data-listing-date-sort="1741143600000" data-listing-file-modified-sort="1744067006079" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="44">
+    <div class="blog-entry" data-index="5" data-categories="cXVhcnRvJTJDc2hpbnklMkNjb211bmlkYWQ=" data-listing-date-sort="1741143600000" data-listing-file-modified-sort="1751464398745" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="44">
         <div class="metadata">          
             <p class="date listing-date">Mar 5, 2025</p>
         </div>
@@ -382,7 +441,7 @@ window.Quarto = {
         
     </div>
     
-    <div class="blog-entry" data-index="4" data-categories="cXVhcnRvJTJDY2hhcmxhJTJDUiUyQ2NvbXVuaWRhZA==" data-listing-date-sort="1734663600000" data-listing-file-modified-sort="1744064495881" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="125">
+    <div class="blog-entry" data-index="6" data-categories="cXVhcnRvJTJDY2hhcmxhJTJDUiUyQ2NvbXVuaWRhZA==" data-listing-date-sort="1734663600000" data-listing-file-modified-sort="1751464398726" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="125">
         <div class="metadata">          
             <p class="date listing-date">Dec 20, 2024</p>
         </div>
@@ -418,7 +477,7 @@ window.Quarto = {
         
     </div>
     
-    <div class="blog-entry" data-index="5" data-categories="ZGljZW4lMjBsb3MlMjBtZWRpb3MlMkNOTFAlMkNjaGFybGE=" data-listing-date-sort="1733108400000" data-listing-file-modified-sort="1744064503797" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="236">
+    <div class="blog-entry" data-index="7" data-categories="ZGljZW4lMjBsb3MlMjBtZWRpb3MlMkNOTFAlMkNjaGFybGE=" data-listing-date-sort="1733108400000" data-listing-file-modified-sort="1751464398731" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="236">
         <div class="metadata">          
             <p class="date listing-date">Dec 2, 2024</p>
         </div>
@@ -450,7 +509,7 @@ window.Quarto = {
         
     </div>
     
-    <div class="blog-entry" data-index="6" data-categories="dGFsbGVyJTJDUg==" data-listing-date-sort="1730170800000" data-listing-file-modified-sort="1744064075375" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="34">
+    <div class="blog-entry" data-index="8" data-categories="dGFsbGVyJTJDUg==" data-listing-date-sort="1730170800000" data-listing-file-modified-sort="1751464398737" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="34">
         <div class="metadata">          
             <p class="date listing-date">Oct 29, 2024</p>
         </div>
@@ -478,7 +537,7 @@ window.Quarto = {
         
     </div>
     
-    <div class="blog-entry" data-index="7" data-categories="RG9jZW5jaWElMkNS" data-listing-date-sort="1700708400000" data-listing-file-modified-sort="1742689320121" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="216">
+    <div class="blog-entry" data-index="9" data-categories="RG9jZW5jaWElMkNS" data-listing-date-sort="1700708400000" data-listing-file-modified-sort="1751464398725" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="216">
         <div class="metadata">          
             <p class="date listing-date">Nov 23, 2023</p>
         </div>
@@ -560,13 +619,14 @@ window.Quarto = {
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-        const codeEl = trigger.previousElementSibling.cloneNode(true);
-        for (const childEl of codeEl.children) {
-          if (isCodeAnnotation(childEl)) {
-            childEl.remove();
-          }
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
         }
-        return codeEl.innerText;
+      }
+      return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy

@@ -15,8 +15,7 @@ css: estilos/proyectos.css
 
 ::: {.team-grid}
 ::: {.team-card}
-![R en Buenos Aires](https://renbaires.github.io/assets/icons/icon.png)
-
+![R en Buenos Aires](https://renbaires.github.io/image/BA-1.png)
 Co-organizadora de la comunidad local que promueve el uso de R en ciencia de datos en Buenos Aires, Argentina.
 
 <a href="https://www.linkedin.com/company/r-en-buenos-aires" target="_blank"><i class="bi bi-linkedin"></i></a><a href="https://github.com/renbaires" target="_blank"><i class="bi bi-github"></i></a><a href="mailto:renbairesl@gmail.com"><i class="bi bi-envelope"></i></a><a href="renbaires.github.io" target="_blank"><i class="bi bi-globe"></i></a><a href="https://www.instagram.com/renbaires" target="_blank"><i class="bi bi-instagram"></i></a>

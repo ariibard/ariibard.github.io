@@ -259,5 +259,35 @@
   },
   "cursos/2025-r-medicine/index.qmd": {
     "index.html": "26a81099"
+  },
+  "publicaciones/2026-fecundidad/index.qmd": {
+    "index.html": "e3ba73bb"
+  },
+  "publicaciones/2025-PDD/index.qmd": {
+    "index.html": "68ec5346"
+  },
+  "publicaciones/2025-autolesiones/index.qmd": {
+    "index.html": "223e2491"
+  },
+  "publicaciones/2025-recupero-de-gastos/index.qmd": {
+    "index.html": "7029f344"
+  },
+  "publications/2025-PDD/index.qmd": {
+    "index.html": "8667b80a"
+  },
+  "publications/2025-autolesiones/index.qmd": {
+    "index.html": "03649a83"
+  },
+  "publications/2025-recupero-de-gastos/index.qmd": {
+    "index.html": "cf4065ab"
+  },
+  "publications/2026-fecundidad/index.qmd": {
+    "index.html": "3241df8d"
+  },
+  "cursos/2025-webscrapping/index.qmd": {
+    "index.html": "6349d656"
+  },
+  "cursos/2026-cv-positron/index.qmd": {
+    "index.html": "8af8f97d"
   }
 }

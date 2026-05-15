@@ -17,7 +17,7 @@ about:
 
 Lic. en Ciencia Política especializada en Ciencia de Datos 🇦🇷
 
-Docente universitaria en [**UNLaM**](https://www.unlam.edu.ar/)& [**UFLO**](https://www.uflouniversidad.edu.ar/).
+Docente universitaria en [**UNLaM**](https://www.unlam.edu.ar/), [**UBA**](https://www.sociales.uba.ar/posgrados/paecis/) & [**UFLO**](https://www.uflouniversidad.edu.ar/).
 
 Coorganizadora de [R en Buenos Aires](https://renbaires.github.io/) y coordinadora del [Núcleo de Innovación Social](https://nucleodeinnovacionsocial.com.ar/)
 

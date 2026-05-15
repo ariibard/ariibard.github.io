@@ -1,0 +1,22 @@
+---
+title: "Fecundidad masculina: aproximaciones y contribuciones para un campo en construcción"
+author: "María Victoria Castilla & Ariana Bardauil"
+date: "2025-11-13"
+categories: [Academia, Demografía]
+image: "imagen.png"
+page-layout: article
+---
+
+## Resumen
+
+La fecundidad masculina ha sido históricamente relegada en los estudios demográficos, centrados casi exclusivamente en las trayectorias reproductivas femeninas. En este artículo se presenta un análisis exploratorio de la fecundidad de los varones en Argentina a partir de los registros del RENAPER correspondientes al período 2012–2022. El estudio aborda la edad de los padres al momento del nacimiento de sus hijos/as, las tendencias temporales en la paternidad registrada y las diferencias respecto a los registros de fecundidad femenina. Se identifican obstáculos metodológicos y estructurales para una medición precisa de la fecundidad masculina, patrones de postergación de la paternidad y brechas persistentes entre madres y padres según edad.
+
+---
+
+## Recursos
+
+- 📄 [Ver artículo](https://revista.estadisticaciudad.gob.ar/ojs/index.php/poblacionba/article/view/272)
+- 📥 [Descargar PDF](https://revista.estadisticaciudad.gob.ar/ojs/index.php/poblacionba/article/download/272/343)
+
+---
+
